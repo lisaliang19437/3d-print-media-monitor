@@ -1,0 +1,24 @@
+{
+  "date": "2026-03-17",
+  "updated_at": "2026-03-17 08:11 UTC",
+  "stats": {
+    "total": 0,
+    "total_reach_display": "0",
+    "brands_hit": 0,
+    "brands_total": 10,
+    "media_count": 0
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 0,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 0,
+    "Cricut": 0
+  },
+  "articles": []
+}
