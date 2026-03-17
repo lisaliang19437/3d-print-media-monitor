@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>3D Print Media Monitor</title>
+  <style>
+    :root {
+      --bg-primary: #0a0d14;
+      --bg-secondary: #111827;
+      --bg-card: #161d2e;
+      --bg-card-hover: #1c2540;
+      --border: #1e2d47;
+      --border-light: #253555;
+      --accent-blue: #3b82f6;
+      --accent-cyan: #06b6d4;
+      --accent-purple: #8b5cf6;
+      --accent-green: #10b981;
+      --accent-orange: #f59e0b;
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-muted: #4b6080;
+      --gradient-1: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+      --gradient-2: linear-gradient(135deg, #06b6d4 0%, #3b82f6 100%);
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', system-ui, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(59,130,246,0.04) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(59,130,246,0.04) 1px, transparent 1px);
+      background-size: 40px 40px;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* ─── Topbar ─── */
+    .topbar {
+      position: sticky; top: 0; z-index: 100;
+      backdrop-filter: blur(16px);
+      background: rgba(10,13,20,0.85);
+      border-bottom: 1px solid var(--border);
+      padding: 0 32px; height: 60px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .logo { display: flex; align-items: center; gap: 10px; }
+    .logo-icon {
+      width: 28px; height: 28px;
+      background: var(--gradient-1);
+      border-radius: 6px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 14px;
+    }
+    .logo-text { font-size: 15px; font-weight: 700; letter-spacing: 0.02em; }
+    .logo-text span { color: var(--accent-blue); }
+    .topbar-right { display: flex; align-items: center; gap: 12px; }
+    .live-badge {
+      display: flex; align-items: center; gap: 6px;
+      padding: 4px 10px;
+      background: rgba(16,185,129,0.12);
+      border: 1px solid rgba(16,185,129,0.3);
+      border-radius: 20px;
+      font-size: 11px; font-weight: 600; color: var(--accent-green);
+      letter-spacing: 0.05em;
+    }
+    .live-dot {
+      width: 6px; height: 6px; border-radius: 50%;
+      background: var(--accent-green);
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%,100% { opacity:1; transform:scale(1); }
+      50%      { opacity:.5; transform:scale(.8); }
+    }
+    .last-update { font-size: 11px; color: var(--text-muted); }
+
+    /* ─── Layout ─── */
+    .container {
+      position: relative; z-index: 1;
+      max-width: 1280px; margin: 0 auto;
+      padding: 32px 32px 64px;
+    }
+    .page-header { margin-bottom: 32px; }
+    .page-header h1 {
+      font-size: 26px; font-weight: 700; letter-spacing: -0.02em;
+      margin-bottom: 6px;
+    }
+    .page-header h1 span {
+      background: var(--gradient-1);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    }
+    .page-header p { font-size: 14px; color: var(--text-secondary); }
+
+    /* ─── Date nav ─── */
+    .date-nav {
+      display: flex; gap: 8px; margin-bottom: 28px;
+      overflow-x: auto; scrollbar-width: none; padding-bottom: 4px;
+    }
+    .date-nav::-webkit-scrollbar { display: none; }
+    .date-btn {
+      padding: 7px 14px; border-radius: 8px;
+      border: 1px solid var(--border); background: var(--bg-card);
+      color: var(--text-secondary); font-size: 12px; font-weight: 500;
+      cursor: pointer; white-space: nowrap; transition: all 0.15s;
+    }
+    .date-btn:hover { border-color: var(--accent-blue); color: var(--text-primary); }
+    .date-btn.active {
+      background: var(--accent-blue); border-color: var(--accent-blue);
+      color: #fff; font-weight: 600;
+    }
+    .date-btn .dot {
+      display: inline-block; width: 5px; height: 5px;
+      border-radius: 50%; background: var(--accent-green);
+      margin-left: 5px; vertical-align: middle;
+    }
+
+    /* ─── Stats ─── */
+    .stats-row {
+      display: grid; grid-template-columns: repeat(4,1fr); gap: 16px;
+      margin-bottom: 28px;
+    }
+    @media (max-width: 900px) { .stats-row { grid-template-columns: repeat(2,1fr); } }
+    .stat-card {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 12px; padding: 20px;
+      position: relative; overflow: hidden; transition: border-color 0.2s;
+    }
+    .stat-card:hover { border-color: var(--border-light); }
+    .stat-card::before {
+      content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+    }
+    .stat-card.blue::before   { background: var(--gradient-2); }
+    .stat-card.purple::before { background: var(--gradient-1); }
+    .stat-card.green::before  { background: linear-gradient(90deg,#10b981,#06b6d4); }
+    .stat-card.orange::before { background: linear-gradient(90deg,#f59e0b,#ef4444); }
+    .stat-label {
+      font-size: 11px; font-weight: 600; letter-spacing: 0.08em;
+      text-transform: uppercase; color: var(--text-muted); margin-bottom: 10px;
+    }
+    .stat-value {
+      font-size: 32px; font-weight: 800; letter-spacing: -0.03em;
+      line-height: 1; margin-bottom: 6px;
+    }
+    .stat-card.blue .stat-value   { color: var(--accent-cyan); }
+    .stat-card.purple .stat-value { color: var(--accent-purple); }
+    .stat-card.green .stat-value  { color: var(--accent-green); }
+    .stat-card.orange .stat-value { color: var(--accent-orange); }
+    .stat-sub { font-size: 12px; color: var(--text-secondary); }
+
+    /* ─── Brand bars ─── */
+    .brand-summary {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 12px; padding: 20px; margin-bottom: 28px;
+    }
+    .brand-summary-title {
+      font-size: 11px; font-weight: 700; letter-spacing: 0.08em;
+      text-transform: uppercase; color: var(--text-muted); margin-bottom: 14px;
+    }
+    .brand-bars {
+      display: grid; grid-template-columns: repeat(5,1fr); gap: 12px;
+    }
+    @media (max-width: 700px) { .brand-bars { grid-template-columns: repeat(2,1fr); } }
+    .brand-bar-name {
+      font-size: 11px; font-weight: 600; color: var(--text-secondary);
+      margin-bottom: 5px; display: flex; justify-content: space-between;
+    }
+    .brand-bar-name span { color: var(--text-muted); font-weight: 400; }
+    .brand-bar-track {
+      height: 4px; background: rgba(255,255,255,0.06);
+      border-radius: 2px; overflow: hidden;
+    }
+    .brand-bar-fill {
+      height: 100%; border-radius: 2px; width: 0;
+      transition: width 0.7s ease;
+    }
+
+    /* ─── Media strip ─── */
+    .media-strip {
+      display: flex; gap: 8px; flex-wrap: wrap;
+      margin-bottom: 28px; align-items: center;
+    }
+    .media-strip-label {
+      font-size: 11px; font-weight: 600; text-transform: uppercase;
+      letter-spacing: 0.06em; color: var(--text-muted); margin-right: 4px;
+    }
+    .media-tag {
+      padding: 3px 9px; border-radius: 4px;
+      background: rgba(255,255,255,0.04); border: 1px solid var(--border);
+      font-size: 11px; color: var(--text-secondary); font-weight: 500;
+    }
+    .media-tag.tier1 { border-color: rgba(59,130,246,0.3);   color: #93c5fd; }
+    .media-tag.tier2 { border-color: rgba(139,92,246,0.3);   color: #c4b5fd; }
+
+    /* ─── Filter row ─── */
+    .section-header {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 16px; flex-wrap: wrap; gap: 10px;
+    }
+    .section-title {
+      font-size: 13px; font-weight: 700; letter-spacing: 0.06em;
+      text-transform: uppercase; color: var(--text-secondary);
+    }
+    .filter-row { display: flex; gap: 8px; flex-wrap: wrap; }
+    .pill {
+      padding: 5px 12px; border-radius: 20px;
+      border: 1px solid var(--border); background: var(--bg-card);
+      color: var(--text-secondary); font-size: 12px; font-weight: 500;
+      cursor: pointer; transition: all 0.15s; user-select: none;
+    }
+    .pill:hover { border-color: var(--accent-blue); color: var(--text-primary); }
+    .pill.active {
+      background: rgba(59,130,246,0.15); border-color: var(--accent-blue);
+      color: var(--accent-blue); font-weight: 600;
+    }
+
+    /* ─── Category sections ─── */
+    .cat-section { margin-bottom: 36px; }
+    .cat-header {
+      display: flex; align-items: center; gap: 10px;
+      margin-bottom: 14px; padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+    }
+    .cat-icon {
+      width: 30px; height: 30px; border-radius: 8px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 14px;
+    }
+    .cat-icon.news   { background: rgba(59,130,246,0.15); }
+    .cat-icon.review { background: rgba(139,92,246,0.15); }
+    .cat-icon.social { background: rgba(16,185,129,0.15); }
+    .cat-name { font-size: 15px; font-weight: 700; }
+    .cat-count {
+      margin-left: auto; padding: 2px 8px; border-radius: 12px;
+      font-size: 11px; font-weight: 700;
+    }
+    .cat-count.news   { background: rgba(59,130,246,0.15); color: var(--accent-blue); }
+    .cat-count.review { background: rgba(139,92,246,0.15); color: var(--accent-purple); }
+    .cat-count.social { background: rgba(16,185,129,0.15); color: var(--accent-green); }
+
+    /* ─── Article cards ─── */
+    .articles-grid { display: flex; flex-direction: column; gap: 12px; }
+    .article-card {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 12px; padding: 18px 20px;
+      display: grid; grid-template-columns: 1fr auto;
+      gap: 12px; align-items: start;
+      transition: all 0.2s; cursor: pointer;
+    }
+    .article-card:hover {
+      background: var(--bg-card-hover); border-color: var(--border-light);
+      transform: translateY(-1px); box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+    }
+    .article-meta {
+      display: flex; align-items: center; gap: 8px;
+      margin-bottom: 8px; flex-wrap: wrap;
+    }
+    .media-logo {
+      display: flex; align-items: center; gap: 5px;
+      font-size: 11px; font-weight: 700;
+      color: var(--text-secondary); letter-spacing: 0.02em;
+    }
+    .media-dot { width: 8px; height: 8px; border-radius: 2px; }
+    .article-title {
+      font-size: 14px; font-weight: 600; color: var(--text-primary);
+      line-height: 1.5; margin-bottom: 8px;
+    }
+    .article-title a { color: inherit; text-decoration: none; }
+    .article-title a:hover { color: var(--accent-blue); }
+    .article-recap {
+      font-size: 12px; color: var(--text-secondary); line-height: 1.6;
+      padding: 8px 12px;
+      background: rgba(255,255,255,0.03);
+      border-left: 2px solid var(--border-light);
+      border-radius: 0 4px 4px 0; margin-bottom: 8px;
+    }
+    .article-tags { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+    .tag {
+      padding: 2px 8px; border-radius: 4px;
+      font-size: 10px; font-weight: 700;
+      letter-spacing: 0.04em; text-transform: uppercase;
+    }
+    .tag-brand    { background: rgba(59,130,246,0.12);  color: #93c5fd;  border: 1px solid rgba(59,130,246,0.25); }
+    .tag-eufy     { background: rgba(6,182,212,0.12);   color: #67e8f9;  border: 1px solid rgba(6,182,212,0.25); }
+    .tag-bambu    { background: rgba(16,185,129,0.12);  color: #6ee7b7;  border: 1px solid rgba(16,185,129,0.25); }
+    .tag-elegoo   { background: rgba(245,158,11,0.12);  color: #fcd34d;  border: 1px solid rgba(245,158,11,0.25); }
+    .tag-creality { background: rgba(239,68,68,0.12);   color: #fca5a5;  border: 1px solid rgba(239,68,68,0.25); }
+    .tag-anycubic { background: rgba(139,92,246,0.12);  color: #c4b5fd;  border: 1px solid rgba(139,92,246,0.25); }
+    .tag-formlabs { background: rgba(236,72,153,0.12);  color: #f9a8d4;  border: 1px solid rgba(236,72,153,0.25); }
+    .tag-xtool    { background: rgba(251,191,36,0.12);  color: #fde68a;  border: 1px solid rgba(251,191,36,0.25); }
+    .tag-procolored{ background: rgba(52,211,153,0.12); color: #6ee7b7;  border: 1px solid rgba(52,211,153,0.25); }
+    .tag-cricut   { background: rgba(167,139,250,0.12); color: #ddd6fe;  border: 1px solid rgba(167,139,250,0.25); }
+    .tag-longer   { background: rgba(251,146,60,0.12);  color: #fed7aa;  border: 1px solid rgba(251,146,60,0.25); }
+    .tag-date     { color: var(--text-muted); font-size: 10px; font-weight: 500; }
+    .article-right {
+      display: flex; flex-direction: column; align-items: flex-end; gap: 8px;
+    }
+    .reach-badge { text-align: right; min-width: 90px; }
+    .reach-label {
+      font-size: 9px; font-weight: 700; letter-spacing: 0.08em;
+      text-transform: uppercase; color: var(--text-muted); margin-bottom: 2px;
+    }
+    .reach-value { font-size: 15px; font-weight: 800; letter-spacing: -0.02em; }
+    .reach-value.tier1 { color: var(--accent-cyan); }
+    .reach-value.tier2 { color: var(--accent-blue); }
+    .reach-value.tier3 { color: var(--accent-purple); }
+    .reach-value.tier4 { color: var(--text-secondary); }
+    .reach-unit { font-size: 10px; font-weight: 500; color: var(--text-muted); }
+    .rank-badge {
+      width: 20px; height: 20px; border-radius: 50%;
+      background: rgba(255,255,255,0.06); border: 1px solid var(--border);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 9px; font-weight: 700; color: var(--text-muted);
+    }
+    .rank-badge.top {
+      background: rgba(245,158,11,0.15); border-color: rgba(245,158,11,0.4);
+      color: var(--accent-orange);
+    }
+
+    /* ─── Loading / Error / Empty states ─── */
+    .state-box {
+      text-align: center; padding: 60px 32px;
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 16px; margin-top: 16px;
+    }
+    .state-box .state-icon { font-size: 40px; margin-bottom: 16px; }
+    .state-box h3 { font-size: 16px; font-weight: 600; margin-bottom: 8px; }
+    .state-box p  { font-size: 13px; color: var(--text-secondary); line-height: 1.6; }
+    .state-box code {
+      display: inline-block; margin-top: 12px; padding: 8px 16px;
+      background: rgba(0,0,0,0.4); border: 1px solid var(--border-light);
+      border-radius: 6px; font-size: 12px; color: var(--accent-cyan);
+      font-family: 'SF Mono', 'Fira Code', monospace;
+    }
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent-blue);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 16px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ─── Footer ─── */
+    .footer {
+      text-align: center; font-size: 11px; color: var(--text-muted);
+      padding-top: 32px; border-top: 1px solid var(--border);
+    }
+
+    /* ─── Scroll top ─── */
+    .scroll-top {
+      position: fixed; bottom: 28px; right: 28px;
+      width: 40px; height: 40px; border-radius: 50%;
+      background: var(--accent-blue); border: none; color: #fff;
+      font-size: 16px; cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      box-shadow: 0 4px 12px rgba(59,130,246,0.4); transition: transform 0.2s;
+      z-index: 50;
+    }
+    .scroll-top:hover { transform: scale(1.1); }
+  </style>
+</head>
+<body>
+
+<!-- Topbar -->
+<nav class="topbar">
+  <div class="logo">
+    <div class="logo-icon">📡</div>
+    <div class="logo-text">3D Print <span>Media Monitor</span></div>
+  </div>
+  <div class="topbar-right">
+    <span class="last-update" id="last-update">—</span>
+    <span class="live-badge"><span class="live-dot"></span>LIVE</span>
+  </div>
+</nav>
+
+<div class="container">
+
+  <!-- Page header -->
+  <div class="page-header">
+    <h1>3D Printing Industry <span>Media Intelligence</span></h1>
+    <p>Tracking 13 consumer tech &amp; maker media outlets · 10 brand keywords · Daily refresh</p>
+  </div>
+
+  <!-- Date nav (generated by JS) -->
+  <div class="date-nav" id="date-nav"></div>
+
+  <!-- Stats (populated by JS) -->
+  <div class="stats-row">
+    <div class="stat-card blue">
+      <div class="stat-label">Total Reports · Today</div>
+      <div class="stat-value" id="stat-total">—</div>
+      <div class="stat-sub" id="stat-total-sub">Loading…</div>
+    </div>
+    <div class="stat-card purple">
+      <div class="stat-label">Estimated Total Reach</div>
+      <div class="stat-value" id="stat-reach">—</div>
+      <div class="stat-sub">UVPM coverage</div>
+    </div>
+    <div class="stat-card green">
+      <div class="stat-label">Brands Mentioned</div>
+      <div class="stat-value" id="stat-brands">—</div>
+      <div class="stat-sub" id="stat-brands-sub">—</div>
+    </div>
+    <div class="stat-card orange">
+      <div class="stat-label">Media Outlets Active</div>
+      <div class="stat-value" id="stat-media">—</div>
+      <div class="stat-sub">with at least 1 hit</div>
+    </div>
+  </div>
+
+  <!-- Brand bars (populated by JS) -->
+  <div class="brand-summary">
+    <div class="brand-summary-title" id="brand-bar-title">Brand Mention Breakdown</div>
+    <div class="brand-bars" id="brand-bars"></div>
+  </div>
+
+  <!-- Media strip (static) -->
+  <div class="media-strip">
+    <span class="media-strip-label">Media Scope ·</span>
+    <span class="media-tag tier1">The Verge</span>
+    <span class="media-tag tier1">CNET</span>
+    <span class="media-tag tier1">Engadget</span>
+    <span class="media-tag tier1">TechCrunch</span>
+    <span class="media-tag tier1">Wired</span>
+    <span class="media-tag tier1">Tom's Guide</span>
+    <span class="media-tag tier1">ZDNet</span>
+    <span class="media-tag tier1">Digital Trends</span>
+    <span class="media-tag tier1">TechRadar</span>
+    <span class="media-tag tier1">PCMag</span>
+    <span class="media-tag tier1">Mashable</span>
+    <span class="media-tag tier1">Gizmodo</span>
+    <span class="media-tag tier1">SlashGear</span>
+    <span class="media-tag tier2">3DPrint.com</span>
+    <span class="media-tag tier2">All3DP</span>
+    <span class="media-tag tier2">Hackaday</span>
+    <span class="media-tag tier2">Make: Magazine</span>
+    <span class="media-tag tier2">3D Printing Industry</span>
+    <span class="media-tag tier2">Hackster.io</span>
+    <span class="media-tag tier2">Fabbaloo</span>
+  </div>
+
+  <!-- Brand filter row -->
+  <div class="section-header">
+    <span class="section-title" id="coverage-label">Coverage</span>
+    <div class="filter-row" id="brand-filter">
+      <span class="pill active" onclick="filterBrand(this,'all')">All Brands</span>
+      <span class="pill" onclick="filterBrand(this,'eufyMake')">eufyMake</span>
+      <span class="pill" onclick="filterBrand(this,'Bambu Lab')">Bambu Lab</span>
+      <span class="pill" onclick="filterBrand(this,'xTool')">xTool</span>
+      <span class="pill" onclick="filterBrand(this,'Procolored')">Procolored</span>
+      <span class="pill" onclick="filterBrand(this,'Anycubic')">Anycubic</span>
+      <span class="pill" onclick="filterBrand(this,'Formlabs')">Formlabs</span>
+      <span class="pill" onclick="filterBrand(this,'Longer')">Longer</span>
+      <span class="pill" onclick="filterBrand(this,'Elegoo')">Elegoo</span>
+      <span class="pill" onclick="filterBrand(this,'Creality')">Creality</span>
+      <span class="pill" onclick="filterBrand(this,'Cricut')">Cricut</span>
+    </div>
+  </div>
+
+  <!-- Article sections (generated by JS) -->
+  <div id="articles-container"></div>
+
+  <footer class="footer">
+    <p>3D Print Media Monitor · RSS data sourced from public media feeds ·
+       UVPM figures are static estimates for ranking purposes only ·
+       Auto-updated daily at 08:00 PST via GitHub Actions</p>
+  </footer>
+</div>
+
+<button class="scroll-top" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
+
+<script>
+// ─── Config ───────────────────────────────────────────────────────────────────
+
+const CATS = {
+  product_news:    { label: "产品资讯 · Product News",   icon: "📰", css: "news"   },
+  hands_on_review: { label: "深度测评 · Hands-on Review", icon: "🔬", css: "review" },
+  brand_news:      { label: "品牌动态 · Brand News",      icon: "🏷️", css: "social" },
+};
+const CAT_ORDER = ["product_news", "hands_on_review", "brand_news"];
+
+const BRAND_TAG = {
+  "eufyMake":   "tag-eufy",
+  "Bambu Lab":  "tag-bambu",
+  "xTool":      "tag-xtool",
+  "Procolored": "tag-procolored",
+  "Anycubic":   "tag-anycubic",
+  "Formlabs":   "tag-formlabs",
+  "Longer":     "tag-longer",
+  "Elegoo":     "tag-elegoo",
+  "Creality":   "tag-creality",
+  "Cricut":     "tag-cricut",
+};
+
+const BRAND_BAR_COLOR = {
+  "eufyMake":   "linear-gradient(90deg,#06b6d4,#3b82f6)",
+  "Bambu Lab":  "linear-gradient(90deg,#10b981,#06b6d4)",
+  "xTool":      "linear-gradient(90deg,#fbbf24,#f59e0b)",
+  "Procolored": "linear-gradient(90deg,#34d399,#10b981)",
+  "Anycubic":   "linear-gradient(90deg,#8b5cf6,#a855f7)",
+  "Formlabs":   "linear-gradient(90deg,#ec4899,#a855f7)",
+  "Longer":     "linear-gradient(90deg,#fb923c,#f97316)",
+  "Elegoo":     "linear-gradient(90deg,#f59e0b,#eab308)",
+  "Creality":   "linear-gradient(90deg,#ef4444,#f97316)",
+  "Cricut":     "linear-gradient(90deg,#a78bfa,#8b5cf6)",
+};
+
+const MEDIA_DOT_COLOR = {
+  "The Verge": "#3b82f6", "CNET": "#06b6d4", "Engadget": "#06b6d4",
+  "TechCrunch": "#f97316", "Wired": "#94a3b8", "Tom's Guide": "#3b82f6",
+  "ZDNet": "#64748b", "Digital Trends": "#8b5cf6", "TechRadar": "#0ea5e9",
+  "PCMag": "#ef4444", "Mashable": "#22c55e", "Gizmodo": "#f97316",
+  "SlashGear": "#ec4899", "3DPrint.com": "#a78bfa", "All3DP": "#a78bfa",
+  "Hackaday": "#10b981", "Make: Magazine": "#f59e0b",
+  "3D Printing Industry": "#a78bfa", "Hackster.io": "#06b6d4",
+  "Fabbaloo": "#a78bfa",
+};
+
+function uvpmTier(uvpm) {
+  if (uvpm >= 20_000_000) return "tier1";
+  if (uvpm >= 5_000_000)  return "tier2";
+  if (uvpm >= 1_000_000)  return "tier3";
+  return "tier4";
+}
+
+function fmtDate(isoStr) {
+  if (!isoStr) return "";
+  try {
+    const d = new Date(isoStr);
+    return d.toLocaleDateString("en-US", { month:"short", day:"numeric", year:"numeric" });
+  } catch { return ""; }
+}
+
+// ─── Date nav ─────────────────────────────────────────────────────────────────
+
+function renderDateNav(todayStr) {
+  const nav = document.getElementById("date-nav");
+  const today = new Date(todayStr + "T00:00:00Z");
+  const days = [];
+  for (let i = 6; i >= 0; i--) {
+    const d = new Date(today);
+    d.setUTCDate(today.getUTCDate() - i);
+    days.push(d);
+  }
+  nav.innerHTML = days.map(d => {
+    const iso = d.toISOString().slice(0, 10);
+    const label = d.toLocaleDateString("en-US", { month:"short", day:"numeric", timeZone:"UTC" });
+    const isToday = iso === todayStr;
+    return `<button class="date-btn${isToday ? " active" : ""}" onclick="handleDateClick(this,'${iso}')">
+      ${label}${isToday ? '<span class="dot"></span>' : ""}
+    </button>`;
+  }).join("");
+}
+
+function handleDateClick(btn, date) {
+  document.querySelectorAll(".date-btn").forEach(b => b.classList.remove("active"));
+  btn.classList.add("active");
+  // Future: load data-YYYY-MM-DD.json for historical dates
+}
+
+// ─── Stats ────────────────────────────────────────────────────────────────────
+
+function renderStats(stats, date) {
+  document.getElementById("stat-total").textContent = stats.total;
+  document.getElementById("stat-reach").textContent = stats.total_reach_display;
+  document.getElementById("stat-brands").textContent = `${stats.brands_hit} / ${stats.brands_total}`;
+  document.getElementById("stat-media").textContent = stats.media_count;
+  document.getElementById("last-update").textContent = `Updated: ${stats.updated_at || date}`;
+  document.getElementById("coverage-label").textContent = `Coverage · ${date}`;
+  document.getElementById("brand-bar-title").textContent = `Brand Mention Breakdown · ${date}`;
+
+  const zeroList = Object.entries(window._brandCounts || {})
+    .filter(([,v]) => v === 0).map(([k]) => k).join(", ");
+  document.getElementById("stat-total-sub").innerHTML =
+    `<span style="color:var(--text-muted)">${stats.total} articles found</span>`;
+  document.getElementById("stat-brands-sub").textContent =
+    zeroList ? `No hits: ${zeroList}` : "All brands mentioned";
+}
+
+// ─── Brand bars ───────────────────────────────────────────────────────────────
+
+function renderBrandBars(brandCounts) {
+  const maxCount = Math.max(...Object.values(brandCounts), 1);
+  const container = document.getElementById("brand-bars");
+  container.innerHTML = Object.entries(brandCounts).map(([brand, count]) => {
+    const pct = Math.round((count / maxCount) * 100);
+    const color = BRAND_BAR_COLOR[brand] || "linear-gradient(90deg,#3b82f6,#8b5cf6)";
+    return `
+      <div class="brand-bar-item">
+        <div class="brand-bar-name">${brand} <span>${count}</span></div>
+        <div class="brand-bar-track">
+          <div class="brand-bar-fill" data-pct="${pct}" style="background:${color}"></div>
+        </div>
+      </div>`;
+  }).join("");
+
+  // Animate bars after render
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      container.querySelectorAll(".brand-bar-fill").forEach(el => {
+        el.style.width = el.dataset.pct + "%";
+      });
+    });
+  });
+}
+
+// ─── Article card ─────────────────────────────────────────────────────────────
+
+function articleCardHTML(article, rank) {
+  const isTop = rank <= 3;
+  const dotColor = MEDIA_DOT_COLOR[article.media] || "#64748b";
+  const brandTags = article.brands.map(b =>
+    `<span class="tag ${BRAND_TAG[b] || "tag-brand"}">${b}</span>`
+  ).join("");
+  const dateStr = fmtDate(article.published);
+  const tier = uvpmTier(article.uvpm);
+
+  // Parse UVPM display into value + unit for styled rendering
+  const uvpmRaw = article.uvpm_display || "";
+  const uvpmMatch = uvpmRaw.match(/^([\d.]+)([MK]?)$/);
+  const uvpmVal  = uvpmMatch ? uvpmMatch[1] : uvpmRaw;
+  const uvpmUnit = uvpmMatch ? uvpmMatch[2] : "";
+
+  const recapHTML = article.summary
+    ? `<div class="article-recap">${escHtml(article.summary)}</div>`
+    : "";
+
+  return `
+    <div class="article-card" data-brands="${escHtml(article.brands.join(" "))}">
+      <div>
+        <div class="article-meta">
+          <span class="media-logo">
+            <span class="media-dot" style="background:${dotColor}"></span>
+            ${escHtml(article.media)}
+          </span>
+          ${dateStr ? `<span class="tag-date">${dateStr}</span>` : ""}
+        </div>
+        <div class="article-title">
+          <a href="${escHtml(article.url)}" target="_blank" rel="noopener">${escHtml(article.title)}</a>
+        </div>
+        ${recapHTML}
+        <div class="article-tags">
+          ${brandTags}
+          <span class="tag tag-brand">${article.tier === 1 ? "Tier-1 Media" : "Maker Media"}</span>
+        </div>
+      </div>
+      <div class="article-right">
+        <div class="rank-badge ${isTop ? "top" : ""}">${rank}</div>
+        <div class="reach-badge">
+          <div class="reach-label">Est. UVPM</div>
+          <div class="reach-value ${tier}">${uvpmVal}<span class="reach-unit">${uvpmUnit}</span></div>
+        </div>
+      </div>
+    </div>`;
+}
+
+// ─── Articles container ───────────────────────────────────────────────────────
+
+function renderArticles(articles, brandFilter) {
+  const container = document.getElementById("articles-container");
+
+  const filtered = brandFilter === "all"
+    ? articles
+    : articles.filter(a => a.brands.includes(brandFilter));
+
+  if (filtered.length === 0) {
+    container.innerHTML = `
+      <div class="state-box">
+        <div class="state-icon">🔍</div>
+        <h3>No articles for "${brandFilter}"</h3>
+        <p>No coverage found in today's crawl for this brand.</p>
+      </div>`;
+    return;
+  }
+
+  const grouped = {};
+  CAT_ORDER.forEach(c => { grouped[c] = []; });
+  filtered.forEach(a => {
+    if (grouped[a.category]) grouped[a.category].push(a);
+    else grouped["brand_news"].push(a);
+  });
+
+  container.innerHTML = CAT_ORDER
+    .filter(cat => grouped[cat].length > 0)
+    .map(cat => {
+      const cfg = CATS[cat];
+      const items = grouped[cat];
+      const cardsHTML = items.map((a, i) => articleCardHTML(a, i + 1)).join("");
+      return `
+        <div class="cat-section">
+          <div class="cat-header">
+            <div class="cat-icon ${cfg.css}">${cfg.icon}</div>
+            <span class="cat-name">${cfg.label}</span>
+            <span class="cat-count ${cfg.css}">${items.length} report${items.length > 1 ? "s" : ""}</span>
+          </div>
+          <div class="articles-grid">${cardsHTML}</div>
+        </div>`;
+    }).join("");
+}
+
+// ─── Brand filter ─────────────────────────────────────────────────────────────
+
+function filterBrand(pill, brand) {
+  document.querySelectorAll("#brand-filter .pill").forEach(p => p.classList.remove("active"));
+  pill.classList.add("active");
+  renderArticles(window._articles || [], brand);
+}
+
+// ─── Loading / error states ───────────────────────────────────────────────────
+
+function showLoading() {
+  document.getElementById("articles-container").innerHTML = `
+    <div class="state-box">
+      <div class="spinner"></div>
+      <h3>Fetching data…</h3>
+      <p style="color:var(--text-muted)">Loading data.json</p>
+    </div>`;
+}
+
+function showNoData() {
+  document.getElementById("articles-container").innerHTML = `
+    <div class="state-box">
+      <div class="state-icon">⚙️</div>
+      <h3>No data yet</h3>
+      <p>Run the crawler to generate today's data file:</p>
+      <code>pip install feedparser requests<br>python crawler.py --days 3</code>
+    </div>`;
+}
+
+function showError(msg) {
+  document.getElementById("articles-container").innerHTML = `
+    <div class="state-box">
+      <div class="state-icon">⚠️</div>
+      <h3>Failed to load data</h3>
+      <p>${escHtml(msg)}</p>
+    </div>`;
+}
+
+// ─── Utilities ────────────────────────────────────────────────────────────────
+
+function escHtml(str) {
+  return String(str || "")
+    .replace(/&/g, "&amp;").replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+
+// ─── Bootstrap ────────────────────────────────────────────────────────────────
+
+async function init() {
+  showLoading();
+  try {
+    const resp = await fetch("data.json?_=" + Date.now());
+    if (resp.status === 404) { showNoData(); return; }
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+
+    window._articles    = data.articles || [];
+    window._brandCounts = data.brand_counts || {};
+
+    renderDateNav(data.date);
+    renderStats(data.stats, data.date);
+    renderBrandBars(data.brand_counts || {});
+    renderArticles(window._articles, "all");
+
+    document.getElementById("last-update").textContent = `Updated: ${data.updated_at || data.date}`;
+
+  } catch (e) {
+    showError(e.message);
+  }
+}
+
+init();
+</script>
+</body>
+</html>
