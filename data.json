@@ -1,16 +1,16 @@
 {
   "date": "2026-03-17",
-  "updated_at": "2026-03-17 08:11 UTC",
+  "updated_at": "2026-03-17 19:38 UTC",
   "stats": {
-    "total": 0,
-    "total_reach_display": "0",
-    "brands_hit": 0,
+    "total": 1,
+    "total_reach_display": "420K",
+    "brands_hit": 1,
     "brands_total": 10,
-    "media_count": 0
+    "media_count": 1
   },
   "brand_counts": {
     "eufyMake": 0,
-    "Bambu Lab": 0,
+    "Bambu Lab": 1,
     "xTool": 0,
     "Procolored": 0,
     "Anycubic": 0,
@@ -20,5 +20,21 @@
     "Creality": 0,
     "Cricut": 0
   },
-  "articles": []
+  "articles": [
+    {
+      "id": "067b68ae4f",
+      "title": "Implications of the Bambu Lab vs Pop Mart Settlement",
+      "url": "https://www.fabbaloo.com/news/implications-of-the-bambu-lab-vs-pop-mart-settlement",
+      "media": "Fabbaloo",
+      "uvpm": 420000,
+      "uvpm_display": "420K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-03-17T16:15:00+00:00",
+      "summary": "There’s been a settlement in the case of Bambu Lab versus Pop Mart, and there are implications. The post Implications of the Bambu Lab vs Pop Mart Settlement appeared on Fabbaloo ."
+    }
+  ]
 }
