@@ -338,6 +338,11 @@ if __name__ == "__main__":
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+    # Also save a dated copy for historical browsing
+    dated_path = Path(__file__).parent / f"data-{data['date']}.json"
+    with open(dated_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
     print(f"\n{'─'*50}")
     print(f"Articles : {data['stats']['total']}")
     print(f"Brands   : {data['stats']['brands_hit']}/{data['stats']['brands_total']} hit")
@@ -346,4 +351,5 @@ if __name__ == "__main__":
     for brand, count in data["brand_counts"].items():
         if count:
             print(f"  {brand}: {count}")
+
 
