@@ -1,16 +1,16 @@
 {
-  "date": "2026-03-17",
-  "updated_at": "2026-03-17 19:38 UTC",
+  "date": "2026-03-18",
+  "updated_at": "2026-03-18 02:19 UTC",
   "stats": {
-    "total": 1,
-    "total_reach_display": "420K",
+    "total": 3,
+    "total_reach_display": "900K",
     "brands_hit": 1,
     "brands_total": 10,
-    "media_count": 1
+    "media_count": 3
   },
   "brand_counts": {
     "eufyMake": 0,
-    "Bambu Lab": 1,
+    "Bambu Lab": 3,
     "xTool": 0,
     "Procolored": 0,
     "Anycubic": 0,
@@ -22,19 +22,49 @@
   },
   "articles": [
     {
-      "id": "067b68ae4f",
-      "title": "Implications of the Bambu Lab vs Pop Mart Settlement",
-      "url": "https://www.fabbaloo.com/news/implications-of-the-bambu-lab-vs-pop-mart-settlement",
-      "media": "Fabbaloo",
-      "uvpm": 420000,
-      "uvpm_display": "420K",
+      "id": "132c4db8ab",
+      "title": "6 clever ways to use your leftover ends of 3D printing filament",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnp3YW9LYXVWeEtEeHQxTlF5cVpsakJTU1JaQjNTa3k3QWM5eUYwcWc1ZWJPemF1cXpNVHNRTTN1NmMzemVoQkljR0NZT2JHbnNHck5WUWhLak9vOV8xMWZ5bGZsZDBBVnNlZFNXUWZjOXdjQnYwV212YjR4NnM0TEtNZVo4cEZVTlhiUGNWTjlTQQ?oc=5",
+      "media": "How-To Geek",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-03-17T16:15:00+00:00",
-      "summary": "There’s been a settlement in the case of Bambu Lab versus Pop Mart, and there are implications. The post Implications of the Bambu Lab vs Pop Mart Settlement appeared on Fabbaloo ."
+      "published": "2026-03-17T12:00:16+00:00",
+      "summary": "6 clever ways to use your leftover ends of 3D printing filament &nbsp;&nbsp; How-To Geek"
+    },
+    {
+      "id": "dd43b61add",
+      "title": "How to Turn Any Image into a Full-Color 3D Print in One Click -- Meshy's Multi-Color Printing, Powered by Meshy-6, Is Now Live on MakerWorld",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQc1h5cWJScklnZWFmeUJRSkJ0NEVVbTFfQ0VjRDNMN2dYeTgycFM3WnN2Q29GNWhqVzdpQ28wOUoyR2dXZklkYzZMdTlvemxjU2tqS2Y2V3hoVGZkZE1rUlNlVW5wQzAtZE9BYWVsMzVleXE2Tnl4dFQzVEFqV1A2WkdQV2V6M0NmUXY0d0hWcndlUFUzQnBwWEN5eXRQa19ocm1YMDdGM3A1UnEzRWJqeEZ5MEVhSVZpcFlCd01laU40MWp5bENLWDF4ekE4cGw5d0FKcEkzWko1TFJzNW9ZX0s0b1YxbVA3MWdYWjlkZnVsMWFoR2tveml2WEE3Z2VpN0x4VEFOcXV5WFIyaVFjN01XM2VWXzdtRDNVenZNaHdIbFd0WU10Wjd3TmtVNzTSAbQCQVVfeXFMUHAtRjEzMXlqYUhNaFpnZ01ySVFhRzg2NElqYVpHbF9fdldrNVFtN3lFLUF3RWJpczl3b1N2QXlPOVNldklIZ0VNT25memJ5aTlMbVRJQldldmNqV0s0aTh5VEdnSUpsRVNHYW4zZ2kwQm93aXZQZnFHazdEd3ZUa01sUm82c29aeUk3dU8tdWhNYS1XVHgwWkt1RGF2UHdiTTJ5SVhRMkU4V19vMmtCVjNDRm5zdEM2YVV4bW5jT2RLcTVTaFFMWlMzY1MwWHk0VmNVZ1ZQV3JDZUZITnlfU1o1VVJ1MERtU0hyNVVpVm9lTVJpSUJDeDExcG10XzJkRGh2c0NaOFRqQUZybmpPT1JGSXdHSHFiRWxSYU9jRktXRFN6UUVwY0ljZU5uUEMtV3RVR2s?oc=5",
+      "media": "The Manila Times",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-03-17T12:54:30+00:00",
+      "summary": "How to Turn Any Image into a Full-Color 3D Print in One Click -- Meshy's Multi-Color Printing, Powered by Meshy-6, Is Now Live on MakerWorld &nbsp;&nbsp; The Manila Times"
+    },
+    {
+      "id": "f0067954a3",
+      "title": "Dual-Sided Textured PEI Sheet For Bambu Lab Printers (A1, P1P, P1S, X1C, X1E) - 257x257mm Flexible Magnetic Build Plate",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzY0V3hzbnI2dDFkU2VlUUVydWp4OU1ldnllWWdOYk9WMnBhWjQtWV9fVXQtT19SQ1dYaDF2Z2NKcWlWRFVDS1M4VEVDNDBHcWlCeXNzRjB0eDB6OEQ3dExDaHhacVVPbjBuTy0ybEdLQUxTeW9VVkM4LVo5d1lyZ2tfb1M0blktOFRtY3AxWQ?oc=5",
+      "media": "ruhrkanal.news",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-03-17T18:41:01+00:00",
+      "summary": "Dual-Sided Textured PEI Sheet For Bambu Lab Printers (A1, P1P, P1S, X1C, X1E) - 257x257mm Flexible Magnetic Build Plate &nbsp;&nbsp; ruhrkanal.news"
     }
   ]
 }
