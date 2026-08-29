@@ -1,30 +1,30 @@
 {
   "date": "2026-08-29",
-  "updated_at": "2026-08-29 00:11 UTC",
+  "updated_at": "2026-08-29 18:57 UTC",
   "stats": {
-    "total": 6,
-    "total_reach_display": "11.5M",
-    "brands_hit": 3,
+    "total": 2,
+    "total_reach_display": "10.3M",
+    "brands_hit": 1,
     "brands_total": 10,
-    "media_count": 6
+    "media_count": 2
   },
   "brand_counts": {
     "eufyMake": 0,
-    "Bambu Lab": 1,
-    "xTool": 4,
+    "Bambu Lab": 2,
+    "xTool": 0,
     "Procolored": 0,
     "Anycubic": 0,
     "Formlabs": 0,
     "Longer": 0,
     "Elegoo": 0,
     "Creality": 0,
-    "Cricut": 1
+    "Cricut": 0
   },
   "articles": [
     {
-      "id": "cae12598b2",
-      "title": "The best deals on 3D printers this week — shop Bambu Lab, Creality, and Flashforge with steep discounts",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41WVg3N1ZKMmRvVDZCV2hRNnE0eUNGekVHeTR2UGFKUUxaUWY3QU9EZHZBWTFQV29HNjBSZ2xNbldiOFF5UFQ5QUlDVkpyMFQ1bkdBUmE3NkI3MHhNbm80Vy1HWlh3eUE4?oc=5",
+      "id": "d4715ed308",
+      "title": "Best 3D printer deal: Save $50 on Bambu Lab P1S Combo",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xOS1uSndPTTZ5VXJ0VDBmMU56YTVPWkFJUlJCY1llbkdUQ3duM0FKX2t1NXZ4TmNWNXh4UXp5dDR0dHpqWGRIYnZTelVTMURDdmlSa0lQdDlFb0VrdE5DZA?oc=5",
       "media": "Mashable",
       "uvpm": 10000000,
       "uvpm_display": "10.0M",
@@ -33,83 +33,23 @@
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-08-28T04:36:14+00:00",
-      "summary": "The best deals on 3D printers this week — shop Bambu Lab, Creality, and Flashforge with steep discounts &nbsp;&nbsp; Mashable"
+      "published": "2026-08-29T03:06:23+00:00",
+      "summary": "Best 3D printer deal: Save $50 on Bambu Lab P1S Combo &nbsp;&nbsp; Mashable"
     },
     {
-      "id": "65231978da",
-      "title": "xTool Introduces X1, a Next-Gen All-in-One Laser Platform Built for Speed, Scale, and Versatility",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWg4bGNYNVU4aS1CU1d0ZThKVVVJWG14X1g1Q1Z4OTQxRkU4d2tZWDF6dl9UdFJuVDR5NGo1NzZIUl9idjhCQTBXM2lQR3V2ZkJqcmFtR2FnejNkUjdXcVdNUWhqdVBOcl9vbHh5SU50eURHQk5WMHRreEFPWkUwN0ZxSGR5ZUlNb2hWbnBvY3kxcTViQkp6b0hhZ0lhSmhxbElnVG9QTEp1bTJNSV85SnY0Rk1iX1JHU2pzMzM5ampCM3RESF81UlJoMGFLUER6YlFSNEhMOU1kUkRrZ25KbTFwNXk?oc=5",
-      "media": "PR Newswire",
+      "id": "057bbfc166",
+      "title": "Bambu Lab A2L Specs Leak! More Klitek Details And More! | 3D Printing News! Titolo (6Xp32NLfem)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWY3JqZXdrUVBwaHdac2pyY0hyZjNpdGRUQThfYXJoUjBhWEZPTW5IQW4wQjJzVmtZRVhZT2xJNzZPeE9vWjVTajQxUThuaG0wcWR3dXNUSVZuVVRUTHdybA?oc=5",
+      "media": "Mshale",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "xTool"
+        "Bambu Lab"
       ],
-      "published": "2026-08-28T08:34:00+00:00",
-      "summary": "xTool Introduces X1, a Next-Gen All-in-One Laser Platform Built for Speed, Scale, and Versatility &nbsp;&nbsp; PR Newswire"
-    },
-    {
-      "id": "014b9e7f78",
-      "title": "xTool X1 is an expandable all-in-one laser for makers and online sellers",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcEhFa2Y1MHY1SnhzWUdtMkRhNmJuUTBxUVd5MHRESDBsbHlsZWdBTGtzakMtXzFBY0Z4eVA5NkxxU1NWRnRUNUdWdThmMUYxWUU2X3pIV3ZCLXI3Y0otTUZvdVdNTUgyZlNBNFhjWUFDOWJlaXVkSkRnOW9HanJhR1BXUTNMd3dZdHduQTVEM1hTRWR0cV9XX3JacDN3a0tMOFd4cW4yN3RCTnBNRUNDOVB0eFU0b1pO?oc=5",
-      "media": "Notebookcheck",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "xTool"
-      ],
-      "published": "2026-08-28T16:30:00+00:00",
-      "summary": "xTool X1 is an expandable all-in-one laser for makers and online sellers &nbsp;&nbsp; Notebookcheck"
-    },
-    {
-      "id": "44da027500",
-      "title": "xTool M2 Review: Laser, Color Printing, and Rotary in One Machine",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FR2tUdjEtcUF4RExZWDcyMC13TUc0MWptWUlCVE51cUVDcTJ1MFJZMXpYaFNYUzZtTlRMcC11a3NfaEFhenZKQnY0VVhvVG03aC1KbS1tZDFIY3VSbjA5MmRsT3l3aTFMLTJCeg?oc=5",
-      "media": "Basic Tutorials",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "hands_on_review",
-      "brands": [
-        "xTool"
-      ],
-      "published": "2026-08-28T08:00:12+00:00",
-      "summary": "xTool M2 Review: Laser, Color Printing, and Rotary in One Machine &nbsp;&nbsp; Basic Tutorials"
-    },
-    {
-      "id": "383477377a",
-      "title": "xTool Launches O1 Desktop Printer Integrating Four Printing Methods… $13.8 Million in First-Day Sales",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51S01kaDlmUHBMaDB0ZV81X0NfSXk0YmJpU1lESWlFQ01zVGNNRDNKT1dsdmwyMUxvaU05RFdWOU1IZnI1V0diT0JNbFBlckhYYjZTR2paS2NUUTZMYnh2VWdTYkZoeHdka0NiM0xHVlpaX2p6cFE?oc=5",
-      "media": "finance.biggo.com",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "product_news",
-      "brands": [
-        "xTool"
-      ],
-      "published": "2026-08-28T02:36:00+00:00",
-      "summary": "xTool Launches O1 Desktop Printer Integrating Four Printing Methods… $13.8 Million in First-Day Sales &nbsp;&nbsp; finance.biggo.com"
-    },
-    {
-      "id": "b833244172",
-      "title": "Rainy Bank Holiday? This Clever Craft Tool Keeps Kids Off Screens All Weekend",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOFA3S1lRYWZvMFJzV1JZSTBwSDhaTlo2VF9sZ096NXZZY2RoQ1pQa3pVaWVabDdxYTU1cUIwRXlEU1JZRkZUSHgyZlhaSUJJeFpVaTlYbVlHaUw5a0c5V1ZPcHRmUjc5eWRtYzROZlFBRG1MclNHZmprVG5xT1pTX0NMSFVvdnY3M2wyRmZ5RHB1UGRsSVk0bTk3dVgwazMxLVZyR1FyVlRTYVVnZFlabHhSOThEQUZTRUpqRnVIRGI?oc=5",
-      "media": "HuffPost UK",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Cricut"
-      ],
-      "published": "2026-08-28T09:18:49+00:00",
-      "summary": "Rainy Bank Holiday? This Clever Craft Tool Keeps Kids Off Screens All Weekend &nbsp;&nbsp; HuffPost UK"
+      "published": "2026-08-29T01:26:39+00:00",
+      "summary": "Bambu Lab A2L Specs Leak! More Klitek Details And More! | 3D Printing News! Titolo (6Xp32NLfem) &nbsp;&nbsp; Mshale"
     }
   ]
 }
