@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-11",
+  "updated_at": "2026-10-11 19:46 UTC",
+  "stats": {
+    "total": 2,
+    "total_reach_display": "10.3M",
+    "brands_hit": 3,
+    "brands_total": 10,
+    "media_count": 2
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 1,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 1,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 2,
+    "Cricut": 0
+  },
+  "articles": [
+    {
+      "id": "47e7c94285",
+      "title": "October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1YlVROHE0MUxXTFBRZXM1VTZPR0RyTGVwWXhGczBURlJjZ21hWndxYnlpSHRYQzUtQXUweFVpNGxFYUpoZWZKRnF1cy1BOEJFOU1BZ0I1YkpqMFF1X0dlUmJGT2R5OU1tdnVJZFc3aWw3eTV6UEZfWlVB?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab",
+        "Anycubic",
+        "Creality"
+      ],
+      "published": "2026-10-11T15:50:15+00:00",
+      "summary": "October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more &nbsp;&nbsp; Mashable"
+    },
+    {
+      "id": "89cdf66083",
+      "title": "Creality launches new 3D printer that swaps between four nozzles in five seconds",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVFY0STRfV21aSmZtX0EzcnY2U1gyZGJYaFJ5UlVzMkU4dXRROU5oTUY1UFFSZU1kSFMwVkoyVlR3UHZ3bDlYQmdVa0pRNTJfTVZqYVNoTTBQalR5YWNxSzZDNGI4ZkRxQVFCSnJ3TDhfQmdQQVVTZWotdVdBaGp0M1hTLU9aSGlBS2FhR2VaZFJpNjVyMVo3QWpqelkxY25TQUVQQkNualM3X19yWjVmWVFTZGh6UDczMTB2VGhaZTYzdlk?oc=5",
+      "media": "Notebookcheck",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Creality"
+      ],
+      "published": "2026-10-11T05:49:00+00:00",
+      "summary": "Creality launches new 3D printer that swaps between four nozzles in five seconds &nbsp;&nbsp; Notebookcheck"
+    }
+  ]
+}
