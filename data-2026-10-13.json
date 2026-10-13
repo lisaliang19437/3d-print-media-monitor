@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-13",
+  "updated_at": "2026-10-13 20:51 UTC",
+  "stats": {
+    "total": 5,
+    "total_reach_display": "11.2M",
+    "brands_hit": 3,
+    "brands_total": 10,
+    "media_count": 5
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 3,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 1,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 3,
+    "Cricut": 0
+  },
+  "articles": [
+    {
+      "id": "47e7c94285",
+      "title": "October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1YlVROHE0MUxXTFBRZXM1VTZPR0RyTGVwWXhGczBURlJjZ21hWndxYnlpSHRYQzUtQXUweFVpNGxFYUpoZWZKRnF1cy1BOEJFOU1BZ0I1YkpqMFF1X0dlUmJGT2R5OU1tdnVJZFc3aWw3eTV6UEZfWlVB?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab",
+        "Anycubic",
+        "Creality"
+      ],
+      "published": "2026-10-13T10:16:36+00:00",
+      "summary": "October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more &nbsp;&nbsp; Mashable"
+    },
+    {
+      "id": "622ae3a742",
+      "title": "Bambu Lab P2S Wins Awards for 3D Printing in the Family and Education Sectors",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDZWV3hGcjUxUFhjaHlBNnp5MkNvejJlUlZnU3k4TTJFTkVhaDFTQmtGZ3pNWXRtMHBTSWp1LXZfNzJ2bXVyNGxpc05NWm9ReUp5QjVWMWVwM29pUXZiYUpzQnhXakpBTDVCUGt1Vjg0bHdVNzVrYWNEMTJKQTY4LU5nc0Z3MVdTdzBvLWxoekd4VWVCTkpjQnI5dEVnZXBKY0gyVy16eGZkbkpxTldOOWVINGRYX0NVcHo2aXpselM3Y3BX?oc=5",
+      "media": "3Druck.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-13T10:33:31+00:00",
+      "summary": "Bambu Lab P2S Wins Awards for 3D Printing in the Family and Education Sectors &nbsp;&nbsp; 3Druck.com"
+    },
+    {
+      "id": "488e6461e2",
+      "title": "Bambu Lab launches S1 3D scanner, opening sign-ups for early access",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ29QYVZwQXZSdWV5cTJ6OGplUlhucFRhSDNncXNFdUx0MWVHbXFOaDdKSXd2Z2tueEM1Wlp5bnE0QUR2RDE0S182aHZvSjd6TVMwaGdNYVBBd1BFaUFLVnZVTFIyTzVKY3VLNHFwbkUtVXVfSll3ZHV4M2o3NS1aQW1JRlRpUHFNUjFrbkJVZzA0cm5yXzkxMjBjcw?oc=5",
+      "media": "news.lavx.hu",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-13T10:54:26+00:00",
+      "summary": "Bambu Lab launches S1 3D scanner, opening sign-ups for early access &nbsp;&nbsp; news.lavx.hu"
+    },
+    {
+      "id": "670b6c720b",
+      "title": "$309 Creality SPARKX I8 is a Top 3D Printer for Beginners",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqVy1YNTJTbWx1N1NPY1V3Ui1jSlhCMU15YjU4UkMzWVlyTmtRY0hDN0FaLThRZDVnZ2tTbjJjTVNwNGkwZGl1aDNlallHMkNWWXRMd3Z2WEYtSkhUV2dobXJTbXQxNjZMemJDcFV3?oc=5",
+      "media": "Geeky Gadgets",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Creality"
+      ],
+      "published": "2026-10-13T09:18:48+00:00",
+      "summary": "$309 Creality SPARKX I8 is a Top 3D Printer for Beginners &nbsp;&nbsp; Geeky Gadgets"
+    },
+    {
+      "id": "c7c9490b90",
+      "title": "Creality K3 Opens for Pre-Order at $849, Advancing Multi-Color 3D Printing",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV1NPRGxFbDF3a3k2NXhwSkk4RDd5SkRldzZiR0N4bWFhRzE0WWxLQUcwYmZILTBLQTdVZ0pYOHRfVldhTktfSXRLY1BkN2ZlY0xNNGZDUHhxMVFuVzZGclJWUDJEcmdQVEVvV1FWLTdrZUZDeV93UU1lTEJlU3kwbkc0SDg4ZTdrWXE3RVQ0WlFkekFfeE1jRTJ3VmdPdTg4R21JOFp5UE95Y3hnZWstb1N3VV84QTk0Z1pyS1NSVG9fdw?oc=5",
+      "media": "Press Release Hub",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Creality"
+      ],
+      "published": "2026-10-13T12:08:39+00:00",
+      "summary": "Creality K3 Opens for Pre-Order at $849, Advancing Multi-Color 3D Printing &nbsp;&nbsp; Press Release Hub"
+    }
+  ]
+}

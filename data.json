@@ -1,24 +1,24 @@
 {
-  "date": "2026-10-12",
-  "updated_at": "2026-10-12 22:38 UTC",
+  "date": "2026-10-13",
+  "updated_at": "2026-10-13 20:51 UTC",
   "stats": {
-    "total": 8,
-    "total_reach_display": "13.6M",
-    "brands_hit": 4,
+    "total": 5,
+    "total_reach_display": "11.2M",
+    "brands_hit": 3,
     "brands_total": 10,
-    "media_count": 8
+    "media_count": 5
   },
   "brand_counts": {
     "eufyMake": 0,
-    "Bambu Lab": 5,
+    "Bambu Lab": 3,
     "xTool": 0,
     "Procolored": 0,
     "Anycubic": 1,
     "Formlabs": 0,
     "Longer": 0,
     "Elegoo": 0,
-    "Creality": 2,
-    "Cricut": 2
+    "Creality": 3,
+    "Cricut": 0
   },
   "articles": [
     {
@@ -35,74 +35,59 @@
         "Anycubic",
         "Creality"
       ],
-      "published": "2026-10-12T08:43:10+00:00",
+      "published": "2026-10-13T10:16:36+00:00",
       "summary": "October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more &nbsp;&nbsp; Mashable"
     },
     {
-      "id": "9e64109457",
-      "title": "Bambu Lab Teases New S1 Handheld 3D Scanner",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ka1lBMGhQZkpRZG9SU0ZkSmlUZVpGN2R2aGdMQWpFaHNneVVFaHhSQUl0Z0ktc3hIbEVhXzE2X0hCOGtMNmMyR3BUNkNBSjBKNmxJeWQ0QkcxWnRaX0kzc2E1REdkQ0NFcHdaakFtajYzX2c?oc=5",
-      "media": "All3DP",
-      "uvpm": 1800000,
-      "uvpm_display": "1.8M",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-10-12T15:40:58+00:00",
-      "summary": "Bambu Lab Teases New S1 Handheld 3D Scanner &nbsp;&nbsp; All3DP"
-    },
-    {
-      "id": "4bc7bf1edb",
-      "title": "Bambu Lab officially teases its first 3D scanner — S1 3D set for launch in November 2026",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQemZ2LUNpcFBjMEdiZ0VOZnQ1ZmVfb1hWOWdBRjZ4Z0d1U2hNSmx2a3NkeWgtMEJoSFNNSXlIblZOMmRhT29SRlFGclpLN1B6QXl0clJ0TWJsWEMwamNqbGpZTGVaR0QzbDVPMm9YUXZ0Q0xPS0lyQ2J6azNMb1BpRTNOM016WElYdHN5bkJUb04xOXpZQ2tmeFE0czN0VERaOVpKYm85X1ROQzZXalJGdXJxNkFZRzktSEpJ?oc=5",
-      "media": "Tom's Hardware",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "product_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-10-12T16:15:00+00:00",
-      "summary": "Bambu Lab officially teases its first 3D scanner — S1 3D set for launch in November 2026 &nbsp;&nbsp; Tom's Hardware"
-    },
-    {
-      "id": "a874459cff",
-      "title": "Bambu Lab S1: Manufacturer Officially Announces Its First 3D Scanner for November 2026",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenNJT1FZUzdzWkJlSVVRMDdqN3FRRHRHYjNOZlJEZUlnM0wtSWdmWC1meF9IOG4ycjhTaDk5cTAtaGlqYjgwc3dYZTQ2QzlMMWNCdTBENWlZT0lPYlIxMXV3VEsxR2dEYU1rdFJPeTg3YS1LcUlkMUtKS29uNWxaUTNXVlVJdVdCYnNZREo2N2dFc0tCXzBVanhYdGxqbWgySWFnUU93VmhxcVhXSlhjU01ZckctVHdHRHVGLVNRYm0zTk0?oc=5",
+      "id": "622ae3a742",
+      "title": "Bambu Lab P2S Wins Awards for 3D Printing in the Family and Education Sectors",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDZWV3hGcjUxUFhjaHlBNnp5MkNvejJlUlZnU3k4TTJFTkVhaDFTQmtGZ3pNWXRtMHBTSWp1LXZfNzJ2bXVyNGxpc05NWm9ReUp5QjVWMWVwM29pUXZiYUpzQnhXakpBTDVCUGt1Vjg0bHdVNzVrYWNEMTJKQTY4LU5nc0Z3MVdTdzBvLWxoekd4VWVCTkpjQnI5dEVnZXBKY0gyVy16eGZkbkpxTldOOWVINGRYX0NVcHo2aXpselM3Y3BX?oc=5",
       "media": "3Druck.com",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-13T10:33:31+00:00",
+      "summary": "Bambu Lab P2S Wins Awards for 3D Printing in the Family and Education Sectors &nbsp;&nbsp; 3Druck.com"
+    },
+    {
+      "id": "488e6461e2",
+      "title": "Bambu Lab launches S1 3D scanner, opening sign-ups for early access",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ29QYVZwQXZSdWV5cTJ6OGplUlhucFRhSDNncXNFdUx0MWVHbXFOaDdKSXd2Z2tueEM1Wlp5bnE0QUR2RDE0S182aHZvSjd6TVMwaGdNYVBBd1BFaUFLVnZVTFIyTzVKY3VLNHFwbkUtVXVfSll3ZHV4M2o3NS1aQW1JRlRpUHFNUjFrbkJVZzA0cm5yXzkxMjBjcw?oc=5",
+      "media": "news.lavx.hu",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
       "category": "product_news",
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-10-12T13:20:14+00:00",
-      "summary": "Bambu Lab S1: Manufacturer Officially Announces Its First 3D Scanner for November 2026 &nbsp;&nbsp; 3Druck.com"
+      "published": "2026-10-13T10:54:26+00:00",
+      "summary": "Bambu Lab launches S1 3D scanner, opening sign-ups for early access &nbsp;&nbsp; news.lavx.hu"
     },
     {
-      "id": "92dcb78f1a",
-      "title": "Bambu Lab just entered the 3D scanning scene, and you can sign up to hear more right now",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVVZVkRkUEhHUmJXdUNpSl9PdFA3V0dVTjBpQ2c1SFRQemk1WkQ2TTNTdFI3MEdOcUtBRGstWFh2MGZJSzFVM3k4MC1ldDRDQnNiQTJiOTlQMS1GcURsMFI2REZkTTNiM25zUkV6ZjFKLXIyYnpCOXdPcGxfYnRKN0gxZnBpaEFSd0N4Q1VQRUxHclhhbzNKaVZLOHItOEJZYUJpa0dLZDlpMkc3RlplTjMwNA?oc=5",
-      "media": "XDA",
+      "id": "670b6c720b",
+      "title": "$309 Creality SPARKX I8 is a Top 3D Printer for Beginners",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqVy1YNTJTbWx1N1NPY1V3Ui1jSlhCMU15YjU4UkMzWVlyTmtRY0hDN0FaLThRZDVnZ2tTbjJjTVNwNGkwZGl1aDNlallHMkNWWXRMd3Z2WEYtSkhUV2dobXJTbXQxNjZMemJDcFV3?oc=5",
+      "media": "Geeky Gadgets",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "Bambu Lab"
+        "Creality"
       ],
-      "published": "2026-10-12T17:30:53+00:00",
-      "summary": "Bambu Lab just entered the 3D scanning scene, and you can sign up to hear more right now &nbsp;&nbsp; XDA"
+      "published": "2026-10-13T09:18:48+00:00",
+      "summary": "$309 Creality SPARKX I8 is a Top 3D Printer for Beginners &nbsp;&nbsp; Geeky Gadgets"
     },
     {
-      "id": "9ba0ebfc78",
-      "title": "Creality K3 Unveiled: 3D Printer Switches Between Four Nozzles in 5 Seconds",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFdkeERHekZ1emNVeUdGdW9hd1JEanZFNE9hRUJDTHFIdGpPUGZiYWVPR0NuTDdMUlg5UmRrSlhZTG9iekpXNlFibjR1eWFJdWJhR1J5eTBlZ1liTXJHWDhuYjR3a2VFTDR3VTc3OW9sQ3FHbDRpV3ZJdjlsdnBGS2tSVkZxMVFSdnZwT25UYzUyNTJHdTBvckdNeEJsZU50bENGY3VDYVl4S1hl?oc=5",
-      "media": "Basic Tutorials",
+      "id": "c7c9490b90",
+      "title": "Creality K3 Opens for Pre-Order at $849, Advancing Multi-Color 3D Printing",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV1NPRGxFbDF3a3k2NXhwSkk4RDd5SkRldzZiR0N4bWFhRzE0WWxLQUcwYmZILTBLQTdVZ0pYOHRfVldhTktfSXRLY1BkN2ZlY0xNNGZDUHhxMVFuVzZGclJWUDJEcmdQVEVvV1FWLTdrZUZDeV93UU1lTEJlU3kwbkc0SDg4ZTdrWXE3RVQ0WlFkekFfeE1jRTJ3VmdPdTg4R21JOFp5UE95Y3hnZWstb1N3VV84QTk0Z1pyS1NSVG9fdw?oc=5",
+      "media": "Press Release Hub",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -110,38 +95,8 @@
       "brands": [
         "Creality"
       ],
-      "published": "2026-10-12T03:36:30+00:00",
-      "summary": "Creality K3 Unveiled: 3D Printer Switches Between Four Nozzles in 5 Seconds &nbsp;&nbsp; Basic Tutorials"
-    },
-    {
-      "id": "fbda3bdd94",
-      "title": "Cricut StickerPix Print Essential Bundle: Custom Stickers and Photos at Home for $169",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtVmJ2eFFQdUJGNnNROHk2c251UWROYndMVlZvUG9kenM5N0F3ZkpNSjV1U09odGwtNEF6OWpqOG8zWnFMdXd4Ym5wd0gxNjNma0xtZnhhQ205eTk4Uml6aklWMnIyZ2hHakFoTXd2dTJ4VTlYWWY0?oc=5",
-      "media": "Joe's Daily",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Cricut"
-      ],
-      "published": "2026-10-12T18:53:04+00:00",
-      "summary": "Cricut StickerPix Print Essential Bundle: Custom Stickers and Photos at Home for $169 &nbsp;&nbsp; Joe's Daily"
-    },
-    {
-      "id": "019de3e74a",
-      "title": "I tested Cricut’s desktop sticker printer, and it makes creating custom stickers almost too easy",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRXlfUWphWVhjdlJkZWp6NTVmanRLVkRoWTdTa2ZDZUFhWXFpOU9EZmVGcDh4Vl9SOWt4MzJ0dmRHMUlPa2E3NHZfejZfem1pWkRlTlNFS3JUazlEaUVTdFJtWTQ2MlYxclFhVEFaYVNWVVlITTRfQk1rMnRlX0lMTF96cmZlRjBOY1k2OHVVMU5nOU5tcDV6bnFqTjkteUstX3Y3QU9TM1RTcHhYaTdWWnNYbGxyeVhIRlJyN09pWi0?oc=5",
-      "media": "Popular Science",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "hands_on_review",
-      "brands": [
-        "Cricut"
-      ],
-      "published": "2026-10-12T20:00:00+00:00",
-      "summary": "I tested Cricut’s desktop sticker printer, and it makes creating custom stickers almost too easy &nbsp;&nbsp; Popular Science"
+      "published": "2026-10-13T12:08:39+00:00",
+      "summary": "Creality K3 Opens for Pre-Order at $849, Advancing Multi-Color 3D Printing &nbsp;&nbsp; Press Release Hub"
     }
   ]
 }
