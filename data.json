@@ -1,168 +1,136 @@
 {
-  "date": "2026-10-14",
-  "updated_at": "2026-10-14 19:47 UTC",
+  "date": "2026-10-15",
+  "updated_at": "2026-10-15 19:30 UTC",
   "stats": {
-    "total": 20,
-    "total_reach_display": "38.2M",
-    "brands_hit": 6,
+    "total": 12,
+    "total_reach_display": "6.9M",
+    "brands_hit": 5,
     "brands_total": 10,
-    "media_count": 17
+    "media_count": 12
   },
   "brand_counts": {
-    "eufyMake": 0,
+    "eufyMake": 2,
     "Bambu Lab": 2,
-    "xTool": 2,
+    "xTool": 1,
     "Procolored": 0,
-    "Anycubic": 1,
-    "Formlabs": 15,
+    "Anycubic": 0,
+    "Formlabs": 6,
     "Longer": 0,
     "Elegoo": 0,
-    "Creality": 1,
+    "Creality": 0,
     "Cricut": 1
   },
   "articles": [
     {
-      "id": "88467366c2",
-      "title": "Wow! With Formlabs' Form Studio 1, I Have a New Favorite Mainstream Resin 3D Printer",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKMHpDOEk1YVZKenVOQWRIVEQ1Q3JuZVlVM2xaMkcxM2JPa3VqaXp0QUFRbXIxQlZVQjJzNVozUS1OUlJVVEd0OXpjOUFLV0wxY3Q2M042Wnc5U1lxcHQxOWlR?oc=5",
-      "media": "PCMag",
-      "uvpm": 12000000,
-      "uvpm_display": "12.0M",
-      "tier": 1,
+      "id": "889679b99e",
+      "title": "Bambu Lab Is Building More Than 3D Printers. Now Comes the S1 Scanner",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGJBVFJJVjRxQy1fYkpQX2xsUmh2M0RfUXNmcnVLZEpsMDEyem5lRWVZMHdJV2V2N0VreVFrWUowOUpKRTJTTjBSa1ZuWmlJNVhrcEd1VEQ1Q2ZFOGtYTjctOTZaNXZ6MkppYnNBNWl3dFlCMmRWa3JOVU5rTHF0Xy1aanZ5VTVRNlpjQk91eGx0TDF1UHMyTFR6NlDSAaIBQVVfeXFMUExLVF9KVmEwOTloeU1pUTVZN2ZfOFBCVERrX1RmSFE2LXNrRTdXVlFkdjJiVDJJTGxiTG5nX1o5NjJzdWt5VFQ0eG5IVDBRbG1yWHEzOEJMbXhLN202OWRWZm1JeXpOUTVaNWp4SnU0SkZBVld6UmNncm1YOHdyb3dIY1BZNThRN2xURlJraWZHT0Utczd4ME1jc0cyOUsxNzFB?oc=5",
+      "media": "3DPrint.com",
+      "uvpm": 2100000,
+      "uvpm_display": "2.1M",
+      "tier": 2,
       "category": "brand_news",
       "brands": [
-        "Formlabs"
+        "Bambu Lab"
       ],
-      "published": "2026-10-14T13:00:24+00:00",
-      "summary": "Wow! With Formlabs' Form Studio 1, I Have a New Favorite Mainstream Resin 3D Printer &nbsp;&nbsp; PCMag"
+      "published": "2026-10-15T07:17:17+00:00",
+      "summary": "Bambu Lab Is Building More Than 3D Printers. Now Comes the S1 Scanner &nbsp;&nbsp; 3DPrint.com"
     },
     {
-      "id": "47e7c94285",
-      "title": "October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1YlVROHE0MUxXTFBRZXM1VTZPR0RyTGVwWXhGczBURlJjZ21hWndxYnlpSHRYQzUtQXUweFVpNGxFYUpoZWZKRnF1cy1BOEJFOU1BZ0I1YkpqMFF1X0dlUmJGT2R5OU1tdnVJZFc3aWw3eTV6UEZfWlVB?oc=5",
-      "media": "Mashable",
-      "uvpm": 10000000,
-      "uvpm_display": "10.0M",
-      "tier": 1,
-      "category": "brand_news",
-      "brands": [
-        "Bambu Lab",
-        "Anycubic",
-        "Creality"
-      ],
-      "published": "2026-10-14T03:13:48+00:00",
-      "summary": "October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more &nbsp;&nbsp; Mashable"
-    },
-    {
-      "id": "dddabc87f5",
-      "title": "The Formlab Form Studio 1 is the only resin 3D printer I recommend now",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wNlhXTl9iUjNZa21PWEluTEZ2VFBrNVdKUVlFY2R4c0FHYnVjR3ZoSXdrSlFBOGJkelF5QW51aEItTTd5NTNkU1F3c3hYcDVKZmtJSVpEZWFzY0xnZGl6UXh5ZVhqcEpkTkE?oc=5",
-      "media": "TechRadar",
-      "uvpm": 10000000,
-      "uvpm_display": "10.0M",
-      "tier": 1,
-      "category": "brand_news",
-      "brands": [
-        "Formlabs"
-      ],
-      "published": "2026-10-14T13:00:00+00:00",
-      "summary": "The Formlab Form Studio 1 is the only resin 3D printer I recommend now &nbsp;&nbsp; TechRadar"
-    },
-    {
-      "id": "79aaabf0e1",
-      "title": "Formlabs Just Brought Industrial Resin Tech Down to $699 with New Form Studio 1",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jN1J4SlRmcnIxVGU3cEVZaV9maHg5WkhCdklnZC0xQ19QTmVWWjVCOGg1TmxyWFhidndNVDIwRjk1OVVqcWk1Z1FDbEZDTEkyR0pXYlJCWQ?oc=5",
+      "id": "707c6e5e23",
+      "title": "Print Up to 75% Faster: Anker eufyMake E1 Update Unlocks Bidirectional Printing and More",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdm4yZ3RUcWxFVWxXMzVTSXhFVG94TURySmloR1JOOFFna2c1aGQ1RE5OYjU4djdoenpJNVZOV3ZTWmJrWElCZmE3TkZFTWFQQ09TYXNKWVFVUXZkQmFNWFFieGNscURkdEJvV3dwaVhsbkJURjY2UkhnLVY0Tlgta3R3RTR5b25lVWNRRW4yWERKVExqV1NadWVfU3RwOFBPenRvMQ?oc=5",
       "media": "All3DP",
       "uvpm": 1800000,
       "uvpm_display": "1.8M",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "Formlabs"
+        "eufyMake"
       ],
-      "published": "2026-10-14T15:17:09+00:00",
-      "summary": "Formlabs Just Brought Industrial Resin Tech Down to $699 with New Form Studio 1 &nbsp;&nbsp; All3DP"
+      "published": "2026-10-15T14:20:40+00:00",
+      "summary": "Print Up to 75% Faster: Anker eufyMake E1 Update Unlocks Bidirectional Printing and More &nbsp;&nbsp; All3DP"
     },
     {
-      "id": "bf72ab6144",
-      "title": "Latest PTAB Rulings on Stratasys Patents Complicate Bambu Lab Lawsuit",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY29Pd1ByN1FpRWg2UDJzZ2Z0UC1ITmRwV180YjdKSFhranJobTRhTXV0M3lLdVFSZjhJUFp5VEhadWdINkdJNlV3THJUazBWWEFyNGNYZWlkU01aZ1NJTFdWa19DaXRucFpkSVh5Zm8xSUVJRF9DZzhxTUVYd1pGTFQ5a2V4a3hVcTNuR2JyVFUta3RiSnBCdUE5YjlDTzhxMWdQSlVaQ2RDU2d1b0NSd0lWSQ?oc=5",
-      "media": "3D Printing Industry",
-      "uvpm": 850000,
-      "uvpm_display": "850K",
+      "id": "8432226523",
+      "title": "Anker EufyMake Next-Gen Personal Fabric Printer: The Best Inventions of 2026",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEREZROXJyVXU5bGg4bE0yN2p0OTFfNk82NWZscjFVdVNJYkFtRTRiaDdRWlFkRjU3OWgtaUhGY181UU9GQ051SUNqdUxSenY2VUduVGFTanZ1MHBXYUhXWDlvSWlBcEdrLVZHcjFxdDBQTmFEOGtIaUdxYVRiZw?oc=5",
+      "media": "Time Magazine",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "eufyMake"
+      ],
+      "published": "2026-10-15T11:30:25+00:00",
+      "summary": "Anker EufyMake Next-Gen Personal Fabric Printer: The Best Inventions of 2026 &nbsp;&nbsp; Time Magazine"
+    },
+    {
+      "id": "c4073a7b89",
+      "title": "China has captured the market for hobbyist 3D printers",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVTlNazBIS2FKMnBrczItZXAzVmJrT0tFWmU5UU40NzdJUWxqUVZLR0xnc3Rxb0d4NGs5TE1PeUg3MTBOQ0ZhUGVBYkFxZ0hGU1RnZGlXTy1EdTZtYmFIUFlibnZIMHpFcVVoaWt5LWFseDZWUXNLamJEM3ZDbXlYcnBBUUNFMEpXdWd5VmdsZ092endqMnNidjJ4dEI5dw?oc=5",
+      "media": "The Economist",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-10-14T17:49:48+00:00",
-      "summary": "Latest PTAB Rulings on Stratasys Patents Complicate Bambu Lab Lawsuit &nbsp;&nbsp; 3D Printing Industry"
+      "published": "2026-10-15T12:50:21+00:00",
+      "summary": "China has captured the market for hobbyist 3D printers &nbsp;&nbsp; The Economist"
     },
     {
-      "id": "a9c117abc6",
-      "title": "New Formlabs Form Studio 1 launches: Technical Specifications and Pricing",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM1ZGQk9zUnZNZzZieTFmdndtdHFGdzNfdmxWSUp0Q0NCdFlIZHJVdkdGeWgyYVlwVkxVdWF5QUZsaGJsQUdtTUZPWkNqOVJ2LVZJSHN4ejFxUDI4bklNanpGMUh2SGFBUUJ3bU4xNWNpTXZlbENNalRSSG5fRWFOaVVfbklVNl9pWU5XOEtoa1hhRTRsM0dnVmxoWnp6NWxZb0FBc1o0cl9Zek1yLUgxRG9rbzV0X2s?oc=5",
-      "media": "3D Printing Industry",
-      "uvpm": 850000,
-      "uvpm_display": "850K",
-      "tier": 2,
-      "category": "product_news",
-      "brands": [
-        "Formlabs"
-      ],
-      "published": "2026-10-14T12:58:39+00:00",
-      "summary": "New Formlabs Form Studio 1 launches: Technical Specifications and Pricing &nbsp;&nbsp; 3D Printing Industry"
-    },
-    {
-      "id": "647b39497a",
-      "title": "Formlabs’ New Form Studio 1 3D Printer: The Clues Behind Its Push Into a Bigger Market",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXl5SVNRNEhkLWZEVkFYM1hOTEFBWi1VT0l5UmZSRGN1bkJnZHNCTjU0SFpWZ2pxam5Ydmw2a2hxamh3R0ZvOHc0U0U1SENETEJhaGlKVjNHSjJRUzBYaXFST3hkc0k2cnV1aHFOVjNVTDNOejc4VVVldFpuUmUyck5GQkE3SnN3WEt2SGo0ZTNoa05BR1JWYThIMVF5VGR3MzJiOXdRbjNib1hQOEp5RmIzSkdjSTdFNHhmbFplOGZ2RWlEc3NB?oc=5",
-      "media": "3D Printing Industry",
-      "uvpm": 850000,
-      "uvpm_display": "850K",
+      "id": "6d3b6b736b",
+      "title": "Inside xTool’s Push To Democratize Desktop Manufacturing",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rTFcyQ3pPYmpVOVRqZ0N5SDk4bEdnTHlFYWduVDUwTzNHV3lFbTJteE45YjhCU2ZldGVmZmFOMkYyMTZuMnJ2a0VvR1FTRHJFbElMRWZRMlJmYXQtcDduMXBReEFTVjNaUUNVR2wxOEtnSWttN3c4?oc=5",
+      "media": "CGMagazine",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "Formlabs"
+        "xTool"
       ],
-      "published": "2026-10-14T12:55:13+00:00",
-      "summary": "Formlabs’ New Form Studio 1 3D Printer: The Clues Behind Its Push Into a Bigger Market &nbsp;&nbsp; 3D Printing Industry"
+      "published": "2026-10-14T20:00:00+00:00",
+      "summary": "Inside xTool’s Push To Democratize Desktop Manufacturing &nbsp;&nbsp; CGMagazine"
     },
     {
-      "id": "008bb1f3f4",
-      "title": "xTool X1 first look: swappable laser sources in one maker workstation",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZnBVXzlyMGhxRS1ZODVMSW5ralBjS1J6TWVNUVFhYzFoRG1VWXI1S1NVZlJ1S0N2Y3JzdkhmSEs4SzN6VGFUNklfeTZCdUJZeEdNQzNTcm03TWxGUzBaZEIxUkJad2x5cWlfelRRaFI4LXh0S3pIX1ZGUlhaN1pSU3M1emdNX1BBYUwwRi01TklJOVI3SEYzYW5CWlVzS0FEWjBIYjRFblVxdw?oc=5",
-      "media": "The Gadgeteer",
+      "id": "18bfe65862",
+      "title": "Formlabs Form Studio 1 Review: Professional status, consumer price tag",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1val80NG9lVHdrRGk5cjNiQmg4QWlabjBrbWwzS2dxTUxUcTZrT2RDQjJiajdpdzdRbGVWTDI0MTQ1Y3VSYzhyV1hDY0hubndFMGMzMlE3bnRDNld5ZjkxYVpUODFLYi1NckJraEkwZkQ3UC14YlhmYzNR?oc=5",
+      "media": "Tom's Hardware",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "hands_on_review",
       "brands": [
-        "xTool"
+        "Formlabs"
       ],
-      "published": "2026-10-14T14:37:32+00:00",
-      "summary": "xTool X1 first look: swappable laser sources in one maker workstation &nbsp;&nbsp; The Gadgeteer"
+      "published": "2026-10-15T18:00:00+00:00",
+      "summary": "Formlabs Form Studio 1 Review: Professional status, consumer price tag &nbsp;&nbsp; Tom's Hardware"
     },
     {
-      "id": "bedeecbf38",
-      "title": "Beyond 3D Printing: xTool Partners with MIT Museum, Fab Foundation, and MIT CBA to Redefine the Future of Rapid Prototyping",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMC1ISEdoRE1lZ1NjbnJrdERFN2FkRGFqNVhnZTFnX1kzX2NyV0tfZ0dEc1gtNGRWYlN3RkxNUW45ZDU1VGkwUHVsQWFlYXBPMGNGZWRnMTFJVkVRbGVxeGpmb21FdEo4UGk1VW9ZRkxYZ1MwV3hXeFE4dUdibU9ZM2FvWU5LZkdiYkh0Qi1VREFGWFdCcFBrVl9EVDlHa2pzcFkzNUtRYUFmZE40VU9Xa09Zb3Q3bHFEXzBWYzM2d240Z3JuRS1mQnpOcXJXR1I4T0Y1b1ZyUTZvbWk0U3o2ZjFlckFrMmVrLUtCV3NTLXpDZzJvbllRS1lqSTVucVZrNkFIN2Fibw?oc=5",
-      "media": "PR Newswire",
+      "id": "0d34765c9f",
+      "title": "Formlabs introduces Form Studio 1 resin 3D printer",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb3AtTlhTVzZtVFJBNDJkdEdqT3NZZ1BWMk9HSWVxSHRUWjNDdS1xSlhDcm12c2Y1ZlRvLXhTbzJsLWZWR2dZWlNIem5XbDhUQW9UeUVfM2lOSjRINktqeVpvQ1Z2ZVlJLUMxcEdKT0x5eE04dVFhYXMwVWtlVWt2OXp6NGZ0UQ?oc=5",
+      "media": "Engineering.com",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "xTool"
+        "Formlabs"
       ],
-      "published": "2026-10-14T07:04:00+00:00",
-      "summary": "Beyond 3D Printing: xTool Partners with MIT Museum, Fab Foundation, and MIT CBA to Redefine the Future of Rapid Prototyping &nbsp;&nbsp; PR Newswire"
+      "published": "2026-10-15T14:40:25+00:00",
+      "summary": "Formlabs introduces Form Studio 1 resin 3D printer &nbsp;&nbsp; Engineering.com"
     },
     {
-      "id": "2ae15bbe86",
-      "title": "Formlabs Launches Form Studio 1 Resin Printer From $699",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVDV2V2dBa3A2azV0TmlpcEZXZ1RDRkZBdVZjMm5VY0ZfZjIzTDRhZUZPeEs4dXN1WjJLRlNtNDh6XzdOUXEzbGU4VDNFR2lCSVV6THN3QmotRlN1NDExZTdmOGwzbTFLeGRYYVFrZXNtd0o2UU5vb2I5Qy13dlBsNGRCZFlzZS1Uemw4?oc=5",
-      "media": "https://3dprinting.com/",
+      "id": "73e169d9a4",
+      "title": "Formlabs launches Form Studio 1 resin 3D printer at TCT Shenzhen",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVB0bnI0aVBmeW1pSHdmSzB5dEozYlFhU1lNZ0NBU29faVY1MFIzVXV6RnpWYVBxV0Z4eUtMWFF5OVdPR09hSENvV0R0X1lUdFN3d3JxM2gzTUVMbWl3eTFWZHU2aEJLeHBOVThWams5M0xBR2ZNMU11NEdFNERKR0Q0SEhxb2Etd3NjSnJ4WHo3UVRsQ1VDUnRB0gGfAUFVX3lxTFBzRFhFeFR1SFYySVZ5dWJuSGV4OVNILU5BVmhpTXM1b2VEYWlKZ1A0NFVXVUdmT0ktTjVoZUE3QjJyTzdqcFgwbXZVaXB5WUw2ajV5WUg3NDJkYTROUG93ZUNLX3VRWmQ5RS1FckxpVldkMFFuTWFib0FmeTVfWHFtYXY3TVlMd0IzUW5IZHVNSDRWcGMyZ0hNa3Jlb1VaRQ?oc=5",
+      "media": "VoxelMatters",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -170,14 +138,14 @@
       "brands": [
         "Formlabs"
       ],
-      "published": "2026-10-14T16:28:39+00:00",
-      "summary": "Formlabs Launches Form Studio 1 Resin Printer From $699 &nbsp;&nbsp; https://3dprinting.com/"
+      "published": "2026-10-15T09:43:06+00:00",
+      "summary": "Formlabs launches Form Studio 1 resin 3D printer at TCT Shenzhen &nbsp;&nbsp; VoxelMatters"
     },
     {
-      "id": "9d6b94fb7f",
-      "title": "Formlabs’ $699 Form Studio 1 costs a quarter of its professional Form 4",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUFZXeGZMZ0kzd3gteS1xdF8ya1NKVGdhM0hSVld6Wk5zTHZ6dGFKU2NIcWk3NFJTbC1jVUNmWUJ4azd4Ukt4WVlIN2JCUG8wcEFfMmR6TkhsVDZOblU0ZG1EWExDSjhuQ19Zc1hGbG54NHZpdlcyaXZNdWlzUWZQLVpMeGRzOXp1Q0I3OQ?oc=5",
-      "media": "Martin Cid Magazine",
+      "id": "2ed10ded7c",
+      "title": "Formlabs transforms at-home resin 3D printing with its Form Studio 1",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0tmaVR6Z2M2Q2hLTWMxeWo4aWs4YzkxNXYtSmpUcUgzV2JrNFFtcGdSNngtYzJnUENqTVR3ZEVlWFk3TndlbkJGREUtOEU3SmpiOU0wX3VPa01qYW51T1lXZEVzOUg4V3E3aUp4WmhlYnZhYzdzdnd6VmJFTWkwMmJHdTZGX004ZjQ2UW81WWlTYWVqMzY2YWU5dkFuVTY5Tk9McmtB?oc=5",
+      "media": "OC3D",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -185,119 +153,29 @@
       "brands": [
         "Formlabs"
       ],
-      "published": "2026-10-14T14:25:57+00:00",
-      "summary": "Formlabs’ $699 Form Studio 1 costs a quarter of its professional Form 4 &nbsp;&nbsp; Martin Cid Magazine"
+      "published": "2026-10-14T21:47:14+00:00",
+      "summary": "Formlabs transforms at-home resin 3D printing with its Form Studio 1 &nbsp;&nbsp; OC3D"
     },
     {
-      "id": "aa09940ef7",
-      "title": "Formlabs introduces Form Studio 1--the world's most affordable professional resin 3D printer, bringing professional-grade printing to more creators than ever",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNSkxaWWlPbFRGdlB6R3dDd2pYLVVDQkQxNlU3U3JSN2VVc1ZqbEpUdDZ3amN3dHdQZk1kNFRSdU1tZ3hnLTAzaUhTQmxLeERqSW13NVlIeVA1a1lkUkJiN0pya3dOaktZME4xNng1cDBhYlBFNXU3RUFaN2lIS3FIQmlwakh0RWlxS2loSDBJRnVZZkZueVJMeTM4U2VIZ1BGZzdpM3FteVo3SjhIa0RXZThtbFh3a3lITG5QSHZJMXlHZURHdk1BVTd2em95b09EbkVaTlRpMFIwS3ZPejhVeFMtU0lOc1NJanR2UEZPa1Q4WVR4X2N4ODh6SE5sUDVxNXdEeFlfX1ZieTNBUlh2eWpGOUtmRXNYSEpkWW5FYXZ6b2F6M1JSNVpQUnpRaTg5c1dn?oc=5",
-      "media": "PR Newswire",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Formlabs"
-      ],
-      "published": "2026-10-14T13:00:00+00:00",
-      "summary": "Formlabs introduces Form Studio 1--the world's most affordable professional resin 3D printer, bringing professional-grade printing to more creators than ever &nbsp;&nbsp; PR Newswire"
-    },
-    {
-      "id": "219cbb2c12",
-      "title": "Form Studio 1 debuts as new entry level Formlabs",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GLUJQVHIzWUlocXR1eGdmUmM3R1Z4YlFkYW13ZWF3MC1sUFJ0eU4xWmJkRG9yTi1XeTI1RTVWUW1UdWdMN1dsUjk0YTRaWFNVOElmVnhMbFNzaGFjLXlCQVByT3lCRlR6MW5NYXVNa2RYTkhVYlk1Yg?oc=5",
-      "media": "Develop3D",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Formlabs"
-      ],
-      "published": "2026-10-14T14:32:38+00:00",
-      "summary": "Form Studio 1 debuts as new entry level Formlabs &nbsp;&nbsp; Develop3D"
-    },
-    {
-      "id": "71f20e637c",
-      "title": "Formlabs Has a 3D Printer for Normies",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rUXB5cXFtNG55UEVBQlZWSGNnLXo4c0Z6OW5jVjJub3YxZU5reEM0VE0yZ0tlTHRYUHVZdV9vTTgwOEdCT1lXcjZJN3BnRkQyemcxMlRWZkVRUmZJUDRWMjRRMXJFY3NPMnFGYjNDZFl4ajlh?oc=5",
-      "media": "WIRED",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Formlabs"
-      ],
-      "published": "2026-10-14T13:00:00+00:00",
-      "summary": "Formlabs Has a 3D Printer for Normies &nbsp;&nbsp; WIRED"
-    },
-    {
-      "id": "4ab1b04613",
-      "title": "Formlabs Form Studio 1: $699 Resin 3D Printer with Alpha Resins - News and Statistics",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOG9ZNmxsbnpGT2JMdHR5UlJZRGhCLWVzZ1FycEhEbmxoSTlfYWEtVE9nMnBWUm4tZFRqcXBwTW9qYjQ3OHpqWFl1SEdVd1RPbERGa2ZsUnVsS01Tc1JRZE4zcmpDRWRhZTVuQVZVSnhUcEl0aHdUX05NR2prSWZ6NVUxbTZWaEVZOGxUX3ZsOXFwdTFSRXlWMlF6cVI0UTVqOV93R0pPNEE?oc=5",
-      "media": "IndexBox",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Formlabs"
-      ],
-      "published": "2026-10-14T13:43:57+00:00",
-      "summary": "Formlabs Form Studio 1: $699 Resin 3D Printer with Alpha Resins - News and Statistics &nbsp;&nbsp; IndexBox"
-    },
-    {
-      "id": "08fbb27b55",
-      "title": "Formlabs Puts a $699 Resin Printer on Hobbyists' Desks",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMU04ekdHbUEyZkczSUZmUGI0ZlpPS2Z6ZFRWYXktaGlKYUlrejUzbFJKQTVzX1lOakxtLUN4YUNzYUhVWDZUTndYeElHUmI0anVuYks5dU0taDFNbG1XVWZ6eXcxN0tMVWxMVlBtRzQ1OHJLaGw2WHRPMDJ1UHh4ZG55LXV1YzJV?oc=5",
-      "media": "Glitchwire",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Formlabs"
-      ],
-      "published": "2026-10-14T16:36:50+00:00",
-      "summary": "Formlabs Puts a $699 Resin Printer on Hobbyists' Desks &nbsp;&nbsp; Glitchwire"
-    },
-    {
-      "id": "3d1d1e480d",
-      "title": "Formlabs launches its most affordable SLA 3D printer ever",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbWh4NWxabk1GSl9wSWRTWmIybEh3TW5tSVVPTVpiV0FLbFZBMzBSa2lNX0lLZ3MzVVB2aUpGb0pIVkhlb0hpVlBRLUNnVDRPeFBXa1hkYUlxRThQMlpoaVZ1dEpiSGk2YnNIYnI4WkdSbWFySWUzWmVSWUxNS1lweWNFLVJPeEtHUzFON2FfUQ?oc=5",
+      "id": "2b2ff95122",
+      "title": "Formlabs has introduced an affordable, colourful 3D printer for newbies? I want one.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOG4tX0RrS2YzYnRWTDVnSEtISXBqbjY1bTNXMkNBVENuQUFLZ3FBTEtPMG1rRDBVWkRfczFPR29lVzEtSklvSTcxTXlweTBVQ3VQMVROU0RwQ29PdTBJNW1GWWRsRDZubzJQemlGMFdidW82UFVjNzNZenBjVXRXYzRNbFQ1eXVZc1hpZVN1MVNjdDc1Sl9NcUdDb1lhWGJzZVlQMVYyX3RZUmR1UW80?oc=5",
       "media": "TCT Magazine",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
-      "category": "product_news",
+      "category": "brand_news",
       "brands": [
         "Formlabs"
       ],
-      "published": "2026-10-14T13:00:28+00:00",
-      "summary": "Formlabs launches its most affordable SLA 3D printer ever &nbsp;&nbsp; TCT Magazine"
+      "published": "2026-10-15T13:05:40+00:00",
+      "summary": "Formlabs has introduced an affordable, colourful 3D printer for newbies? I want one. &nbsp;&nbsp; TCT Magazine"
     },
     {
-      "id": "a3b4602b1a",
-      "title": "Formlabs Launches Form Studio 1 Resin 3D Printer Starting at $699",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjQ2SHBQX2V4ZG10bjVQOHRhNFkxUDBYV3c1V0VCcDFOTGg4bjVobFNzR25zZ0pIbE1JV2NOeGtZaWMwZ01PUGxaV1BOWExtVXBPN0pyQTFRQTJJaUR3bjZCZDVOX1ZUc0RRUkxJdjZlaHRaMjE0WXRzdTBPN1JjV1M4eFMyUng4X0dXajNZcVBtZzVHX1Utb1pxY2hNRlk?oc=5",
-      "media": "Machine Maker",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "product_news",
-      "brands": [
-        "Formlabs"
-      ],
-      "published": "2026-10-14T14:35:27+00:00",
-      "summary": "Formlabs Launches Form Studio 1 Resin 3D Printer Starting at $699 &nbsp;&nbsp; Machine Maker"
-    },
-    {
-      "id": "59fcea9cba",
-      "title": "Formlabs Form Studio 1: MSLA resin printer starting at $699, featuring Formlabs' own Alpha resins and an open material mode",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPY0RqYWNGVmlpUURhQjdLWW0zLTlxOHhIcTZJZzBQckN1RUl6dHFPeGEybFRlVmhCdTNfS1Zud0d4bDE1R3EwdjBZMDRZeFlZWnJXTldUM194b1MtREN6MnBTRmhOY2RGeE9DenNBcXJuTFJIUVNURnRGMHBubXkyaThkMC1PeTROWm5URjhlUnBOd01FUE1iYUZrNEFncHVCUHFyTnNBUnlMZkd3ZFd0cjNFNXNyUHYta2FDd2NNWkZ3dmwtc2ZFRjRWYXE2ZGF3R2hmbGp0dGdWZGN4anJJTzgyTFhubFJNb0NUZ240cmZBSkRVbmZz?oc=5",
-      "media": "3Druck.com",
+      "id": "604ac8253c",
+      "title": "Formlabs drops the Raspberry Pi to build a $699 SLA printer",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQklUWElvbWExaXVZNzQ5aXVaa1hCYXRRaGJwWVpwZXZzcEdJbzZuRFNBSW16TVllczJMUTFsX0NubUthWkstSU8xVkQtNlh3MFRMbVVIQUwzOVI4OEkzSU9zTExlZVFPaGdPVDZCcVRKS0xfamJxWTZtR212c3ZsYWctQ1RnbDVBdXowWExyMmo?oc=5",
+      "media": "news.lavx.hu",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -305,23 +183,23 @@
       "brands": [
         "Formlabs"
       ],
-      "published": "2026-10-14T16:11:42+00:00",
-      "summary": "Formlabs Form Studio 1: MSLA resin printer starting at $699, featuring Formlabs' own Alpha resins and an open material mode &nbsp;&nbsp; 3Druck.com"
+      "published": "2026-10-15T09:05:34+00:00",
+      "summary": "Formlabs drops the Raspberry Pi to build a $699 SLA printer &nbsp;&nbsp; news.lavx.hu"
     },
     {
-      "id": "d120e36730",
-      "title": "Cricut to Announce Third Quarter 2026 Financial Results on November 3, 2026",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWk0amJaUFB6N0ZFTjBDdi00cXg5cXBqbDJwR0pJc3Z5YUZBclNhRWpub3VLYzRLYVAwMUI2Vk9uempUV0dJNk9WUk94ajJDOTV3SkZIV2dadURWVXhTSVJnNzY1VW9maTJjb3VPSmdiOThUTU9ESW9CNld3VnBobzM4RVVkbE1FbktrejZETUhGMXMwNGhfRHpfZVc0Q01BSE90Zi1pc1lTU1dJLXlBemhFYjNKVVdkQUt1eE1jMW9JZ2VlY21rRWlEdjJ0akhtSnc?oc=5",
-      "media": "StreetInsider",
+      "id": "a4942c0106",
+      "title": "'Amazing' gadget that turns photos into personalised stickers hailed as a great Christmas gift",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmh0aVloQl9ZM0VyeHk1bjhXUFlreFhYNXRGN1hIVzJTVThPWjFiOFA4b0w2LVJJZUROc3V2SHhRSHdEclo2SlFnbXNFeTVBanpqUG9EMzJrcFJsS0VQd0J2WEswdFBGUERfN1hCcUFKUGVLdm03RVNNdjZzUjVBVTIydXludkZMVkdUVzZxN2hweW5GaXZB0gGcAUFVX3lxTE0zckpRNHE4b0dNSlNRZ3F5NVBKRTJQNFQ4RGx1R0o4WGFXQU9DVGZVUU5FaDdIU0ZlRTZ1cUEtX1pfalU5M29IMGxZbmRzZ3NHRnVhNEM1QUV4MEFlMDVSYkpLMHpienoyWThNNm14OWxnNjdxZVU5dkRwVk9XYUJtMEt0VFlsMjFvSC1QWEF4dUEwLVJSX2VRck5wdw?oc=5",
+      "media": "Wales Online",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
-      "category": "product_news",
+      "category": "brand_news",
       "brands": [
         "Cricut"
       ],
-      "published": "2026-10-13T20:18:45+00:00",
-      "summary": "Cricut to Announce Third Quarter 2026 Financial Results on November 3, 2026 &nbsp;&nbsp; StreetInsider"
+      "published": "2026-10-15T18:03:00+00:00",
+      "summary": "'Amazing' gadget that turns photos into personalised stickers hailed as a great Christmas gift &nbsp;&nbsp; Wales Online"
     }
   ]
 }
