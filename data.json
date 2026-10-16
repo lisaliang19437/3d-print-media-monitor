@@ -1,76 +1,48 @@
 {
-  "date": "2026-10-15",
-  "updated_at": "2026-10-15 19:30 UTC",
+  "date": "2026-10-16",
+  "updated_at": "2026-10-16 19:05 UTC",
   "stats": {
-    "total": 12,
-    "total_reach_display": "6.9M",
+    "total": 5,
+    "total_reach_display": "11.2M",
     "brands_hit": 5,
     "brands_total": 10,
-    "media_count": 12
+    "media_count": 5
   },
   "brand_counts": {
-    "eufyMake": 2,
+    "eufyMake": 0,
     "Bambu Lab": 2,
-    "xTool": 1,
+    "xTool": 0,
     "Procolored": 0,
-    "Anycubic": 0,
-    "Formlabs": 6,
+    "Anycubic": 1,
+    "Formlabs": 2,
     "Longer": 0,
     "Elegoo": 0,
-    "Creality": 0,
+    "Creality": 1,
     "Cricut": 1
   },
   "articles": [
     {
-      "id": "889679b99e",
-      "title": "Bambu Lab Is Building More Than 3D Printers. Now Comes the S1 Scanner",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGJBVFJJVjRxQy1fYkpQX2xsUmh2M0RfUXNmcnVLZEpsMDEyem5lRWVZMHdJV2V2N0VreVFrWUowOUpKRTJTTjBSa1ZuWmlJNVhrcEd1VEQ1Q2ZFOGtYTjctOTZaNXZ6MkppYnNBNWl3dFlCMmRWa3JOVU5rTHF0Xy1aanZ5VTVRNlpjQk91eGx0TDF1UHMyTFR6NlDSAaIBQVVfeXFMUExLVF9KVmEwOTloeU1pUTVZN2ZfOFBCVERrX1RmSFE2LXNrRTdXVlFkdjJiVDJJTGxiTG5nX1o5NjJzdWt5VFQ0eG5IVDBRbG1yWHEzOEJMbXhLN202OWRWZm1JeXpOUTVaNWp4SnU0SkZBVld6UmNncm1YOHdyb3dIY1BZNThRN2xURlJraWZHT0Utczd4ME1jc0cyOUsxNzFB?oc=5",
-      "media": "3DPrint.com",
-      "uvpm": 2100000,
-      "uvpm_display": "2.1M",
-      "tier": 2,
+      "id": "47e7c94285",
+      "title": "October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1YlVROHE0MUxXTFBRZXM1VTZPR0RyTGVwWXhGczBURlJjZ21hWndxYnlpSHRYQzUtQXUweFVpNGxFYUpoZWZKRnF1cy1BOEJFOU1BZ0I1YkpqMFF1X0dlUmJGT2R5OU1tdnVJZFc3aWw3eTV6UEZfWlVB?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
       "category": "brand_news",
       "brands": [
-        "Bambu Lab"
+        "Bambu Lab",
+        "Anycubic",
+        "Creality"
       ],
-      "published": "2026-10-15T07:17:17+00:00",
-      "summary": "Bambu Lab Is Building More Than 3D Printers. Now Comes the S1 Scanner &nbsp;&nbsp; 3DPrint.com"
+      "published": "2026-10-16T04:06:29+00:00",
+      "summary": "October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more &nbsp;&nbsp; Mashable"
     },
     {
-      "id": "707c6e5e23",
-      "title": "Print Up to 75% Faster: Anker eufyMake E1 Update Unlocks Bidirectional Printing and More",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdm4yZ3RUcWxFVWxXMzVTSXhFVG94TURySmloR1JOOFFna2c1aGQ1RE5OYjU4djdoenpJNVZOV3ZTWmJrWElCZmE3TkZFTWFQQ09TYXNKWVFVUXZkQmFNWFFieGNscURkdEJvV3dwaVhsbkJURjY2UkhnLVY0Tlgta3R3RTR5b25lVWNRRW4yWERKVExqV1NadWVfU3RwOFBPenRvMQ?oc=5",
-      "media": "All3DP",
-      "uvpm": 1800000,
-      "uvpm_display": "1.8M",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "eufyMake"
-      ],
-      "published": "2026-10-15T14:20:40+00:00",
-      "summary": "Print Up to 75% Faster: Anker eufyMake E1 Update Unlocks Bidirectional Printing and More &nbsp;&nbsp; All3DP"
-    },
-    {
-      "id": "8432226523",
-      "title": "Anker EufyMake Next-Gen Personal Fabric Printer: The Best Inventions of 2026",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEREZROXJyVXU5bGg4bE0yN2p0OTFfNk82NWZscjFVdVNJYkFtRTRiaDdRWlFkRjU3OWgtaUhGY181UU9GQ051SUNqdUxSenY2VUduVGFTanZ1MHBXYUhXWDlvSWlBcEdrLVZHcjFxdDBQTmFEOGtIaUdxYVRiZw?oc=5",
-      "media": "Time Magazine",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "eufyMake"
-      ],
-      "published": "2026-10-15T11:30:25+00:00",
-      "summary": "Anker EufyMake Next-Gen Personal Fabric Printer: The Best Inventions of 2026 &nbsp;&nbsp; Time Magazine"
-    },
-    {
-      "id": "c4073a7b89",
-      "title": "China has captured the market for hobbyist 3D printers",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVTlNazBIS2FKMnBrczItZXAzVmJrT0tFWmU5UU40NzdJUWxqUVZLR0xnc3Rxb0d4NGs5TE1PeUg3MTBOQ0ZhUGVBYkFxZ0hGU1RnZGlXTy1EdTZtYmFIUFlibnZIMHpFcVVoaWt5LWFseDZWUXNLamJEM3ZDbXlYcnBBUUNFMEpXdWd5VmdsZ092endqMnNidjJ4dEI5dw?oc=5",
-      "media": "The Economist",
+      "id": "470012d879",
+      "title": "Bambu Lab is now selling 3D scanners",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxVW03bFFuYmpCdi1Cak1JcTIxUndITkNEM29sVkFVdllEMHgwMUZ2eXN0dnNOaUVBa3VhcDNnYVI4SWNUVmNmWVFscW1Nclo2SnFYb2w3cFlNV2ZzUHhDNkswc1JwaTFj?oc=5",
+      "media": "3d adept media",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -78,59 +50,14 @@
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-10-15T12:50:21+00:00",
-      "summary": "China has captured the market for hobbyist 3D printers &nbsp;&nbsp; The Economist"
+      "published": "2026-10-16T06:05:34+00:00",
+      "summary": "Bambu Lab is now selling 3D scanners &nbsp;&nbsp; 3d adept media"
     },
     {
-      "id": "6d3b6b736b",
-      "title": "Inside xTool’s Push To Democratize Desktop Manufacturing",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rTFcyQ3pPYmpVOVRqZ0N5SDk4bEdnTHlFYWduVDUwTzNHV3lFbTJteE45YjhCU2ZldGVmZmFOMkYyMTZuMnJ2a0VvR1FTRHJFbElMRWZRMlJmYXQtcDduMXBReEFTVjNaUUNVR2wxOEtnSWttN3c4?oc=5",
-      "media": "CGMagazine",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "xTool"
-      ],
-      "published": "2026-10-14T20:00:00+00:00",
-      "summary": "Inside xTool’s Push To Democratize Desktop Manufacturing &nbsp;&nbsp; CGMagazine"
-    },
-    {
-      "id": "18bfe65862",
-      "title": "Formlabs Form Studio 1 Review: Professional status, consumer price tag",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1val80NG9lVHdrRGk5cjNiQmg4QWlabjBrbWwzS2dxTUxUcTZrT2RDQjJiajdpdzdRbGVWTDI0MTQ1Y3VSYzhyV1hDY0hubndFMGMzMlE3bnRDNld5ZjkxYVpUODFLYi1NckJraEkwZkQ3UC14YlhmYzNR?oc=5",
-      "media": "Tom's Hardware",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "hands_on_review",
-      "brands": [
-        "Formlabs"
-      ],
-      "published": "2026-10-15T18:00:00+00:00",
-      "summary": "Formlabs Form Studio 1 Review: Professional status, consumer price tag &nbsp;&nbsp; Tom's Hardware"
-    },
-    {
-      "id": "0d34765c9f",
-      "title": "Formlabs introduces Form Studio 1 resin 3D printer",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb3AtTlhTVzZtVFJBNDJkdEdqT3NZZ1BWMk9HSWVxSHRUWjNDdS1xSlhDcm12c2Y1ZlRvLXhTbzJsLWZWR2dZWlNIem5XbDhUQW9UeUVfM2lOSjRINktqeVpvQ1Z2ZVlJLUMxcEdKT0x5eE04dVFhYXMwVWtlVWt2OXp6NGZ0UQ?oc=5",
-      "media": "Engineering.com",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Formlabs"
-      ],
-      "published": "2026-10-15T14:40:25+00:00",
-      "summary": "Formlabs introduces Form Studio 1 resin 3D printer &nbsp;&nbsp; Engineering.com"
-    },
-    {
-      "id": "73e169d9a4",
-      "title": "Formlabs launches Form Studio 1 resin 3D printer at TCT Shenzhen",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVB0bnI0aVBmeW1pSHdmSzB5dEozYlFhU1lNZ0NBU29faVY1MFIzVXV6RnpWYVBxV0Z4eUtMWFF5OVdPR09hSENvV0R0X1lUdFN3d3JxM2gzTUVMbWl3eTFWZHU2aEJLeHBOVThWams5M0xBR2ZNMU11NEdFNERKR0Q0SEhxb2Etd3NjSnJ4WHo3UVRsQ1VDUnRB0gGfAUFVX3lxTFBzRFhFeFR1SFYySVZ5dWJuSGV4OVNILU5BVmhpTXM1b2VEYWlKZ1A0NFVXVUdmT0ktTjVoZUE3QjJyTzdqcFgwbXZVaXB5WUw2ajV5WUg3NDJkYTROUG93ZUNLX3VRWmQ5RS1FckxpVldkMFFuTWFib0FmeTVfWHFtYXY3TVlMd0IzUW5IZHVNSDRWcGMyZ0hNa3Jlb1VaRQ?oc=5",
-      "media": "VoxelMatters",
+      "id": "1f5c3a734b",
+      "title": "Formlabs launches $699 resin 3D printer for home creators",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkNzRWhaT2N2WnAzalkwZy1QQ29ZZDEyeG84YWVSRjdqaUd1SlNEMWdUTE9XZG54LTJKai1wM2RiNFJwamdUdWI4X3B0VGhxeGZlU0xxRDJfUDI2TnNCYnhLYWdzTjZTUHRYVkx0aHNkcGc1cURZS3A2QUhFWnpYbjVrS1FSVElEQ2ZLMWZJejBIdEE1WXZjNmJCWkN1cXZ0bm1v?oc=5",
+      "media": "Notebookcheck",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -138,68 +65,38 @@
       "brands": [
         "Formlabs"
       ],
-      "published": "2026-10-15T09:43:06+00:00",
-      "summary": "Formlabs launches Form Studio 1 resin 3D printer at TCT Shenzhen &nbsp;&nbsp; VoxelMatters"
+      "published": "2026-10-16T05:28:00+00:00",
+      "summary": "Formlabs launches $699 resin 3D printer for home creators &nbsp;&nbsp; Notebookcheck"
     },
     {
-      "id": "2ed10ded7c",
-      "title": "Formlabs transforms at-home resin 3D printing with its Form Studio 1",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0tmaVR6Z2M2Q2hLTWMxeWo4aWs4YzkxNXYtSmpUcUgzV2JrNFFtcGdSNngtYzJnUENqTVR3ZEVlWFk3TndlbkJGREUtOEU3SmpiOU0wX3VPa01qYW51T1lXZEVzOUg4V3E3aUp4WmhlYnZhYzdzdnd6VmJFTWkwMmJHdTZGX004ZjQ2UW81WWlTYWVqMzY2YWU5dkFuVTY5Tk9McmtB?oc=5",
-      "media": "OC3D",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Formlabs"
-      ],
-      "published": "2026-10-14T21:47:14+00:00",
-      "summary": "Formlabs transforms at-home resin 3D printing with its Form Studio 1 &nbsp;&nbsp; OC3D"
-    },
-    {
-      "id": "2b2ff95122",
-      "title": "Formlabs has introduced an affordable, colourful 3D printer for newbies? I want one.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOG4tX0RrS2YzYnRWTDVnSEtISXBqbjY1bTNXMkNBVENuQUFLZ3FBTEtPMG1rRDBVWkRfczFPR29lVzEtSklvSTcxTXlweTBVQ3VQMVROU0RwQ29PdTBJNW1GWWRsRDZubzJQemlGMFdidW82UFVjNzNZenBjVXRXYzRNbFQ1eXVZc1hpZVN1MVNjdDc1Sl9NcUdDb1lhWGJzZVlQMVYyX3RZUmR1UW80?oc=5",
-      "media": "TCT Magazine",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Formlabs"
-      ],
-      "published": "2026-10-15T13:05:40+00:00",
-      "summary": "Formlabs has introduced an affordable, colourful 3D printer for newbies? I want one. &nbsp;&nbsp; TCT Magazine"
-    },
-    {
-      "id": "604ac8253c",
-      "title": "Formlabs drops the Raspberry Pi to build a $699 SLA printer",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQklUWElvbWExaXVZNzQ5aXVaa1hCYXRRaGJwWVpwZXZzcEdJbzZuRFNBSW16TVllczJMUTFsX0NubUthWkstSU8xVkQtNlh3MFRMbVVIQUwzOVI4OEkzSU9zTExlZVFPaGdPVDZCcVRKS0xfamJxWTZtR212c3ZsYWctQ1RnbDVBdXowWExyMmo?oc=5",
+      "id": "cc4ed23949",
+      "title": "Formlabs Form Studio 1 review: professional reliability at a $699 price",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMVJSb1diTE51QXJWZ0JwVnlqN2Z2Qm50Wkh6YUVaNG5iNDdaWTdNaUoyYUYyenpkQXQ4WnNPenExcVloR3RnRXJhTGxMckhJaU1PZG1OMzU5ME9XR3VKU2NHSjRtMHRoczFoZ0JjeVdRU0pMWWZibDJUbW5ySVpjeGg1Y2JKOGNEaTVoWE9OYlN5RF9YXzhkam9mMWJWRUk?oc=5",
       "media": "news.lavx.hu",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
-      "category": "brand_news",
+      "category": "hands_on_review",
       "brands": [
         "Formlabs"
       ],
-      "published": "2026-10-15T09:05:34+00:00",
-      "summary": "Formlabs drops the Raspberry Pi to build a $699 SLA printer &nbsp;&nbsp; news.lavx.hu"
+      "published": "2026-10-16T04:29:46+00:00",
+      "summary": "Formlabs Form Studio 1 review: professional reliability at a $699 price &nbsp;&nbsp; news.lavx.hu"
     },
     {
-      "id": "a4942c0106",
-      "title": "'Amazing' gadget that turns photos into personalised stickers hailed as a great Christmas gift",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmh0aVloQl9ZM0VyeHk1bjhXUFlreFhYNXRGN1hIVzJTVThPWjFiOFA4b0w2LVJJZUROc3V2SHhRSHdEclo2SlFnbXNFeTVBanpqUG9EMzJrcFJsS0VQd0J2WEswdFBGUERfN1hCcUFKUGVLdm03RVNNdjZzUjVBVTIydXludkZMVkdUVzZxN2hweW5GaXZB0gGcAUFVX3lxTE0zckpRNHE4b0dNSlNRZ3F5NVBKRTJQNFQ4RGx1R0o4WGFXQU9DVGZVUU5FaDdIU0ZlRTZ1cUEtX1pfalU5M29IMGxZbmRzZ3NHRnVhNEM1QUV4MEFlMDVSYkpLMHpienoyWThNNm14OWxnNjdxZVU5dkRwVk9XYUJtMEt0VFlsMjFvSC1QWEF4dUEwLVJSX2VRck5wdw?oc=5",
-      "media": "Wales Online",
+      "id": "326f060f7e",
+      "title": "I Tested The Cricut StickerPix Print + Cut, And Now Everything Needs A Sticker",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZHN2TTRQYU90Wm1oTi1pNjZFZFpDVGRZMi1FR09KdklOYzk0YTc5M1VqZl9OQ2czVHhBTHFTUmh6TzhUYzE3cUtNVWhxcjhjUXNFb2loQ0tFY1dDNllTY0JqdTJhbWJhbndnZU9aWGRDNFlGRU9DWnJmUE85b0hYZWtqR2x5SmgtX2c?oc=5",
+      "media": "CTV News",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
-      "category": "brand_news",
+      "category": "hands_on_review",
       "brands": [
         "Cricut"
       ],
-      "published": "2026-10-15T18:03:00+00:00",
-      "summary": "'Amazing' gadget that turns photos into personalised stickers hailed as a great Christmas gift &nbsp;&nbsp; Wales Online"
+      "published": "2026-10-15T19:25:57+00:00",
+      "summary": "I Tested The Cricut StickerPix Print + Cut, And Now Everything Needs A Sticker &nbsp;&nbsp; CTV News"
     }
   ]
 }

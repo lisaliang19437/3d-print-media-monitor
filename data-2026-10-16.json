@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-16",
+  "updated_at": "2026-10-16 19:05 UTC",
+  "stats": {
+    "total": 5,
+    "total_reach_display": "11.2M",
+    "brands_hit": 5,
+    "brands_total": 10,
+    "media_count": 5
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 2,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 1,
+    "Formlabs": 2,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 1,
+    "Cricut": 1
+  },
+  "articles": [
+    {
+      "id": "47e7c94285",
+      "title": "October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1YlVROHE0MUxXTFBRZXM1VTZPR0RyTGVwWXhGczBURlJjZ21hWndxYnlpSHRYQzUtQXUweFVpNGxFYUpoZWZKRnF1cy1BOEJFOU1BZ0I1YkpqMFF1X0dlUmJGT2R5OU1tdnVJZFc3aWw3eTV6UEZfWlVB?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab",
+        "Anycubic",
+        "Creality"
+      ],
+      "published": "2026-10-16T04:06:29+00:00",
+      "summary": "October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more &nbsp;&nbsp; Mashable"
+    },
+    {
+      "id": "470012d879",
+      "title": "Bambu Lab is now selling 3D scanners",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxVW03bFFuYmpCdi1Cak1JcTIxUndITkNEM29sVkFVdllEMHgwMUZ2eXN0dnNOaUVBa3VhcDNnYVI4SWNUVmNmWVFscW1Nclo2SnFYb2w3cFlNV2ZzUHhDNkswc1JwaTFj?oc=5",
+      "media": "3d adept media",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-16T06:05:34+00:00",
+      "summary": "Bambu Lab is now selling 3D scanners &nbsp;&nbsp; 3d adept media"
+    },
+    {
+      "id": "1f5c3a734b",
+      "title": "Formlabs launches $699 resin 3D printer for home creators",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkNzRWhaT2N2WnAzalkwZy1QQ29ZZDEyeG84YWVSRjdqaUd1SlNEMWdUTE9XZG54LTJKai1wM2RiNFJwamdUdWI4X3B0VGhxeGZlU0xxRDJfUDI2TnNCYnhLYWdzTjZTUHRYVkx0aHNkcGc1cURZS3A2QUhFWnpYbjVrS1FSVElEQ2ZLMWZJejBIdEE1WXZjNmJCWkN1cXZ0bm1v?oc=5",
+      "media": "Notebookcheck",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Formlabs"
+      ],
+      "published": "2026-10-16T05:28:00+00:00",
+      "summary": "Formlabs launches $699 resin 3D printer for home creators &nbsp;&nbsp; Notebookcheck"
+    },
+    {
+      "id": "cc4ed23949",
+      "title": "Formlabs Form Studio 1 review: professional reliability at a $699 price",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMVJSb1diTE51QXJWZ0JwVnlqN2Z2Qm50Wkh6YUVaNG5iNDdaWTdNaUoyYUYyenpkQXQ4WnNPenExcVloR3RnRXJhTGxMckhJaU1PZG1OMzU5ME9XR3VKU2NHSjRtMHRoczFoZ0JjeVdRU0pMWWZibDJUbW5ySVpjeGg1Y2JKOGNEaTVoWE9OYlN5RF9YXzhkam9mMWJWRUk?oc=5",
+      "media": "news.lavx.hu",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Formlabs"
+      ],
+      "published": "2026-10-16T04:29:46+00:00",
+      "summary": "Formlabs Form Studio 1 review: professional reliability at a $699 price &nbsp;&nbsp; news.lavx.hu"
+    },
+    {
+      "id": "326f060f7e",
+      "title": "I Tested The Cricut StickerPix Print + Cut, And Now Everything Needs A Sticker",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZHN2TTRQYU90Wm1oTi1pNjZFZFpDVGRZMi1FR09KdklOYzk0YTc5M1VqZl9OQ2czVHhBTHFTUmh6TzhUYzE3cUtNVWhxcjhjUXNFb2loQ0tFY1dDNllTY0JqdTJhbWJhbndnZU9aWGRDNFlGRU9DWnJmUE85b0hYZWtqR2x5SmgtX2c?oc=5",
+      "media": "CTV News",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-10-15T19:25:57+00:00",
+      "summary": "I Tested The Cricut StickerPix Print + Cut, And Now Everything Needs A Sticker &nbsp;&nbsp; CTV News"
+    }
+  ]
+}
