@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-17",
+  "updated_at": "2026-10-17 17:59 UTC",
+  "stats": {
+    "total": 1,
+    "total_reach_display": "300K",
+    "brands_hit": 1,
+    "brands_total": 10,
+    "media_count": 1
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 0,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 0,
+    "Cricut": 1
+  },
+  "articles": [
+    {
+      "id": "e551241317",
+      "title": "Cricut schedules results for November 3, 2026: Cricut stock last traded at USD 6.45",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHVpdVRsTE1hal9HS2VLX1NPNHJ1UXFfOVNJRmlmQThSN0Fud3ZyZmhYNEdlRkNFYkxmSktUVW04WExvSDVmSC1YcDN1Rm5IRWJzck1JbkhkeWhpWHR1enQ4SXFRNzlkemVNeXhqU0RuVEozUEhEekttZUtldkFSWGJxa1hRZ3IyVG1BMTJzSzBHeXhmQnpHaC1BUWh5RUZxck52d05oN08zNjRQZXp0cFl4OTVBUTlDUmpZZHZDcWl2QTU5V0Zpc2Y2cw?oc=5",
+      "media": "ad-hoc-news.de",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-10-17T17:43:45+00:00",
+      "summary": "Cricut schedules results for November 3, 2026: Cricut stock last traded at USD 6.45 &nbsp;&nbsp; ad-hoc-news.de"
+    }
+  ]
+}
