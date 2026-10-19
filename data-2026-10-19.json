@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-19",
+  "updated_at": "2026-10-19 20:45 UTC",
+  "stats": {
+    "total": 1,
+    "total_reach_display": "300K",
+    "brands_hit": 1,
+    "brands_total": 10,
+    "media_count": 1
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 1,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 0,
+    "Cricut": 0
+  },
+  "articles": [
+    {
+      "id": "a2306e3f29",
+      "title": "I skipped Bambu's cloud with 3 open-source tools, and I can still check prints from anywhere",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUJmSWZ6N0JqaUVFcGZoaml3SFcxczBJVzZ2cEdaSDNzWlMwb0ZucEhZeE1GdkN4WElnYXVadXA1WFBjUDlHNEkwdG5tU1VUa3lGdk1MTVdRRW5JQWN2OXZIZUtQdDNtdkxJcGRZdmpfY3ZndDNmamw3aUlqQ1Y0bkRWaVZGN3VBWHRpcERzalJHWnJOX2o0SU9vSkxpcWpja2x0T0FYQXFXakJNQWJJRjBCNDYwQQ?oc=5",
+      "media": "How-To Geek",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-19T14:00:15+00:00",
+      "summary": "I skipped Bambu's cloud with 3 open-source tools, and I can still check prints from anywhere &nbsp;&nbsp; How-To Geek"
+    }
+  ]
+}
