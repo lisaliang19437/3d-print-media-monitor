@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-20",
+  "updated_at": "2026-10-20 19:40 UTC",
+  "stats": {
+    "total": 5,
+    "total_reach_display": "1.5M",
+    "brands_hit": 3,
+    "brands_total": 10,
+    "media_count": 5
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 1,
+    "xTool": 1,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 0,
+    "Cricut": 3
+  },
+  "articles": [
+    {
+      "id": "199fc7c1ef",
+      "title": "3D-Printed Toys: The Bambu Lab P2S in Everyday Family Life",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUFabjJCRW9YT1dhNUpHZDFWRFl5c282VlZYWl9DYmg3NE0wcTNKUWR0U3MxcE14bVNXTXF2cjJRYnlQNC1BYVlIUXJxVWZQWGVUYmUzU2oxZFZmSnFMMVF2SkVxQ1c4YjVMbmZGelczZlI3UUYxcVRFWUkybmNldllsNkxYeEM1czNpMU13eVoteURwQTlHeWxWek1vbTBJR2c5S1RmWHcybUU?oc=5",
+      "media": "3Druck.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-20T09:22:53+00:00",
+      "summary": "3D-Printed Toys: The Bambu Lab P2S in Everyday Family Life &nbsp;&nbsp; 3Druck.com"
+    },
+    {
+      "id": "3928071b1b",
+      "title": "xTool Launches C1 Color Cutter, Combining Full-Color Printing, Scanning, and Precision Cutting in One Machine",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQek5lN2pJQm1oVWRCVGZNS0pLR1Yxa3ZRT296bWVXODhKZU44Z01fZDFETGtrRVFXVzJmYllTNUNfUW9teEh2c19CUWpzRURQYkRzYmpOaFdxLU5EUnRwRjBUSTBOaERTNkFXZnZhc2d1a1hRbVRIMjd4QW5CZ28zbzBCNHBXU0pIdDU0Q0JDRWVpM3FoMjR3Uml5QXI0MmtJdGp2OTlwT0pjV3QyQnpHMEdJaVpGS1UyQ1cwa0NwWkVqaV93RTRWa1VHa2dTSEYyVmpqVkFpc0ozU2s3VVZrbG5UeTR0bnNFWGs5QXdCV0kzUTRa?oc=5",
+      "media": "PR Newswire",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-10-20T13:00:00+00:00",
+      "summary": "xTool Launches C1 Color Cutter, Combining Full-Color Printing, Scanning, and Precision Cutting in One Machine &nbsp;&nbsp; PR Newswire"
+    },
+    {
+      "id": "001c165dea",
+      "title": "Cricut StickerPix Print + Cut review: a playful, professional printer with a hidden cost",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVQQV9UZFlZOElLdHJGcGFFYlR6Rmt2blBqdFVzN0ZGSzRoVUFwM1YtcnhrbktzSlJqSUdSWGRyVlZ3cE11dk1ER1RYTFJOS2YyM1JZSGViMTZXQ2hnbVh3djQ0bWZJNTRaeEQ4MzE0cVpLWVctT01FRzg0MWdQR0JRMjBfZkt0SElHcWp3bUJxQ0VRR00xSjJFUDVobVB3VTVXNmZfeGpRWWozNHZObFJhdHY1dXMyMGt4RmZnTWdvdw?oc=5",
+      "media": "Creative Bloq",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-10-20T14:00:00+00:00",
+      "summary": "Cricut StickerPix Print + Cut review: a playful, professional printer with a hidden cost &nbsp;&nbsp; Creative Bloq"
+    },
+    {
+      "id": "ee26a0ffe4",
+      "title": "Cricut Maker 5 review brings more room to create, takes less room on the desk",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMGN1bjRNSzZ1eUUxaGJ2VGF4TTdPdGlxaGRpNnEydjJKMlNNcG01dDBDdFZKQkZ5QnNsMWNpWmNDUUR5NE9vcFpfbWh2SFo0TThFSVFCNlcyNk5FNjNsQnFZWXpMa01jUXA3MFpPZlNkbXlJQ2dEdkRCTzJRSUdUZEJZU0p3RWw5ZnprVVJkNmpFTGJZczNETy1yUElnUEV4Rmk2WkdLWTBmVmxpMzZ2d2xJTG1hSlk?oc=5",
+      "media": "iTWire",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-10-20T01:05:37+00:00",
+      "summary": "Cricut Maker 5 review brings more room to create, takes less room on the desk &nbsp;&nbsp; iTWire"
+    },
+    {
+      "id": "5eb4f6c798",
+      "title": "Cricut launches into new category",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yMkFvamFKNjRwQUxIU3l3TUNpRGc5RkpNZ1FkTkFlOUpEUm81cDQwSjV2OUw5SndwQlRTRzE5cFlkcjZvYTZhcXc5S3lkdXQxZTFoUVZ5dWlYV24wejJsTkFqY0tDWkktOWtyR29XTXA5RzR4ZU9XajE1OA?oc=5",
+      "media": "Appliance Retailer",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-10-20T03:02:50+00:00",
+      "summary": "Cricut launches into new category &nbsp;&nbsp; Appliance Retailer"
+    }
+  ]
+}
