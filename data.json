@@ -1,31 +1,61 @@
 {
-  "date": "2026-10-20",
-  "updated_at": "2026-10-20 19:40 UTC",
+  "date": "2026-10-21",
+  "updated_at": "2026-10-21 19:43 UTC",
   "stats": {
-    "total": 5,
-    "total_reach_display": "1.5M",
-    "brands_hit": 3,
+    "total": 6,
+    "total_reach_display": "2.0M",
+    "brands_hit": 4,
     "brands_total": 10,
     "media_count": 5
   },
   "brand_counts": {
     "eufyMake": 0,
-    "Bambu Lab": 1,
+    "Bambu Lab": 3,
     "xTool": 1,
     "Procolored": 0,
     "Anycubic": 0,
-    "Formlabs": 0,
+    "Formlabs": 1,
     "Longer": 0,
     "Elegoo": 0,
-    "Creality": 0,
-    "Cricut": 3
+    "Creality": 2,
+    "Cricut": 0
   },
   "articles": [
     {
-      "id": "199fc7c1ef",
-      "title": "3D-Printed Toys: The Bambu Lab P2S in Everyday Family Life",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUFabjJCRW9YT1dhNUpHZDFWRFl5c282VlZYWl9DYmg3NE0wcTNKUWR0U3MxcE14bVNXTXF2cjJRYnlQNC1BYVlIUXJxVWZQWGVUYmUzU2oxZFZmSnFMMVF2SkVxQ1c4YjVMbmZGelczZlI3UUYxcVRFWUkybmNldllsNkxYeEM1czNpMU13eVoteURwQTlHeWxWek1vbTBJR2c5S1RmWHcybUU?oc=5",
-      "media": "3Druck.com",
+      "id": "eba5d86e7f",
+      "title": "FormLabs Has Finally Released an Affordable, Consumer-Friendly Resin 3D Printer",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWGRUNkZFa0U4a0RnajRMS2xkdEd1Z1E1VktlU3pMaGx5RzRwdENGbjVNZzdXdXduQ0JZZF9Nd1JNX3pNWTFXRU5Mcl9Fay15VHlHMnk0cWJKT19IMEVtczNNV3Q1b3JTYUxJUEp5MHhSQlpMR3FGdHlwSS00X1BILU1QR1VzcXh1MW1WS09MaDdzbG1nSy1sekVBTG1OMVo1ejhlZ0xyNGhCM3ZnVl9GUm01QlVfYkZ3SG51cg?oc=5",
+      "media": "Hackster.io",
+      "uvpm": 800000,
+      "uvpm_display": "800K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Formlabs"
+      ],
+      "published": "2026-10-21T11:46:32+00:00",
+      "summary": "FormLabs Has Finally Released an Affordable, Consumer-Friendly Resin 3D Printer &nbsp;&nbsp; Hackster.io"
+    },
+    {
+      "id": "599aa96dd6",
+      "title": "My Bambu Lab printers were already fast, but this upgrade made them smarter",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWU1fcVRtUE1Vak56MzBTWDJ1RDNzX0xKSEJlRGU3QjdmSHM2MkJqdWNtVDFvbmxoN0RLT3U4TkZrSjh5TWRRTG9zVDczSE1aQTEtLXFmZGtJZm1kN2U1NlRHbWZKUzFicXlBd2lQSzhFMGhYTEk0N1dPQk1qdDBuUU5kMGw3a01maHBoYWQ0cTBRWFV4Z3QybW1ENzFKWWo2S3pF?oc=5",
+      "media": "How-To Geek",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-21T16:00:15+00:00",
+      "summary": "My Bambu Lab printers were already fast, but this upgrade made them smarter &nbsp;&nbsp; How-To Geek"
+    },
+    {
+      "id": "3924a5f127",
+      "title": "I fixed my failed 3D prints with a Top Z distance test; here's how",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1JMdndqVk81TWwwLWV6SjI0NWk5RS1vaDFxMzFIZ2JoR1c2NmR6b29fWmJvUVBxUzQ5Z0xYYXZUNEhfdGdDd1ZVUkE1S2lGZXpnb3RXQTA3SW5ic1VGendBMmZFai1EelBxRjJqMkV5VjhLYmdXSUc1Vm9HYlNLYTl1SHptcTMxSC0xSTBheUVOVFNDeWdvcHBEcw?oc=5",
+      "media": "Android Police",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -33,68 +63,54 @@
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-10-20T09:22:53+00:00",
-      "summary": "3D-Printed Toys: The Bambu Lab P2S in Everyday Family Life &nbsp;&nbsp; 3Druck.com"
+      "published": "2026-10-21T17:45:10+00:00",
+      "summary": "I fixed my failed 3D prints with a Top Z distance test; here's how &nbsp;&nbsp; Android Police"
     },
     {
-      "id": "3928071b1b",
-      "title": "xTool Launches C1 Color Cutter, Combining Full-Color Printing, Scanning, and Precision Cutting in One Machine",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQek5lN2pJQm1oVWRCVGZNS0pLR1Yxa3ZRT296bWVXODhKZU44Z01fZDFETGtrRVFXVzJmYllTNUNfUW9teEh2c19CUWpzRURQYkRzYmpOaFdxLU5EUnRwRjBUSTBOaERTNkFXZnZhc2d1a1hRbVRIMjd4QW5CZ28zbzBCNHBXU0pIdDU0Q0JDRWVpM3FoMjR3Uml5QXI0MmtJdGp2OTlwT0pjV3QyQnpHMEdJaVpGS1UyQ1cwa0NwWkVqaV93RTRWa1VHa2dTSEYyVmpqVkFpc0ozU2s3VVZrbG5UeTR0bnNFWGs5QXdCV0kzUTRa?oc=5",
-      "media": "PR Newswire",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "product_news",
-      "brands": [
-        "xTool"
-      ],
-      "published": "2026-10-20T13:00:00+00:00",
-      "summary": "xTool Launches C1 Color Cutter, Combining Full-Color Printing, Scanning, and Precision Cutting in One Machine &nbsp;&nbsp; PR Newswire"
-    },
-    {
-      "id": "001c165dea",
-      "title": "Cricut StickerPix Print + Cut review: a playful, professional printer with a hidden cost",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVQQV9UZFlZOElLdHJGcGFFYlR6Rmt2blBqdFVzN0ZGSzRoVUFwM1YtcnhrbktzSlJqSUdSWGRyVlZ3cE11dk1ER1RYTFJOS2YyM1JZSGViMTZXQ2hnbVh3djQ0bWZJNTRaeEQ4MzE0cVpLWVctT01FRzg0MWdQR0JRMjBfZkt0SElHcWp3bUJxQ0VRR00xSjJFUDVobVB3VTVXNmZfeGpRWWozNHZObFJhdHY1dXMyMGt4RmZnTWdvdw?oc=5",
+      "id": "05c53b4062",
+      "title": "The massive Creality Halloween sale slashes 3D printer prices by up to 42%, with options for beginners and pros",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObDlOR1IxT09IUm9YbTZ3V1RvUnVtSFktOHB2NTFmcTFLTEFxOV9UY3pWZjFUYnNEZDRRWUtDTklrVzdlZHVBOU1lY3BucGtMYnhLa2ZXTkloNjh1N2RoLXhlSF9hZ3ZJMk5yZUVQVk5aV1BtLWRMaHF4Z3lTSjR5R3Z2Skd4LUxKQkJHdlhSbEk4V29WMjV3N1pJaWRXM3QyNXZVTHZOWTY0eW9Rc1ZnUVgwRG5SR256V1lNWjVSVHZTbUVpNzFuek5MYVpZZDVsSDNmclpJVkRVbHV6MUNBaVh1emp4NzQ?oc=5",
       "media": "Creative Bloq",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
-      "category": "hands_on_review",
+      "category": "brand_news",
       "brands": [
-        "Cricut"
+        "Bambu Lab",
+        "Creality"
       ],
-      "published": "2026-10-20T14:00:00+00:00",
-      "summary": "Cricut StickerPix Print + Cut review: a playful, professional printer with a hidden cost &nbsp;&nbsp; Creative Bloq"
+      "published": "2026-10-21T14:15:44+00:00",
+      "summary": "The massive Creality Halloween sale slashes 3D printer prices by up to 42%, with options for beginners and pros &nbsp;&nbsp; Creative Bloq"
     },
     {
-      "id": "ee26a0ffe4",
-      "title": "Cricut Maker 5 review brings more room to create, takes less room on the desk",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMGN1bjRNSzZ1eUUxaGJ2VGF4TTdPdGlxaGRpNnEydjJKMlNNcG01dDBDdFZKQkZ5QnNsMWNpWmNDUUR5NE9vcFpfbWh2SFo0TThFSVFCNlcyNk5FNjNsQnFZWXpMa01jUXA3MFpPZlNkbXlJQ2dEdkRCTzJRSUdUZEJZU0p3RWw5ZnprVVJkNmpFTGJZczNETy1yUElnUEV4Rmk2WkdLWTBmVmxpMzZ2d2xJTG1hSlk?oc=5",
-      "media": "iTWire",
+      "id": "d25a3923b7",
+      "title": "xTool Expands LightBurn Support Across Its Laser Lineup, Advancing an Open Ecosystem",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU0I3SnFJMEptVFpHak5VeUhtR3hucnZfOTVNdU14MDdpdkpOd1ktU193b295TWdQZDdGMWxkYXNsQzZkaGktenRtaGxTZnVYd19JaVpMdDNTQjYwVVgybGFTY2UxN25IOHVjR3JlcWktTmYyNkoxVHBOcFRkdWlXVXB1SlNEbWhqbmp2QlQ5bm50dmYtbzRQNXdyamZiMHhkUl80N0Y5bmIzbERzRXI2emJ3SWNzTWFvdlhQTDNxUUNjcGF3bTVzZ1p6azdOT3NyMkRhNURR?oc=5",
+      "media": "PR Newswire",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
-      "category": "hands_on_review",
+      "category": "brand_news",
       "brands": [
-        "Cricut"
+        "xTool"
       ],
-      "published": "2026-10-20T01:05:37+00:00",
-      "summary": "Cricut Maker 5 review brings more room to create, takes less room on the desk &nbsp;&nbsp; iTWire"
+      "published": "2026-10-21T13:00:00+00:00",
+      "summary": "xTool Expands LightBurn Support Across Its Laser Lineup, Advancing an Open Ecosystem &nbsp;&nbsp; PR Newswire"
     },
     {
-      "id": "5eb4f6c798",
-      "title": "Cricut launches into new category",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yMkFvamFKNjRwQUxIU3l3TUNpRGc5RkpNZ1FkTkFlOUpEUm81cDQwSjV2OUw5SndwQlRTRzE5cFlkcjZvYTZhcXc5S3lkdXQxZTFoUVZ5dWlYV24wejJsTkFqY0tDWkktOWtyR29XTXA5RzR4ZU9XajE1OA?oc=5",
-      "media": "Appliance Retailer",
+      "id": "0f7935bb1a",
+      "title": "Get 19% off the Crealty K2 Combo 3D printer and make anything you like",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb1VXWDhzNWhidWpvVjRxNlZGdDBKZzVDNTlkM0ZsN2E2VmZMSUt5R1c2YTA0aTdBV3I4ZWh3dTB6NzR5MmpkZ2pESi01S3VlcHcxcWZiVl9wMW1UVE1uVUc4aVBtcjhMSXoyaEZaY1I5MFFqNlJ3THcwaVgwS3g1Tk5wUVMyWE5HX1BlSjFPWnFKYXRNV0YzTnJLdUM?oc=5",
+      "media": "How-To Geek",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
-      "category": "product_news",
+      "category": "brand_news",
       "brands": [
-        "Cricut"
+        "Creality"
       ],
-      "published": "2026-10-20T03:02:50+00:00",
-      "summary": "Cricut launches into new category &nbsp;&nbsp; Appliance Retailer"
+      "published": "2026-10-21T17:36:52+00:00",
+      "summary": "Get 19% off the Crealty K2 Combo 3D printer and make anything you like &nbsp;&nbsp; How-To Geek"
     }
   ]
 }
