@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-22",
+  "updated_at": "2026-10-22 19:35 UTC",
+  "stats": {
+    "total": 6,
+    "total_reach_display": "3.0M",
+    "brands_hit": 4,
+    "brands_total": 10,
+    "media_count": 5
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 4,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 1,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 1,
+    "Cricut": 1
+  },
+  "articles": [
+    {
+      "id": "1fe935b8d6",
+      "title": "Formlabs Form Studio 1 Review: The Benchtop Benchmark",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52dEFiVUFYeUV0VnlEeGdlZXM1Mzh2eEFBQTZIZmlQV2p5U2htc29fNl9JN2ZlbWhRV1RRSVE5U2RFXzVPQnNvV0ZLYV9BMTBkblVNSkZKUU4wd3lNV2xvZFNTUUg1YjBxNldsa1Z2Ujl2WDg2eXE3dVdxWXJxdjg?oc=5",
+      "media": "All3DP",
+      "uvpm": 1800000,
+      "uvpm_display": "1.8M",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Formlabs"
+      ],
+      "published": "2026-10-22T12:26:13+00:00",
+      "summary": "Formlabs Form Studio 1 Review: The Benchtop Benchmark &nbsp;&nbsp; All3DP"
+    },
+    {
+      "id": "24b70caf37",
+      "title": "Best Multicolor 3D Printers 2026: Every System Compared",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Oc0NQaHZkbmJsbnBlZlM0b0VrbXQyY0JtQ25qZjZxN29nWm1HV3NxNVBmc2VYTmxWUHEzaVMwdVd1WDl3c2F6ZEhEb0pweUlxQURkNXNyeVJSWnpEMW5KZDk3bWgwTnhjeFdocUs2VQ?oc=5",
+      "media": "3dprinting.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab",
+        "Creality"
+      ],
+      "published": "2026-10-22T03:04:11+00:00",
+      "summary": "Best Multicolor 3D Printers 2026: Every System Compared &nbsp;&nbsp; 3dprinting.com"
+    },
+    {
+      "id": "64f4ab0f09",
+      "title": "Bambu Lab H3C leaked",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZeXFaQlZsOVdPOVVJVjhfRVhJcnZvLWU1WGxxdV9fZUFUMS1aSHZrTDQwNkN0N0V2WE04VHZNMUVYR2tzbnRFbXBvYWZzaHpQc0pHX21xeVZ1aXAzVWxHbE9tbFF4UlY1YlIxc0tCWnU1TDA?oc=5",
+      "media": "Notebookcheck",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-22T18:14:00+00:00",
+      "summary": "Bambu Lab H3C leaked &nbsp;&nbsp; Notebookcheck"
+    },
+    {
+      "id": "bcdd3e0c53",
+      "title": "Bambu Lab Black Friday and Cyber Monday deals bring up to $450 off on 3D printers",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFIxNWRLSUc4b2hnbUFLNGlqcWRrLVBvZUU3b1hSZG9hcDdDZkV2MW9YTlcwZmJIZ1N1R1g3eXFnVjd3Zk5hMFdlaGpiaVRDQXF0YUl4Y0F1Z3lkUXhLd1NYUXlDUkZyUERzOXMzRWc0dWFCRngwZmVHbzVzTzR0R1dlZmpTWDh2OXp2ZHotZEMzRy1qWHE0bzFrTDlDUmNGU05TWmd2aWgzRDlJSUVMWmc5X3MzRzI4SFk2bTFsOGl4Ylk?oc=5",
+      "media": "Notebookcheck",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-22T09:00:00+00:00",
+      "summary": "Bambu Lab Black Friday and Cyber Monday deals bring up to $450 off on 3D printers &nbsp;&nbsp; Notebookcheck"
+    },
+    {
+      "id": "75b5222ab5",
+      "title": "Home 3D Printers are More Accessible Than Ever This Black Friday with Bambu Lab",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORFFJQll2MlVzcDBTSUtVeVczQThYMmRBakhZRkRZaGFDc1VxbmE4MUpGSnc3UTFxbEd3aFRBTWM5UHU2cWYyRHdwUjhSeUlVQlVySnJWN3hSbUJUTWZnbHV2TWd6dXR0d0xJaThfX3ZUX2p6YkJQZjNtQ1RWQkV0X28zTTRXbHVMeGdBcmI1UXhPV25IRVFLMmVoOXo5VmxmZnFnNzRVWjd4M2lOTExlVEF2cnhqSFpRR3J4Z2VHZXhDaWxFVU10aks5dw?oc=5",
+      "media": "Press Release Hub",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-22T09:13:16+00:00",
+      "summary": "Home 3D Printers are More Accessible Than Ever This Black Friday with Bambu Lab &nbsp;&nbsp; Press Release Hub"
+    },
+    {
+      "id": "285ab12eb7",
+      "title": "A proposed 180,000-share sale at Cricut (CRCT) involves stock awarded as compensation.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONEhVMnNMeE5VRk1jYzlyd0ZKZWVaQnp6bldxR1FnQkN4bzlRUXFHNi1zQl92WG1OaDAzcE5iMlA5OFprYkg3VWpObEpOZmpiamVsZHBTY2NxbEQ3bWFYWVR3ZVZ2R3VjZXMteXZzcnEzeGdneDNQai1RekQ1RU1NSjUxN3p6S0ZfSW1yaHg1d2k?oc=5",
+      "media": "Stock Titan",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-10-21T21:34:21+00:00",
+      "summary": "A proposed 180,000-share sale at Cricut (CRCT) involves stock awarded as compensation. &nbsp;&nbsp; Stock Titan"
+    }
+  ]
+}
