@@ -1,92 +1,46 @@
 {
-  "date": "2026-10-22",
-  "updated_at": "2026-10-22 19:35 UTC",
+  "date": "2026-10-23",
+  "updated_at": "2026-10-23 19:35 UTC",
   "stats": {
     "total": 6,
-    "total_reach_display": "3.0M",
-    "brands_hit": 4,
+    "total_reach_display": "3.3M",
+    "brands_hit": 2,
     "brands_total": 10,
-    "media_count": 5
+    "media_count": 6
   },
   "brand_counts": {
     "eufyMake": 0,
-    "Bambu Lab": 4,
+    "Bambu Lab": 5,
     "xTool": 0,
     "Procolored": 0,
-    "Anycubic": 0,
-    "Formlabs": 1,
+    "Anycubic": 1,
+    "Formlabs": 0,
     "Longer": 0,
     "Elegoo": 0,
-    "Creality": 1,
-    "Cricut": 1
+    "Creality": 0,
+    "Cricut": 0
   },
   "articles": [
     {
-      "id": "1fe935b8d6",
-      "title": "Formlabs Form Studio 1 Review: The Benchtop Benchmark",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52dEFiVUFYeUV0VnlEeGdlZXM1Mzh2eEFBQTZIZmlQV2p5U2htc29fNl9JN2ZlbWhRV1RRSVE5U2RFXzVPQnNvV0ZLYV9BMTBkblVNSkZKUU4wd3lNV2xvZFNTUUg1YjBxNldsa1Z2Ujl2WDg2eXE3dVdxWXJxdjg?oc=5",
+      "id": "5f8cc095a8",
+      "title": "Bambu Lab’s H3C Toolchanger is Real; 9 Tools, Coming November 3?",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblpLb0Z6QUFTVlQwQlFZbEJDbUFfR1dxQlJrZkR4bWk2aW9YSFRUb0xPT2xwX0Vyak93QmJOdE5vTGFnU3VUaktndWVjb0dTWFRVVFFPTGpwcFZmUGVaUHM5ODIyTWlSYmpMNVlaTnZybUEzLXhzWjJKbzN0alR6NUh3REtPOGFTMFE?oc=5",
       "media": "All3DP",
       "uvpm": 1800000,
       "uvpm_display": "1.8M",
       "tier": 2,
-      "category": "hands_on_review",
-      "brands": [
-        "Formlabs"
-      ],
-      "published": "2026-10-22T12:26:13+00:00",
-      "summary": "Formlabs Form Studio 1 Review: The Benchtop Benchmark &nbsp;&nbsp; All3DP"
-    },
-    {
-      "id": "24b70caf37",
-      "title": "Best Multicolor 3D Printers 2026: Every System Compared",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Oc0NQaHZkbmJsbnBlZlM0b0VrbXQyY0JtQ25qZjZxN29nWm1HV3NxNVBmc2VYTmxWUHEzaVMwdVd1WDl3c2F6ZEhEb0pweUlxQURkNXNyeVJSWnpEMW5KZDk3bWgwTnhjeFdocUs2VQ?oc=5",
-      "media": "3dprinting.com",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Bambu Lab",
-        "Creality"
-      ],
-      "published": "2026-10-22T03:04:11+00:00",
-      "summary": "Best Multicolor 3D Printers 2026: Every System Compared &nbsp;&nbsp; 3dprinting.com"
-    },
-    {
-      "id": "64f4ab0f09",
-      "title": "Bambu Lab H3C leaked",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZeXFaQlZsOVdPOVVJVjhfRVhJcnZvLWU1WGxxdV9fZUFUMS1aSHZrTDQwNkN0N0V2WE04VHZNMUVYR2tzbnRFbXBvYWZzaHpQc0pHX21xeVZ1aXAzVWxHbE9tbFF4UlY1YlIxc0tCWnU1TDA?oc=5",
-      "media": "Notebookcheck",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
       "category": "brand_news",
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-10-22T18:14:00+00:00",
-      "summary": "Bambu Lab H3C leaked &nbsp;&nbsp; Notebookcheck"
+      "published": "2026-10-23T10:31:14+00:00",
+      "summary": "Bambu Lab’s H3C Toolchanger is Real; 9 Tools, Coming November 3? &nbsp;&nbsp; All3DP"
     },
     {
-      "id": "bcdd3e0c53",
-      "title": "Bambu Lab Black Friday and Cyber Monday deals bring up to $450 off on 3D printers",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFIxNWRLSUc4b2hnbUFLNGlqcWRrLVBvZUU3b1hSZG9hcDdDZkV2MW9YTlcwZmJIZ1N1R1g3eXFnVjd3Zk5hMFdlaGpiaVRDQXF0YUl4Y0F1Z3lkUXhLd1NYUXlDUkZyUERzOXMzRWc0dWFCRngwZmVHbzVzTzR0R1dlZmpTWDh2OXp2ZHotZEMzRy1qWHE0bzFrTDlDUmNGU05TWmd2aWgzRDlJSUVMWmc5X3MzRzI4SFk2bTFsOGl4Ylk?oc=5",
-      "media": "Notebookcheck",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-10-22T09:00:00+00:00",
-      "summary": "Bambu Lab Black Friday and Cyber Monday deals bring up to $450 off on 3D printers &nbsp;&nbsp; Notebookcheck"
-    },
-    {
-      "id": "75b5222ab5",
-      "title": "Home 3D Printers are More Accessible Than Ever This Black Friday with Bambu Lab",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORFFJQll2MlVzcDBTSUtVeVczQThYMmRBakhZRkRZaGFDc1VxbmE4MUpGSnc3UTFxbEd3aFRBTWM5UHU2cWYyRHdwUjhSeUlVQlVySnJWN3hSbUJUTWZnbHV2TWd6dXR0d0xJaThfX3ZUX2p6YkJQZjNtQ1RWQkV0X28zTTRXbHVMeGdBcmI1UXhPV25IRVFLMmVoOXo5VmxmZnFnNzRVWjd4M2lOTExlVEF2cnhqSFpRR3J4Z2VHZXhDaWxFVU10aks5dw?oc=5",
-      "media": "Press Release Hub",
+      "id": "3dfc54c8e4",
+      "title": "Bambu Lab teases its mysterious H3C tool changer 3D printer — features nine tools and a drop-down rack, slated for November 3 launch",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNX3oyS2VpWWRnVjFkbUhFeW9yYWtPOHFMWDRHclNWRXhpMng2cll6dUhuUWJ3QURreGtnQV9ZMktocDFyNW9iTG9mZjlCaDJVWDZqLXhnWEw4N1N5NVRwaWQ4di04X0JEVG9CYnN3ZEc1dlM1aWIxQzlXQXk2Ry04Z1lfTGkzeGlZWEhuaUJqUzI1U1J6M1B4eVZwaldfMEpqYVBZUHljR2tHQmNYNlFtb00wdjNZcDcwMTUtQVJ5NkExWlVyNU1oTEdiNEgwZndGRVN1Nm1FYlVtcUp3V05NbjVqc3FaZDRPUzdtbFc1OTM3cXVrbWg2SmxtWTNiYmc?oc=5",
+      "media": "Tom's Hardware",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -94,23 +48,68 @@
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-10-22T09:13:16+00:00",
-      "summary": "Home 3D Printers are More Accessible Than Ever This Black Friday with Bambu Lab &nbsp;&nbsp; Press Release Hub"
+      "published": "2026-10-23T13:00:00+00:00",
+      "summary": "Bambu Lab teases its mysterious H3C tool changer 3D printer — features nine tools and a drop-down rack, slated for November 3 launch &nbsp;&nbsp; Tom's Hardware"
     },
     {
-      "id": "285ab12eb7",
-      "title": "A proposed 180,000-share sale at Cricut (CRCT) involves stock awarded as compensation.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONEhVMnNMeE5VRk1jYzlyd0ZKZWVaQnp6bldxR1FnQkN4bzlRUXFHNi1zQl92WG1OaDAzcE5iMlA5OFprYkg3VWpObEpOZmpiamVsZHBTY2NxbEQ3bWFYWVR3ZVZ2R3VjZXMteXZzcnEzeGdneDNQai1RekQ1RU1NSjUxN3p6S0ZfSW1yaHg1d2k?oc=5",
-      "media": "Stock Titan",
+      "id": "62b14e0eff",
+      "title": "These 5 tips could help your 3D-printed headphone design win big",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcU9mQk8zbHhrdEZDTnAwS29ldVZ0c1VHLUl2VUtqVm5YVHgwakJ1Z3VncWN3MDRDck1zSEtlOWdZSlE4dzg4OG5oU0VzRVZqVkctajcxNUJCQVF5TXpGa3ZaU2czUjdKVmFSazczNjZfOG8zTGlReXMzQnY4M3BQRnR3SXpZN1loYlBwdl9RMkJoZzUtUHFyZmt6Q1BiYldDZElRNWhwRHVQYVZ0azR6ZnhB?oc=5",
+      "media": "Creative Bloq",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "Cricut"
+        "Bambu Lab"
       ],
-      "published": "2026-10-21T21:34:21+00:00",
-      "summary": "A proposed 180,000-share sale at Cricut (CRCT) involves stock awarded as compensation. &nbsp;&nbsp; Stock Titan"
+      "published": "2026-10-23T12:00:00+00:00",
+      "summary": "These 5 tips could help your 3D-printed headphone design win big &nbsp;&nbsp; Creative Bloq"
+    },
+    {
+      "id": "fc2ab7b6c5",
+      "title": "Bambu Lab A1 3D Printer",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxd3RaQnRXZThVamhlTGhCR081Ym9qTm5xWnk4XzRYV1dFWFF1WlA2bEdGalRZN1dVdXlGcHJmQ2pvZlhQV3ZjaTdUa3FUQQ?oc=5",
+      "media": "khorasantimes.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-22T22:53:19+00:00",
+      "summary": "Bambu Lab A1 3D Printer &nbsp;&nbsp; khorasantimes.com"
+    },
+    {
+      "id": "8ed26f3325",
+      "title": "Bambu Lab H3C: Online store briefly displays a banner about the tool changer and an announcement for November 2026",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUlplWnhXR0JULWg3ZVhXdWdCU3JQTW0zTTNkMHNrWXVzME5Qd251RDB0YTRPbHdXQnZreFZWVEpkVFFLSlJoZ21Ed1ZicnE1MUQ4b05CdlBIRjQ0VVlYNE1HUldvVWw3Q2ktbFc1WHBUbzFzamxPZEI2RFF2U0hxYmtIQzlGcUtId1hXNms4dFJyLV9EZWNCcm9DRzJHUVhUWmNCTk1sV1JRcGVmdmI2TU1TeWF6VW00bGExTTZxUjQ0Rm9HQ2tVTHBZaWh5RXVjS1dmLVM1S2thWmRLSUtERWRURlJvTTdhUEhNTVJlZ0I1SURWWlZaV041SmwyZw?oc=5",
+      "media": "3Druck.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-23T12:45:01+00:00",
+      "summary": "Bambu Lab H3C: Online store briefly displays a banner about the tool changer and an announcement for November 2026 &nbsp;&nbsp; 3Druck.com"
+    },
+    {
+      "id": "5de80459e6",
+      "title": "Anycubic and Thingiverse Announce Exclusive Partnership to Expand Access to 3D Models",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMjRRTmhMUTdRdlI4eWpWa2t2c3dhWnM4cENXcG1WR3Yzc09FWEROUDJFX0pPSlZLbHpOZ01vNjZNUVpKdXp5b1VwOVV0TGdMWjk4M0h6QVBKczZyY1JwcXBfeUN5LUZadmJHcmUwamc1bHpLaUJud0Q0U190R0JLZUlQVDR5STlfOE8tS1BuRWNoWjFwcElvd1EzMEtzWlpnekNtYng1V1hWV1ZESFc3OHN0cS1GUm5haVdabHlObGxYQV9MVjNBaVo0UVBOQ2JwQW9jSDJNYkIwdEU?oc=5",
+      "media": "PR Newswire UK",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Anycubic"
+      ],
+      "published": "2026-10-23T13:00:00+00:00",
+      "summary": "Anycubic and Thingiverse Announce Exclusive Partnership to Expand Access to 3D Models &nbsp;&nbsp; PR Newswire UK"
     }
   ]
 }
