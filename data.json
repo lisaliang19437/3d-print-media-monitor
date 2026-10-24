@@ -1,19 +1,19 @@
 {
-  "date": "2026-10-23",
-  "updated_at": "2026-10-23 19:35 UTC",
+  "date": "2026-10-24",
+  "updated_at": "2026-10-24 18:24 UTC",
   "stats": {
-    "total": 6,
-    "total_reach_display": "3.3M",
-    "brands_hit": 2,
+    "total": 5,
+    "total_reach_display": "10.9M",
+    "brands_hit": 1,
     "brands_total": 10,
-    "media_count": 6
+    "media_count": 4
   },
   "brand_counts": {
     "eufyMake": 0,
     "Bambu Lab": 5,
     "xTool": 0,
     "Procolored": 0,
-    "Anycubic": 1,
+    "Anycubic": 0,
     "Formlabs": 0,
     "Longer": 0,
     "Elegoo": 0,
@@ -22,69 +22,24 @@
   },
   "articles": [
     {
-      "id": "5f8cc095a8",
-      "title": "Bambu Lab’s H3C Toolchanger is Real; 9 Tools, Coming November 3?",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblpLb0Z6QUFTVlQwQlFZbEJDbUFfR1dxQlJrZkR4bWk2aW9YSFRUb0xPT2xwX0Vyak93QmJOdE5vTGFnU3VUaktndWVjb0dTWFRVVFFPTGpwcFZmUGVaUHM5ODIyTWlSYmpMNVlaTnZybUEzLXhzWjJKbzN0alR6NUh3REtPOGFTMFE?oc=5",
-      "media": "All3DP",
-      "uvpm": 1800000,
-      "uvpm_display": "1.8M",
-      "tier": 2,
+      "id": "66c8828243",
+      "title": "We found 3 Prime Day 3D printer deals that let you go full mad scientist at home",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5dFlNcjAtN2FadDg5Z3Iwd1ZvUVJuSzlEc1VOaFF3c1phLTNDVU9mQkM2UzQ0M1Rtajh3X1AzTXJyYkZKODgxa05rRExrV2EzRFA5cnp0SU1CRGk4MWNTa2F4Wnk1cktIYUsxbGE2WEppdw?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
       "category": "brand_news",
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-10-23T10:31:14+00:00",
-      "summary": "Bambu Lab’s H3C Toolchanger is Real; 9 Tools, Coming November 3? &nbsp;&nbsp; All3DP"
+      "published": "2026-10-24T09:00:00+00:00",
+      "summary": "We found 3 Prime Day 3D printer deals that let you go full mad scientist at home &nbsp;&nbsp; Mashable"
     },
     {
-      "id": "3dfc54c8e4",
-      "title": "Bambu Lab teases its mysterious H3C tool changer 3D printer — features nine tools and a drop-down rack, slated for November 3 launch",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNX3oyS2VpWWRnVjFkbUhFeW9yYWtPOHFMWDRHclNWRXhpMng2cll6dUhuUWJ3QURreGtnQV9ZMktocDFyNW9iTG9mZjlCaDJVWDZqLXhnWEw4N1N5NVRwaWQ4di04X0JEVG9CYnN3ZEc1dlM1aWIxQzlXQXk2Ry04Z1lfTGkzeGlZWEhuaUJqUzI1U1J6M1B4eVZwaldfMEpqYVBZUHljR2tHQmNYNlFtb00wdjNZcDcwMTUtQVJ5NkExWlVyNU1oTEdiNEgwZndGRVN1Nm1FYlVtcUp3V05NbjVqc3FaZDRPUzdtbFc1OTM3cXVrbWg2SmxtWTNiYmc?oc=5",
-      "media": "Tom's Hardware",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "product_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-10-23T13:00:00+00:00",
-      "summary": "Bambu Lab teases its mysterious H3C tool changer 3D printer — features nine tools and a drop-down rack, slated for November 3 launch &nbsp;&nbsp; Tom's Hardware"
-    },
-    {
-      "id": "62b14e0eff",
-      "title": "These 5 tips could help your 3D-printed headphone design win big",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcU9mQk8zbHhrdEZDTnAwS29ldVZ0c1VHLUl2VUtqVm5YVHgwakJ1Z3VncWN3MDRDck1zSEtlOWdZSlE4dzg4OG5oU0VzRVZqVkctajcxNUJCQVF5TXpGa3ZaU2czUjdKVmFSazczNjZfOG8zTGlReXMzQnY4M3BQRnR3SXpZN1loYlBwdl9RMkJoZzUtUHFyZmt6Q1BiYldDZElRNWhwRHVQYVZ0azR6ZnhB?oc=5",
-      "media": "Creative Bloq",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-10-23T12:00:00+00:00",
-      "summary": "These 5 tips could help your 3D-printed headphone design win big &nbsp;&nbsp; Creative Bloq"
-    },
-    {
-      "id": "fc2ab7b6c5",
-      "title": "Bambu Lab A1 3D Printer",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxd3RaQnRXZThVamhlTGhCR081Ym9qTm5xWnk4XzRYV1dFWFF1WlA2bEdGalRZN1dVdXlGcHJmQ2pvZlhQV3ZjaTdUa3FUQQ?oc=5",
-      "media": "khorasantimes.com",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-10-22T22:53:19+00:00",
-      "summary": "Bambu Lab A1 3D Printer &nbsp;&nbsp; khorasantimes.com"
-    },
-    {
-      "id": "8ed26f3325",
-      "title": "Bambu Lab H3C: Online store briefly displays a banner about the tool changer and an announcement for November 2026",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUlplWnhXR0JULWg3ZVhXdWdCU3JQTW0zTTNkMHNrWXVzME5Qd251RDB0YTRPbHdXQnZreFZWVEpkVFFLSlJoZ21Ed1ZicnE1MUQ4b05CdlBIRjQ0VVlYNE1HUldvVWw3Q2ktbFc1WHBUbzFzamxPZEI2RFF2U0hxYmtIQzlGcUtId1hXNms4dFJyLV9EZWNCcm9DRzJHUVhUWmNCTk1sV1JRcGVmdmI2TU1TeWF6VW00bGExTTZxUjQ0Rm9HQ2tVTHBZaWh5RXVjS1dmLVM1S2thWmRLSUtERWRURlJvTTdhUEhNTVJlZ0I1SURWWlZaV041SmwyZw?oc=5",
+      "id": "473c9d5e93",
+      "title": "Bambu Lab P3C: FCC photos show a 3D printer and tool changer with seven holders",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcXJVam56MVROSTFRQkJYa0lnQmJLUXY0Z0V2ZVgweU9fM0xfZ0N5N2UtckZzZl8tUjZZMDh3QzNGeGNOSzhtRl9sRE5iQ1F3V2wtcVVCSnZ3Zjd4TWFsSlFZbFJ5b1NEZEdQVGpmRnhMWlp6a2ZaTjBDSEt3dU03eHl3aXFkY3Q4Z0NYcTN4LWttbmpSQ3BocDRjWDF6REFicnR1Z2NrWl8yY3B2enhnQ2luN3pBV0JGMDlKb0lXcDJ5bi1FbHVMNjkxNjg?oc=5",
       "media": "3Druck.com",
       "uvpm": 300000,
       "uvpm_display": "300K",
@@ -93,23 +48,53 @@
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-10-23T12:45:01+00:00",
-      "summary": "Bambu Lab H3C: Online store briefly displays a banner about the tool changer and an announcement for November 2026 &nbsp;&nbsp; 3Druck.com"
+      "published": "2026-10-24T09:10:30+00:00",
+      "summary": "Bambu Lab P3C: FCC photos show a 3D printer and tool changer with seven holders &nbsp;&nbsp; 3Druck.com"
     },
     {
-      "id": "5de80459e6",
-      "title": "Anycubic and Thingiverse Announce Exclusive Partnership to Expand Access to 3D Models",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMjRRTmhMUTdRdlI4eWpWa2t2c3dhWnM4cENXcG1WR3Yzc09FWEROUDJFX0pPSlZLbHpOZ01vNjZNUVpKdXp5b1VwOVV0TGdMWjk4M0h6QVBKczZyY1JwcXBfeUN5LUZadmJHcmUwamc1bHpLaUJud0Q0U190R0JLZUlQVDR5STlfOE8tS1BuRWNoWjFwcElvd1EzMEtzWlpnekNtYng1V1hWV1ZESFc3OHN0cS1GUm5haVdabHlObGxYQV9MVjNBaVo0UVBOQ2JwQW9jSDJNYkIwdEU?oc=5",
-      "media": "PR Newswire UK",
+      "id": "a6dbce1f91",
+      "title": "Bambu Lab H3C: FCC photos show a tool changer with nine mounts",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZVVZVlJWdFAyYUJySzBfOUJDWkl0MnVmN3B2cmc1Qi1Dck9xX1lYOWphMW1KRGRIRjB1c3RBSjRxN0Zyak5FTVZ4Qkx5SGc0TkkxUUg0anlUT3RWc1FsRGRQN2o4RV9mdndMUEJpUjFQaHU3NFZsLTdrTDZiZndCMFoySUppeEhsWEVrMndpVjAyVzF3MDREMGpISElHU0FYdkVpWUFIcTNSZTF5WnpyX0FFQUF2WmM?oc=5",
+      "media": "3Druck.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-24T08:56:28+00:00",
+      "summary": "Bambu Lab H3C: FCC photos show a tool changer with nine mounts &nbsp;&nbsp; 3Druck.com"
+    },
+    {
+      "id": "e33a83e665",
+      "title": "Bambu Lab teases its H3C 3D printer",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAydkMtcVdVQ25kejJFbno0NURHbWpMWWlEWjgtdE5uSXVZcmx6WUdISTFCZ1o0ZUwtdEZpNXlJSllJdmIwR09Cd3pQNWo4QVl4WTdDeHdmS0Fmb1NBWXBmWWhjWDdMME9yQnExRTlSMkJtck0zd05KTWRn?oc=5",
+      "media": "OC3D",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-23T21:07:07+00:00",
+      "summary": "Bambu Lab teases its H3C 3D printer &nbsp;&nbsp; OC3D"
+    },
+    {
+      "id": "83aa7eb15f",
+      "title": "My $2 humidity sensor is the best 3D printing upgrade I've made",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ3hnOC1RTmJ5Q2ZlWlJiUFRHM3JRdkFDbGtET3hvWFl1LXFYN3Bma3FCc2lXam1kaThLZHBBaXhqb29ieUZfbkwyb0IwanJsVUF5al9aUDhvWmdNcUN0YmJmRnJOY0ZLRGtaWnR2dzlzRzloQjBCVmtHSDJiS21kNFp4Q1QzLXlzemhPUW1PRQ?oc=5",
+      "media": "How-To Geek",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "product_news",
       "brands": [
-        "Anycubic"
+        "Bambu Lab"
       ],
-      "published": "2026-10-23T13:00:00+00:00",
-      "summary": "Anycubic and Thingiverse Announce Exclusive Partnership to Expand Access to 3D Models &nbsp;&nbsp; PR Newswire UK"
+      "published": "2026-10-23T22:30:18+00:00",
+      "summary": "My $2 humidity sensor is the best 3D printing upgrade I've made &nbsp;&nbsp; How-To Geek"
     }
   ]
 }

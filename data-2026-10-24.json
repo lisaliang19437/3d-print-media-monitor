@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-24",
+  "updated_at": "2026-10-24 18:24 UTC",
+  "stats": {
+    "total": 5,
+    "total_reach_display": "10.9M",
+    "brands_hit": 1,
+    "brands_total": 10,
+    "media_count": 4
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 5,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 0,
+    "Cricut": 0
+  },
+  "articles": [
+    {
+      "id": "66c8828243",
+      "title": "We found 3 Prime Day 3D printer deals that let you go full mad scientist at home",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5dFlNcjAtN2FadDg5Z3Iwd1ZvUVJuSzlEc1VOaFF3c1phLTNDVU9mQkM2UzQ0M1Rtajh3X1AzTXJyYkZKODgxa05rRExrV2EzRFA5cnp0SU1CRGk4MWNTa2F4Wnk1cktIYUsxbGE2WEppdw?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-24T09:00:00+00:00",
+      "summary": "We found 3 Prime Day 3D printer deals that let you go full mad scientist at home &nbsp;&nbsp; Mashable"
+    },
+    {
+      "id": "473c9d5e93",
+      "title": "Bambu Lab P3C: FCC photos show a 3D printer and tool changer with seven holders",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcXJVam56MVROSTFRQkJYa0lnQmJLUXY0Z0V2ZVgweU9fM0xfZ0N5N2UtckZzZl8tUjZZMDh3QzNGeGNOSzhtRl9sRE5iQ1F3V2wtcVVCSnZ3Zjd4TWFsSlFZbFJ5b1NEZEdQVGpmRnhMWlp6a2ZaTjBDSEt3dU03eHl3aXFkY3Q4Z0NYcTN4LWttbmpSQ3BocDRjWDF6REFicnR1Z2NrWl8yY3B2enhnQ2luN3pBV0JGMDlKb0lXcDJ5bi1FbHVMNjkxNjg?oc=5",
+      "media": "3Druck.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-24T09:10:30+00:00",
+      "summary": "Bambu Lab P3C: FCC photos show a 3D printer and tool changer with seven holders &nbsp;&nbsp; 3Druck.com"
+    },
+    {
+      "id": "a6dbce1f91",
+      "title": "Bambu Lab H3C: FCC photos show a tool changer with nine mounts",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZVVZVlJWdFAyYUJySzBfOUJDWkl0MnVmN3B2cmc1Qi1Dck9xX1lYOWphMW1KRGRIRjB1c3RBSjRxN0Zyak5FTVZ4Qkx5SGc0TkkxUUg0anlUT3RWc1FsRGRQN2o4RV9mdndMUEJpUjFQaHU3NFZsLTdrTDZiZndCMFoySUppeEhsWEVrMndpVjAyVzF3MDREMGpISElHU0FYdkVpWUFIcTNSZTF5WnpyX0FFQUF2WmM?oc=5",
+      "media": "3Druck.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-24T08:56:28+00:00",
+      "summary": "Bambu Lab H3C: FCC photos show a tool changer with nine mounts &nbsp;&nbsp; 3Druck.com"
+    },
+    {
+      "id": "e33a83e665",
+      "title": "Bambu Lab teases its H3C 3D printer",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAydkMtcVdVQ25kejJFbno0NURHbWpMWWlEWjgtdE5uSXVZcmx6WUdISTFCZ1o0ZUwtdEZpNXlJSllJdmIwR09Cd3pQNWo4QVl4WTdDeHdmS0Fmb1NBWXBmWWhjWDdMME9yQnExRTlSMkJtck0zd05KTWRn?oc=5",
+      "media": "OC3D",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-23T21:07:07+00:00",
+      "summary": "Bambu Lab teases its H3C 3D printer &nbsp;&nbsp; OC3D"
+    },
+    {
+      "id": "83aa7eb15f",
+      "title": "My $2 humidity sensor is the best 3D printing upgrade I've made",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ3hnOC1RTmJ5Q2ZlWlJiUFRHM3JRdkFDbGtET3hvWFl1LXFYN3Bma3FCc2lXam1kaThLZHBBaXhqb29ieUZfbkwyb0IwanJsVUF5al9aUDhvWmdNcUN0YmJmRnJOY0ZLRGtaWnR2dzlzRzloQjBCVmtHSDJiS21kNFp4Q1QzLXlzemhPUW1PRQ?oc=5",
+      "media": "How-To Geek",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-23T22:30:18+00:00",
+      "summary": "My $2 humidity sensor is the best 3D printing upgrade I've made &nbsp;&nbsp; How-To Geek"
+    }
+  ]
+}
