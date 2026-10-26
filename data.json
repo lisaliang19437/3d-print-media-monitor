@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-25",
-  "updated_at": "2026-10-25 18:35 UTC",
+  "date": "2026-10-26",
+  "updated_at": "2026-10-26 20:46 UTC",
   "stats": {
-    "total": 3,
-    "total_reach_display": "900K",
-    "brands_hit": 2,
+    "total": 2,
+    "total_reach_display": "2.1M",
+    "brands_hit": 1,
     "brands_total": 10,
-    "media_count": 3
+    "media_count": 2
   },
   "brand_counts": {
     "eufyMake": 0,
-    "Bambu Lab": 1,
+    "Bambu Lab": 2,
     "xTool": 0,
     "Procolored": 0,
     "Anycubic": 0,
@@ -18,14 +18,29 @@
     "Longer": 0,
     "Elegoo": 0,
     "Creality": 0,
-    "Cricut": 2
+    "Cricut": 0
   },
   "articles": [
     {
-      "id": "9bb8016015",
-      "title": "Bambu got greedy, so I finally gave its biggest 3D printer rival a shot",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PVTdTREVsN2dUcnE2a3dOQlgzd2syQldoV3ZEZHpPRm1fRGZSR3FOX3pRMXVaNV9nelNkVmJ6VU5NQkdOUWtPV3lGOEZRZllVdkU1US12UnM5NDVNMnpad1ZSd1JLdzhmTG9MUA?oc=5",
-      "media": "MakeUseOf",
+      "id": "3b111c5ed4",
+      "title": "This DIY Bambu Lab A1 Mod Turns Your 3D Printer Into a Wannabe Knitting Machine",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmVaSXd2dExOanlkMzBuaTJKZk11MjVUM2FPTkl2YnR5LWxFMjg3cV81RE9jUDRlbW1ZZDhqNFkyMmlCUVBYcWF0X3NqakdHQWlxZ1hhWXBSbXB6Tk8tNE9tQzNVeURxSGtULVU5UWFTWTlpVDRMbUo3eVk0d29EU3dhaHNXZnRxdXRwV1JHbmF3U2IteE90U2ZRN3dkMWNEWXh3?oc=5",
+      "media": "All3DP",
+      "uvpm": 1800000,
+      "uvpm_display": "1.8M",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-26T11:06:37+00:00",
+      "summary": "This DIY Bambu Lab A1 Mod Turns Your 3D Printer Into a Wannabe Knitting Machine &nbsp;&nbsp; All3DP"
+    },
+    {
+      "id": "b3cf09eb84",
+      "title": "Create Standout 3D-Printed Headphone Accessories with These Expert Tips from Bambu Lab",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeWczcXVoREpZOWExZkNlaFMzTDdVZTFqNF9yR0c2VTZNaks4OXlMM1NXLWJXbldha0F3X2lxR1Nyc3R1RzVqV0JGYkZEWG9HdXNETlRQcjM3bE1aOEVieHY4Qk41aV9fXzZYZnJRUjY4LUNyZDdFMzV6dTQ1S0ZBOXpOQ3ZLQTFobmlCZHpRMFh6VkE?oc=5",
+      "media": "freeyork",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -33,38 +48,8 @@
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-10-25T13:30:18+00:00",
-      "summary": "Bambu got greedy, so I finally gave its biggest 3D printer rival a shot &nbsp;&nbsp; MakeUseOf"
-    },
-    {
-      "id": "0788818912",
-      "title": "Costco Is Selling a ‘Small and Mighty’ Cricut Bundle That’s Perfect for DIY Lovers",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTTdWVjZKblFCQlF2Sm04NkNCT3loRnNPUmxkTUZWU1ZlTEhWcWhaV0l2UFlEQkRqbVltb1p3bFdxNm5tOWVkWkgwQ1Zpb09OLUZSOTFjYmRuNlBaT0FNaGhBa2s5R2syWEkyLUE1dXU5UFJDUmVBaUtQUHZYT1VlT3pWbjN0QQ?oc=5",
-      "media": "Dengarden",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Cricut"
-      ],
-      "published": "2026-10-25T13:55:00+00:00",
-      "summary": "Costco Is Selling a ‘Small and Mighty’ Cricut Bundle That’s Perfect for DIY Lovers &nbsp;&nbsp; Dengarden"
-    },
-    {
-      "id": "4f3fcea0f2",
-      "title": "Gadget 'I didn't know I needed until I tried it' dubbed 'game changer' for Christmas gifts",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU0RfZ3Q1QlF5QnlGSnRIeFQyUnRDM0hYcjlJdVpRUjFLQzlIMFpwU0ZNSFdWMS1QSUhVSWd5MnMwaVpkZXBGcnZPZkJBcGEwX0FzU0xhTFVUTXBQQjdaSFB1YzRFX2c4b0d4RERXMDhvdjZQc3o2OVczYTVXSDRYdm12NmJvS3dCZEFFTWNueWdOT1VIUGdaTNIBngFBVV95cUxOOGRZaUVxV0dlYVRnZjRtVXhVVlhiT3lSRHhvVGdiRGYzLXpOTERTR21mLVByd2lXZGdyazNwQ01hd2tsam94TUc5eHhPcnNYWXFUVVFHeHNYQ24xN0U1XzlMLWctQ1g5Uk5aZG5iYVpoOGJnRUdsVEtIMjhNYnItMjQ3NzNFSFFVWTI5T3dTSUIzeUR5dkRaNWhMS3phQQ?oc=5",
-      "media": "Manchester Evening News",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Cricut"
-      ],
-      "published": "2026-10-25T10:29:00+00:00",
-      "summary": "Gadget 'I didn't know I needed until I tried it' dubbed 'game changer' for Christmas gifts &nbsp;&nbsp; Manchester Evening News"
+      "published": "2026-10-26T14:15:18+00:00",
+      "summary": "Create Standout 3D-Printed Headphone Accessories with These Expert Tips from Bambu Lab &nbsp;&nbsp; freeyork"
     }
   ]
 }

@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-26",
+  "updated_at": "2026-10-26 20:46 UTC",
+  "stats": {
+    "total": 2,
+    "total_reach_display": "2.1M",
+    "brands_hit": 1,
+    "brands_total": 10,
+    "media_count": 2
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 2,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 0,
+    "Cricut": 0
+  },
+  "articles": [
+    {
+      "id": "3b111c5ed4",
+      "title": "This DIY Bambu Lab A1 Mod Turns Your 3D Printer Into a Wannabe Knitting Machine",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmVaSXd2dExOanlkMzBuaTJKZk11MjVUM2FPTkl2YnR5LWxFMjg3cV81RE9jUDRlbW1ZZDhqNFkyMmlCUVBYcWF0X3NqakdHQWlxZ1hhWXBSbXB6Tk8tNE9tQzNVeURxSGtULVU5UWFTWTlpVDRMbUo3eVk0d29EU3dhaHNXZnRxdXRwV1JHbmF3U2IteE90U2ZRN3dkMWNEWXh3?oc=5",
+      "media": "All3DP",
+      "uvpm": 1800000,
+      "uvpm_display": "1.8M",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-26T11:06:37+00:00",
+      "summary": "This DIY Bambu Lab A1 Mod Turns Your 3D Printer Into a Wannabe Knitting Machine &nbsp;&nbsp; All3DP"
+    },
+    {
+      "id": "b3cf09eb84",
+      "title": "Create Standout 3D-Printed Headphone Accessories with These Expert Tips from Bambu Lab",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeWczcXVoREpZOWExZkNlaFMzTDdVZTFqNF9yR0c2VTZNaks4OXlMM1NXLWJXbldha0F3X2lxR1Nyc3R1RzVqV0JGYkZEWG9HdXNETlRQcjM3bE1aOEVieHY4Qk41aV9fXzZYZnJRUjY4LUNyZDdFMzV6dTQ1S0ZBOXpOQ3ZLQTFobmlCZHpRMFh6VkE?oc=5",
+      "media": "freeyork",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-26T14:15:18+00:00",
+      "summary": "Create Standout 3D-Printed Headphone Accessories with These Expert Tips from Bambu Lab &nbsp;&nbsp; freeyork"
+    }
+  ]
+}
