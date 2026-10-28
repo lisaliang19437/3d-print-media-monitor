@@ -1,160 +1,115 @@
 {
-  "date": "2026-10-27",
-  "updated_at": "2026-10-27 20:16 UTC",
+  "date": "2026-10-28",
+  "updated_at": "2026-10-28 20:37 UTC",
   "stats": {
-    "total": 9,
-    "total_reach_display": "41.9M",
+    "total": 6,
+    "total_reach_display": "1.8M",
     "brands_hit": 2,
     "brands_total": 10,
-    "media_count": 9
+    "media_count": 6
   },
   "brand_counts": {
     "eufyMake": 0,
-    "Bambu Lab": 7,
-    "xTool": 0,
+    "Bambu Lab": 3,
+    "xTool": 3,
     "Procolored": 0,
     "Anycubic": 0,
     "Formlabs": 0,
     "Longer": 0,
     "Elegoo": 0,
     "Creality": 0,
-    "Cricut": 2
+    "Cricut": 0
   },
   "articles": [
     {
-      "id": "135e9f6a78",
-      "title": "Unleash Your Creativity With a New 3D Printer. Bambu Lab Is Slashing Prices With These Early Black Friday Deals",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UNVFpNGpwRWN1ckp3Vy0wdlpWTEFPYzYwT0ExSGxqN3lVV09QdFQ4X0d5WmRQNnd2SFlaNzRYODZNa1h3dkxkV0FBdUI3M3c1cVhmclZhVW9raEwyNGd3cGdadkJtRW5zaW02Q0dRS2VmckJBWFgzVHpYcW0tdw?oc=5",
-      "media": "CNET",
-      "uvpm": 38000000,
-      "uvpm_display": "38.0M",
-      "tier": 1,
-      "category": "product_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-10-27T18:47:31+00:00",
-      "summary": "Unleash Your Creativity With a New 3D Printer. Bambu Lab Is Slashing Prices With These Early Black Friday Deals &nbsp;&nbsp; CNET"
-    },
-    {
-      "id": "b5a27457b6",
-      "title": "Bambu Lab P3C 3D Printer Revealed in Certification Photos",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcEdmLUxFS3FIQzlIWndIN3Y4dXBnR3ZoS21FUG12T2dHSG1MS0dmZ0ZsazFPOHoyNFItTk0xajM3dE1GSHVuN3VoSTBwNndMZndWYjdJR0FkU1RDMFR4Mi10U2N4NU5qa1pPcktXU2lCMFpDNUdxZW5ZUUFCQXVlNVlIMG9aUQ?oc=5",
-      "media": "All3DP",
-      "uvpm": 1800000,
-      "uvpm_display": "1.8M",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-10-27T11:21:38+00:00",
-      "summary": "Bambu Lab P3C 3D Printer Revealed in Certification Photos &nbsp;&nbsp; All3DP"
-    },
-    {
-      "id": "9c2f872d6d",
-      "title": "Bambu Lab is replacing the feed units of the AMS 2 Pro: The batch manufactured from May through July 2026 has insufficient grease on the gears",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNUNsTlFaTlhIYTlWU3I4NmxoTmd4MDFDSk1Bd3NVN09UQkpxSEtiWFhEX25vVjRRakg1YWpXa2FMdURHeFRJejJZaEEzVmpNUldtOHBUdDQyZkxyN0FyYV9QMmVubEZuNHJlQzFQVktLdHJCby0wZFB6dEMwN0pZWERaS3dEdV9yVXdpNE1rSmQ2d002eXM4enZRUlpiTlhmWGVuV2tZYk1uN0lUV3VNR1BJSG5YVWRoSDg2Ml9JemVoZGdrX1cwZ1BKM3ZHeXV2RUY4WEdwTUVtNVpEUms0UWd3WEVvNUo5Zy1IOTMzeThFWktjemwwbElKRzN2Rm8zWnc4aXRnbHl6TGxLS2Z1N2JkV0I4QQ?oc=5",
-      "media": "3Druck.com",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-10-27T08:38:22+00:00",
-      "summary": "Bambu Lab is replacing the feed units of the AMS 2 Pro: The batch manufactured from May through July 2026 has insufficient grease on the gears &nbsp;&nbsp; 3Druck.com"
-    },
-    {
-      "id": "f4e3e4bc60",
-      "title": "Bambu Lab’s Black Friday sale has started already with up to 20% off 3D printers",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM1ZFY3dEMmVMLXdDYXprM1BPNldvZXZsVGVISi1WR2daOVhiaGJmZEdwbFFNR09lemJpUkFyWUZKNzFqTk1FYmZycXRCeXpGaUtfREN5d2YxQVJ2bzUyWlRnVVVBN3liUXZKcVVlVlFDeUpSRUZDSHVIWUVENXdIT0FGelAwZ2FHYkQ0Y05JS3VsWGxWOWI0Z0czQUwteEdheERHaE4tUURNbk56LU80eUUxNTluSkxramt5Q3RB?oc=5",
-      "media": "Creative Bloq",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-10-27T14:00:00+00:00",
-      "summary": "Bambu Lab’s Black Friday sale has started already with up to 20% off 3D printers &nbsp;&nbsp; Creative Bloq"
-    },
-    {
-      "id": "c9bc3f862e",
-      "title": "The Bambu Lab Early Black Friday Sale Starts Now at Best Buy: The Best Deals on Our Favorite 3D Printers",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUjhQTkNLckVpR1AzRklRWS1qeU9jR3Q3emsybG1wUHZNYl8tQ2xKVGZNTDFONVhadjZ6ZjBqcHdmUFFqZXo3dVpYM09La25BMkRFV0dLX3hXTk5STTlTUUZReFVyRUhQQWd4OUMydjgzc1c4QnBrTVNkeFhmOXA1VUhzRXZDdw?oc=5",
-      "media": "IGN",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "hands_on_review",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-10-27T17:10:00+00:00",
-      "summary": "The Bambu Lab Early Black Friday Sale Starts Now at Best Buy: The Best Deals on Our Favorite 3D Printers &nbsp;&nbsp; IGN"
-    },
-    {
-      "id": "2546d77f76",
-      "title": "Bambu Lab Black Friday deals are already live at up to $450 off: Deals on A2L Combo, X2D, and more from $200",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmRLVWFoWTRtU1BXaWc3bGM0UXhxb3UyZU85bktxZGh4YWl5dERJM2ZKRHk4SU1ZR3ByWUdQdDdmRzVITmE4a0E1Z0RkTDZNc1BvVjVtWVZXRF9fdlJFTTItd2EtTkVRTk1UOXNXRnlNVnRPbFN1YWthMzVIbHBpTXRfOWlhYV9EcTBkRzVYczlQbF9OUVpsMno1UQ?oc=5",
+      "id": "3cf72053c8",
+      "title": "Don’t miss Bambu Lab’s P1S Combo at its lowest price yet, with deals from $349",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY0tFMExRWkJJMUVsTnU3UUptVTBtSHRLanNnUkpBUkM3Ym9JRExuYjJVeEhaQ0l6S1lidUdPOFJ6NUhYQk5wb082T3gtajJybjN6di0wMTZoTGdtdkNtSW82bUdBZ19WZjByOENjcUNCWTJsd0hOTE9DQTBUcWNHRzZSYw?oc=5",
       "media": "9to5Toys",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-28T18:12:34+00:00",
+      "summary": "Don’t miss Bambu Lab’s P1S Combo at its lowest price yet, with deals from $349 &nbsp;&nbsp; 9to5Toys"
+    },
+    {
+      "id": "aa06382582",
+      "title": "4 things I hate about 3D printing",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WU1VFX1l3Wm82TnMtX2VFak5lY0NHZmZyWG1rUzlDcExVN2M2SXFjejFOZURpYzE0Qk1mOEthUTBwNV9yZDVoUlNmVy1pdXhUdTc5UHh3Yl9BUFA2YUwzcGxhTWVsdkk?oc=5",
+      "media": "How-To Geek",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
       "category": "brand_news",
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-10-27T14:39:00+00:00",
-      "summary": "Bambu Lab Black Friday deals are already live at up to $450 off: Deals on A2L Combo, X2D, and more from $200 &nbsp;&nbsp; 9to5Toys"
+      "published": "2026-10-28T10:00:15+00:00",
+      "summary": "4 things I hate about 3D printing &nbsp;&nbsp; How-To Geek"
     },
     {
-      "id": "13ea31abba",
-      "title": "Bambu Lab Prepares to Launch Its First 3D Scanner",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lcEdHaE1SWEtSRS1CNmllWVVrR09qcWhFWkJGZUZjdzBhVTNSREtiQUFxaDQwc1ZvZ0V3NmhpXzVFN1RWN0UwVmFGNGpoWkRXRWFXQkU2TktRMzB5QTQ5LVVvVkxMSTIwMjdjanhiS3NlMjjSAXhBVV95cUxPY0pZQ0txSkxZWlA2TkNOd01YMGpVX3g4ajdOQU1wWFhLSkx6VXZ5cS0zaThyUV9mVjExaXN6bU9obXJfTjBEeVluQU1jNzFHVHptbHhZektWZDNBbHFLei11VUpQbDA0b0psVjlJb3lOanU5QjZiM0g?oc=5",
-      "media": "3Dnatives",
+      "id": "59eb3f6f17",
+      "title": "Beyond the Printer: Exploring the Bambu Lab 3D Printing Ecosystem",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkI4U3JCOXAwdDAyZXNMU2ExRlFYSUI0NXBYS1JjY244VVA2Q3hGWjFHNVFyRWgxb2M3dnJHSmlZdGV2LTBEMmRoQ2E3V0hxTnNrMlFFUEVOUDcySXZPQmRFYXNzaDRTaVozNDF6YkNTUjBCLTlpYkFnZjRLTEd6UkticWF6OUtXckZlN3RUUkZqdF9IVGFDWHg3OFRMWW1oMlNOcmd0VUN3VFMyM3lF?oc=5",
+      "media": "Big News Network.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-28T16:19:00+00:00",
+      "summary": "Beyond the Printer: Exploring the Bambu Lab 3D Printing Ecosystem &nbsp;&nbsp; Big News Network.com"
+    },
+    {
+      "id": "c7aec0ac64",
+      "title": "Four xTool Black Friday picks for shirts, personalized gifts, and workshop signs",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVElaUTMwOFNhSHRVdFNPNEJKbzd6c0F1c3ZjT3YxMjdBbXlXTld1M0kxMVJ0UnNBaFo2cGV2dE5GMlhPQ080d3hBakZQMXFyYWgyYTBvUVBBWUlVTHIxanhFSWdUaldJcnJtOW9TZ2dUS0FQLXluYXA4cXRMcFk4QnBhVWRQNTAzYkVaMmpuRmhNTTBPY016N28zQXpmOHdDWjlsSHgzR2NVakE4THFHWm5ueV9KMnM?oc=5",
+      "media": "The Gadgeteer",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-10-28T16:37:32+00:00",
+      "summary": "Four xTool Black Friday picks for shirts, personalized gifts, and workshop signs &nbsp;&nbsp; The Gadgeteer"
+    },
+    {
+      "id": "cbe536a354",
+      "title": "xTool X1 Price: Launch in Germany starting at 3,369 euros",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYWw3c3dMX3ZRRHpXbWpudzE5SlV3aWtpSjBXc2ZrT1llT0k3STRGUjNIeU9kQ183enJsVDFHcDRqVWJibVNsN1FKQWQzR3lFM1EwdXlfWExaMVIxUWVpLWpRUXgwV2tiamYtOV9RUTR4OWFDRmhQbUhfUEZsQ3RWRXJQRURBZFB4TnBkdlNLS3hNc00?oc=5",
+      "media": "Basic Tutorials",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "product_news",
       "brands": [
-        "Bambu Lab"
+        "xTool"
       ],
-      "published": "2026-10-26T23:09:10+00:00",
-      "summary": "Bambu Lab Prepares to Launch Its First 3D Scanner &nbsp;&nbsp; 3Dnatives"
+      "published": "2026-10-28T15:48:33+00:00",
+      "summary": "xTool X1 Price: Launch in Germany starting at 3,369 euros &nbsp;&nbsp; Basic Tutorials"
     },
     {
-      "id": "ed0e3d697c",
-      "title": "Introducing Cricut Rewards: Get rewarded for your creativity",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMjR4RWVsa3huVWRqWWU0Y1E4UEZYZUJ0VjJ4Mzd4dXpueFA5TTN1YWU3SXJpRTRqUjZHMW5mRFlfVTlheU9jbllHVTM4UWV6NDlqczBEWkNaWlhYX1BMRXZwbmZkdTdLbWRpYlphc2ZpWDFCVGQwdjF1Y3dJTWU5VXRja3VhVXhyOXRRSVN0akVTQzlmUHJrTzNEUHVkY1dfd01Obndkd08tSGV1aVVhZHBIQkM?oc=5",
-      "media": "Yahoo Finance",
+      "id": "cc1416ff88",
+      "title": "From Near Bankruptcy to Unicorn Status: xTool's Ongoing Quest for Its Defining \"Big Outcome\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6T0NUWFY2M0pNejVXb0tDWHE0d1N4QXhPNTBVaC1BMGFRUjZRNXFDR21fY0w3bVJtZThqbXBwMFhHd213WS0zeGN6bFNQanZLZzI4?oc=5",
+      "media": "eu.36kr.com",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "Cricut"
+        "xTool"
       ],
-      "published": "2026-10-27T16:00:00+00:00",
-      "summary": "Introducing Cricut Rewards: Get rewarded for your creativity &nbsp;&nbsp; Yahoo Finance"
-    },
-    {
-      "id": "6aa0e538de",
-      "title": "I thought I’d lost my creative spark – then I tried Cricut’s new sticker machine",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13dUwzdUs2cGVHRDk3WjNsMDM4MGVrUmRyUDVVbzJzc3Z0SEc5Q2lXZUFZVWJvMDhCcjNTTGowUnZaZ2lST0g1ZXFhQlllVU05YUFwbjh5T3NRRmpEbGFhRVBPU01UaWlHV0cyekVB?oc=5",
-      "media": "Better Homes & Gardens Australia",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Cricut"
-      ],
-      "published": "2026-10-27T05:04:14+00:00",
-      "summary": "I thought I’d lost my creative spark – then I tried Cricut’s new sticker machine &nbsp;&nbsp; Better Homes & Gardens Australia"
+      "published": "2026-10-28T03:43:59+00:00",
+      "summary": "From Near Bankruptcy to Unicorn Status: xTool's Ongoing Quest for Its Defining \"Big Outcome\" &nbsp;&nbsp; eu.36kr.com"
     }
   ]
 }
