@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-28",
-  "updated_at": "2026-10-28 20:37 UTC",
+  "date": "2026-10-29",
+  "updated_at": "2026-10-29 20:42 UTC",
   "stats": {
-    "total": 6,
-    "total_reach_display": "1.8M",
-    "brands_hit": 2,
+    "total": 9,
+    "total_reach_display": "13.3M",
+    "brands_hit": 4,
     "brands_total": 10,
-    "media_count": 6
+    "media_count": 7
   },
   "brand_counts": {
-    "eufyMake": 0,
-    "Bambu Lab": 3,
-    "xTool": 3,
+    "eufyMake": 1,
+    "Bambu Lab": 2,
+    "xTool": 5,
     "Procolored": 0,
     "Anycubic": 0,
-    "Formlabs": 0,
+    "Formlabs": 1,
     "Longer": 0,
     "Elegoo": 0,
     "Creality": 0,
@@ -22,54 +22,69 @@
   },
   "articles": [
     {
-      "id": "3cf72053c8",
-      "title": "Don’t miss Bambu Lab’s P1S Combo at its lowest price yet, with deals from $349",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY0tFMExRWkJJMUVsTnU3UUptVTBtSHRLanNnUkpBUkM3Ym9JRExuYjJVeEhaQ0l6S1lidUdPOFJ6NUhYQk5wb082T3gtajJybjN6di0wMTZoTGdtdkNtSW82bUdBZ19WZjByOENjcUNCWTJsd0hOTE9DQTBUcWNHRzZSYw?oc=5",
-      "media": "9to5Toys",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
+      "id": "6bf7f1f2cd",
+      "title": "xTool X1 review: After a month testing it, this is the most versatile laser engraver I’ve ever used",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83ZE9Fd2E5cnlRa0kzYlZ6MWdfbnRxcUlTb1VHZ2ZnaGVXcUxPdVFDclo0Y3VSbjlZUnE1UEJ6c0p3WDZTUmQ0TndGYV8xNnRsRWdMMmlTa0xsM0Y4QUkwREdKTV90cnhGaEx4dXczQWFHaXBRblE?oc=5",
+      "media": "TechRadar",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "hands_on_review",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-10-29T02:02:05+00:00",
+      "summary": "xTool X1 review: After a month testing it, this is the most versatile laser engraver I’ve ever used &nbsp;&nbsp; TechRadar"
+    },
+    {
+      "id": "12b6569519",
+      "title": "Bambu Lab R1 Review: The Desktop Laser to Beat, If You Bring Your Own Designs",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2J3R0VoRzhNMEdoZWFheHdwb0MtbWVDQW9fTnFkelBPTGVVcnZlbzlpZmJhZi1lbXVFekpULXFZTk1uLVpHcXNmdjg3UzVkVHZBM3hJT21ubXMyRjJMZmYyb3FKaGg0aENvS0M2dXgyMTNZWk9Nek1ZcEtBRGtXQklva21BR3dxQmlmTDFKSlE2VENPQTlva3BsTG4zdw?oc=5",
+      "media": "All3DP",
+      "uvpm": 1800000,
+      "uvpm_display": "1.8M",
       "tier": 2,
-      "category": "product_news",
+      "category": "hands_on_review",
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-10-28T18:12:34+00:00",
-      "summary": "Don’t miss Bambu Lab’s P1S Combo at its lowest price yet, with deals from $349 &nbsp;&nbsp; 9to5Toys"
+      "published": "2026-10-29T16:27:39+00:00",
+      "summary": "Bambu Lab R1 Review: The Desktop Laser to Beat, If You Bring Your Own Designs &nbsp;&nbsp; All3DP"
     },
     {
-      "id": "aa06382582",
-      "title": "4 things I hate about 3D printing",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WU1VFX1l3Wm82TnMtX2VFak5lY0NHZmZyWG1rUzlDcExVN2M2SXFjejFOZURpYzE0Qk1mOEthUTBwNV9yZDVoUlNmVy1pdXhUdTc5UHh3Yl9BUFA2YUwzcGxhTWVsdkk?oc=5",
-      "media": "How-To Geek",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
+      "id": "0986357295",
+      "title": "Bambu Lab Unites Top AI 3D Generators in MakerWorld with the New Aimia Hub",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLVRXUHlaWUNaa25iWmxnOXI3QXJqTVpOWWdFajQ0Y3lNbTEzb3M4TnB4S0tzbHk3V1hwRUNVaERfMThlTnJrYjVObkkwczNERS1Db3FVb1htM0FBMXU3d3IyM3lybzVPWTAzS25lWmhJZmRBbFhydVBCdVlhRzBQYk9jbmQxNk9rY3FyR0xjSGZfVnNsYmtpY05jLS0?oc=5",
+      "media": "All3DP",
+      "uvpm": 1800000,
+      "uvpm_display": "1.8M",
       "tier": 2,
       "category": "brand_news",
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-10-28T10:00:15+00:00",
-      "summary": "4 things I hate about 3D printing &nbsp;&nbsp; How-To Geek"
+      "published": "2026-10-29T09:42:39+00:00",
+      "summary": "Bambu Lab Unites Top AI 3D Generators in MakerWorld with the New Aimia Hub &nbsp;&nbsp; All3DP"
     },
     {
-      "id": "59eb3f6f17",
-      "title": "Beyond the Printer: Exploring the Bambu Lab 3D Printing Ecosystem",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkI4U3JCOXAwdDAyZXNMU2ExRlFYSUI0NXBYS1JjY244VVA2Q3hGWjFHNVFyRWgxb2M3dnJHSmlZdGV2LTBEMmRoQ2E3V0hxTnNrMlFFUEVOUDcySXZPQmRFYXNzaDRTaVozNDF6YkNTUjBCLTlpYkFnZjRLTEd6UkticWF6OUtXckZlN3RUUkZqdF9IVGFDWHg3OFRMWW1oMlNOcmd0VUN3VFMyM3lF?oc=5",
-      "media": "Big News Network.com",
+      "id": "1a884b8a15",
+      "title": "Save $1,100+ on Anker eufyMake Printer Bundles This Black Friday",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTlU2UmtQTXdqUlRPcU03WFI0NVM4NjRSendSVXdFeU0wRU9ubnJta25iaVFMWGZfTkwzUEhfdkFHSWQxSTN5X1UxMGprajZrV295endjcGExdlRMeG40RHFVcDZ2dWRvaDV4MEhUbnpjenNKTEdMLWhJcnVrM04xWnVxTEFxbDY1Qkhv?oc=5",
+      "media": "Yahoo Tech",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "Bambu Lab"
+        "eufyMake"
       ],
-      "published": "2026-10-28T16:19:00+00:00",
-      "summary": "Beyond the Printer: Exploring the Bambu Lab 3D Printing Ecosystem &nbsp;&nbsp; Big News Network.com"
+      "published": "2026-10-29T17:42:02+00:00",
+      "summary": "Save $1,100+ on Anker eufyMake Printer Bundles This Black Friday &nbsp;&nbsp; Yahoo Tech"
     },
     {
-      "id": "c7aec0ac64",
-      "title": "Four xTool Black Friday picks for shirts, personalized gifts, and workshop signs",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVElaUTMwOFNhSHRVdFNPNEJKbzd6c0F1c3ZjT3YxMjdBbXlXTld1M0kxMVJ0UnNBaFo2cGV2dE5GMlhPQ080d3hBakZQMXFyYWgyYTBvUVBBWUlVTHIxanhFSWdUaldJcnJtOW9TZ2dUS0FQLXluYXA4cXRMcFk4QnBhVWRQNTAzYkVaMmpuRmhNTTBPY016N28zQXpmOHdDWjlsSHgzR2NVakE4THFHWm5ueV9KMnM?oc=5",
+      "id": "fc8961a015",
+      "title": "Swappable lasers let the xTool X1 tackle wood, metal and glass",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOTRacGZzN1g1RjlWTk1NTDB3c2xsd1JxRk5ValR5TDBneGV6NEx5LXpDM25UUjdCbFgzYnRLaER5SFJnNFFBVElwQ3M2dTBvcDhnYk9UX2ZsV2Q3Vl94YWZ5SjdVb3ZLNHNGSUI3b0FEcEVheGZCb191RUZHNVVqaktKMFE1bHdGMDlnUDZxbjlRUU92U2lfbXdoNHZlNVU5?oc=5",
       "media": "The Gadgeteer",
       "uvpm": 300000,
       "uvpm_display": "300K",
@@ -78,14 +93,29 @@
       "brands": [
         "xTool"
       ],
-      "published": "2026-10-28T16:37:32+00:00",
-      "summary": "Four xTool Black Friday picks for shirts, personalized gifts, and workshop signs &nbsp;&nbsp; The Gadgeteer"
+      "published": "2026-10-29T16:28:12+00:00",
+      "summary": "Swappable lasers let the xTool X1 tackle wood, metal and glass &nbsp;&nbsp; The Gadgeteer"
     },
     {
-      "id": "cbe536a354",
-      "title": "xTool X1 Price: Launch in Germany starting at 3,369 euros",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYWw3c3dMX3ZRRHpXbWpudzE5SlV3aWtpSjBXc2ZrT1llT0k3STRGUjNIeU9kQ183enJsVDFHcDRqVWJibVNsN1FKQWQzR3lFM1EwdXlfWExaMVIxUWVpLWpRUXgwV2tiamYtOV9RUTR4OWFDRmhQbUhfUEZsQ3RWRXJQRURBZFB4TnBkdlNLS3hNc00?oc=5",
-      "media": "Basic Tutorials",
+      "id": "31b471b233",
+      "title": "xTool X1 Laser Cutter Engraver Review",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONy1SWV9qaXZpODd5bG01M1FRRDBxb3BERVNiZ19ESnpCcTlKZkV4bU1iUWprb1VOY1NVOXhRYmF6YUs1Zk93SzhZbWI2S2RxQmI4RUdHVkJiQzNkUkFrcTJGLUhwUDZMclEyYUI1aWxQMkxfNlgwd19vbzRtcHloa0ZvTFlCLWNsdHk4RDZsMGU?oc=5",
+      "media": "Yahoo Tech",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-10-29T01:00:00+00:00",
+      "summary": "xTool X1 Laser Cutter Engraver Review &nbsp;&nbsp; Yahoo Tech"
+    },
+    {
+      "id": "08466f1a3a",
+      "title": "xTool Officially Launches X1: An Upgradable Multi-Laser Platform Engineered for Speed, Versatility, and Business Growth",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNd2gzNmtVcE9qQUtfT0ZlUDJOTmZZTXd2NWsxMUdmNTFRYmd6dVhwaG9KZENpNjRuZEpQaC0wTGV4aEtWR2hBVmlwbHJibzg5OXJ1RDRfalFzRG9SWlJhZVpyWXA1VmFINjZaNkg1T09mcHgycVN5TDBNejBoVEl0T3I3YUdMX1VGbGVfRDgzNDZ6VG51VmI0SThVNExxWmNURnk0UUxzNWQ5Z2tJNUVlZ2VwQ0NmdXc2NW54Yk1jQnNKcTZmdTdCN3lzYXVfSHJ3aWVnX0RmZmNpRmtBWjBkYTVLWWdzS0xGTU41MzhWdGg3dEM1TnlxMkN1TEtoN3BucXc?oc=5",
+      "media": "PR Newswire",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -93,23 +123,38 @@
       "brands": [
         "xTool"
       ],
-      "published": "2026-10-28T15:48:33+00:00",
-      "summary": "xTool X1 Price: Launch in Germany starting at 3,369 euros &nbsp;&nbsp; Basic Tutorials"
+      "published": "2026-10-29T06:59:00+00:00",
+      "summary": "xTool Officially Launches X1: An Upgradable Multi-Laser Platform Engineered for Speed, Versatility, and Business Growth &nbsp;&nbsp; PR Newswire"
     },
     {
-      "id": "cc1416ff88",
-      "title": "From Near Bankruptcy to Unicorn Status: xTool's Ongoing Quest for Its Defining \"Big Outcome\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6T0NUWFY2M0pNejVXb0tDWHE0d1N4QXhPNTBVaC1BMGFRUjZRNXFDR21fY0w3bVJtZThqbXBwMFhHd213WS0zeGN6bFNQanZLZzI4?oc=5",
-      "media": "eu.36kr.com",
+      "id": "2e2e715803",
+      "title": "xTool Launches C1 Color Cutter, Combining Full-Colour Printing, Scanning, and Precision Cutting in One Machine",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWHA1ejRtc0xaZ2pBQUlzV3VGM1Y1dGlYXy1oMTMxajFwT3RNaVZDclNYLTRVUC11ZXhSdTlLTkExV1NDLTl3YVp2YzFLUndRYzRVZFhzSWlrX1FyUzVnLThiTVMyX0pfQ29VU2FTQmg2NWFOekRMb0VHbmJfbWZ0N0I1and6cHhsX2xQcWhEM1JLVkd0ZlVnbUJocVRMUVR5R29TUVRyMWNxX2JLOTFYcnRqQ3FZVXAza3Q5VVpuRW52Q1RYYld5Sl9tOWJKejE5QVh2eXJVcjREMm1PYTExZmZHb0oxVS00ZDd1RkNfSDM?oc=5",
+      "media": "iTWire",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-10-28T23:47:49+00:00",
+      "summary": "xTool Launches C1 Color Cutter, Combining Full-Colour Printing, Scanning, and Precision Cutting in One Machine &nbsp;&nbsp; iTWire"
+    },
+    {
+      "id": "5951bde658",
+      "title": "Formlabs introduces Form Studio 1 desktop resin 3D printer starting at $699",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObGFtYUZCaGJKZFUwZVR3MnRxdUMzVnEwLW9FNjh5OXk0U2MyQzVpcHFIbG8zc2VwOUF0ZFRMNk96NlFjSjVtMzY0am5QNW1laGVKR1FTTkJSblZ0c0thQVlNSURNQ1pyNHF0UzktNzlxVWUza2lQQ3VYOEc1eDd5dDM4V3FoZkY0UGNpZllDWVNKTm1HUzZCcnJFNE5UVnBmcHlSRVFR?oc=5",
+      "media": "news.lavx.hu",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "xTool"
+        "Formlabs"
       ],
-      "published": "2026-10-28T03:43:59+00:00",
-      "summary": "From Near Bankruptcy to Unicorn Status: xTool's Ongoing Quest for Its Defining \"Big Outcome\" &nbsp;&nbsp; eu.36kr.com"
+      "published": "2026-10-28T21:51:01+00:00",
+      "summary": "Formlabs introduces Form Studio 1 desktop resin 3D printer starting at $699 &nbsp;&nbsp; news.lavx.hu"
     }
   ]
 }
