@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-30",
+  "updated_at": "2026-10-30 20:14 UTC",
+  "stats": {
+    "total": 3,
+    "total_reach_display": "900K",
+    "brands_hit": 3,
+    "brands_total": 10,
+    "media_count": 3
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 1,
+    "xTool": 1,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 1,
+    "Creality": 0,
+    "Cricut": 0
+  },
+  "articles": [
+    {
+      "id": "ffc3e934cd",
+      "title": "How Bambu Lab Turned 3D Printing Into a Consumer Hit",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWpJZ0xXSGNVVjZfTm5nNy1uWGVvNFN4b1RBX2RzWnR3NFRMTGJCdDFiRHVTd1JfMEExNFBGYkd3WE5rVzdncWtvRGpwNHhuRF9ORU5oejA5SlZGTlRDZ19hUlo4VDM2OEtPaWhDampvTWJpS3AxU0JRaVJ6V0I2UXhFMGtvU3E2dGpHVGtn?oc=5",
+      "media": "TechNode",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-30T07:51:39+00:00",
+      "summary": "How Bambu Lab Turned 3D Printing Into a Consumer Hit &nbsp;&nbsp; TechNode"
+    },
+    {
+      "id": "a78154ce46",
+      "title": "xTool M2 review: laser cutting is no longer just for pros",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MRDE5a05EMDJRa3ZMMFN6TGs5Q1FGZzNjVlV0LVdPeTQ5d1JRM1NQVnR3bEVKams1LWpuWkZQWGdIMmRFdVNKaG45R1A?oc=5",
+      "media": "geekspin",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-10-30T16:17:04+00:00",
+      "summary": "xTool M2 review: laser cutting is no longer just for pros &nbsp;&nbsp; geekspin"
+    },
+    {
+      "id": "9a511f4d48",
+      "title": "Deal | Elegoo Black Friday deals bring up to 39% off on FDM and resin printers",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVI1TGsyMGJIMGd0OVJOT1NRMkQwT1RES3ZzbTMtdHNMTmJuZEZIRWZiQXF0MUlIelhxaW5CdUgtdDdlVTdNSl9nMVBTSmczUnFFckc4QkxUSUp4bDVBcGF5VHZOMUpOZVpScl9aRHZqZV9vakVJSmtvdE5Oekp3ZUhyTGFNYjE3R2tTbkw1amdiV1p3LTE0T0ZQN0hMWTN6TEdBZnJfQlFEclN6akdtaUpPSXNZUQ?oc=5",
+      "media": "Notebookcheck",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Elegoo"
+      ],
+      "published": "2026-10-30T16:09:00+00:00",
+      "summary": "Deal | Elegoo Black Friday deals bring up to 39% off on FDM and resin printers &nbsp;&nbsp; Notebookcheck"
+    }
+  ]
+}
