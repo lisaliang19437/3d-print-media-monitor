@@ -1,47 +1,30 @@
 {
-  "date": "2026-10-31",
-  "updated_at": "2026-10-31 19:35 UTC",
+  "date": "2026-11-01",
+  "updated_at": "2026-11-01 19:55 UTC",
   "stats": {
-    "total": 5,
+    "total": 4,
     "total_reach_display": "1.2M",
-    "brands_hit": 4,
+    "brands_hit": 2,
     "brands_total": 10,
     "media_count": 4
   },
   "brand_counts": {
     "eufyMake": 0,
-    "Bambu Lab": 2,
-    "xTool": 3,
+    "Bambu Lab": 3,
+    "xTool": 0,
     "Procolored": 0,
     "Anycubic": 0,
     "Formlabs": 0,
     "Longer": 0,
-    "Elegoo": 1,
-    "Creality": 1,
-    "Cricut": 0
+    "Elegoo": 0,
+    "Creality": 0,
+    "Cricut": 1
   },
   "articles": [
     {
-      "id": "d33cf4b24f",
-      "title": "Grab a new 3D printer this Halloween weekend, with prices as low as $199 — big discounts from Elegoo, Creality, Prusa and more, with filament and resin printers and consumables on sale",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOVTJwcXBhaV9GbGJyWGltZTg5c3dTcWRqWE4zOW1vbUxTTExjTFhQeG5EOWZwS0V3UjJidUlFQ1BSOU1tVTdjOTRVcmtFTE9yZXJCNUF5UXJfOWt6cDM2VlJkZGZPdzN3cDZQQkZJc3VlNEY4R0x3VTJENnpTN1UwMmFFOTZ4TkpCOEg3bTFpVjduWF9FYUh1UGdwVjdZMDhad2VYbWtyLXFNVWxxa3J5UllSZWJuUEJ1b3JNVWJ6TWl2V2lqRG1aZmRrYVplYW9lc2kzRVNMSWxsZW1ybzNJRkQtTEprMzRHWGFDeTlqbklLS00zX2ZndFpsVklnbGNDMlNkVzVDNlZ6WWhNek9oMnZmR0FRRFFVZEJaTFdZMlBsVkhGNTA4SVlIV0kwOUFENW9JeVZnblhIZW9UMUNkMHlIYw?oc=5",
-      "media": "Tom's Hardware",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "product_news",
-      "brands": [
-        "Bambu Lab",
-        "Elegoo",
-        "Creality"
-      ],
-      "published": "2026-10-31T14:00:00+00:00",
-      "summary": "Grab a new 3D printer this Halloween weekend, with prices as low as $199 — big discounts from Elegoo, Creality, Prusa and more, with filament and resin printers and consumables on sale &nbsp;&nbsp; Tom's Hardware"
-    },
-    {
-      "id": "77afb05809",
-      "title": "Grab the award-winning Bambu Lab P1S 3D printer with AMS for $70 off — save $70 on one of the best 3D printers for beginners",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUXlxbERzTUd4dmJuSThFVmFCWXpVRWV2NkJMTlgwQmVGaGxCNGJuX1hqazdMMG8xZGxnZThuVTRXWFhBbDdqR1V1VlVNejNWQnhRQllFd2hhSEVyam9HSmM3RnR0cnJGblZ1Y1BETjhraGc0WnVIa0JDbTlaMWd1b1ZYNW1wVTRHR0JOTmxCMHpmSXJQWGtEb0dBME1MMWh2Mm9JUlB1azVqUVRTN0hPenU4bkRsQnRQRlpabXFYRk1ET2M5Z2JVYlhPNnpobC1iSUhJWmZDRFFIdnppZjhqSHhnQ3RVc05LQXF0NHVrLVZ0Mjg3ZnUyRG02UHlGUQ?oc=5",
+      "id": "a0212e5e89",
+      "title": "Bambu Lab's Black Friday sale cuts up to $300 on the flagship H2C printer and more — deep cuts across company's 3D printer and filament lineup",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQeWFadmVhWTB1enYzZUR3bGNQSm5ERm5yYXNzLUxsekNIVVZiSU9mWlNQX0g2UmFleGNjVDVJdFQ1TXVsRnJ0QTIyU0JKeVpBR3NOTFNnWjVhd2lNZUg1TGtvNjJOdXpjTzl2WnYzZGRjWklYTGxxSU5MOU81RWxsbGtab29Yd0NqeGg2b2xLOVB5WldYd0ZBQ2ZOZVBRN3ZEUnItMEE3TjJNcXBCTVQzY1pOMU9MTEt5RUVWQVNYTEpiSHg5aG5hbXRib0FFUWk3d1RwNU15NU5HZ1M0WHFVRm5xdnh2UzNYNy1FdURWdWViV1J4ZjRDcFVnM0I5VFEtMm9PQVV0ZmV0Rk1pLWc?oc=5",
       "media": "Tom's Hardware",
       "uvpm": 300000,
       "uvpm_display": "300K",
@@ -50,53 +33,53 @@
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-10-31T19:19:50+00:00",
-      "summary": "Grab the award-winning Bambu Lab P1S 3D printer with AMS for $70 off — save $70 on one of the best 3D printers for beginners &nbsp;&nbsp; Tom's Hardware"
+      "published": "2026-11-01T14:30:00+00:00",
+      "summary": "Bambu Lab's Black Friday sale cuts up to $300 on the flagship H2C printer and more — deep cuts across company's 3D printer and filament lineup &nbsp;&nbsp; Tom's Hardware"
     },
     {
-      "id": "7bff28ad86",
-      "title": "xTool F2 Ultra UV or MOPA: Choose the material before the Black Friday deal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHdfMzZXQU02U2JoWC11SWxYSzhNdFAtNnMzX0F5bkRLeU84X0xFbmNUVzJTcVU1UVNoOUdnNUlhbHdpel9wbERSa2lhUDAwQWNZcnhDWkVocndyYVNJV24xdVhZQS1zNzVLckdxOWotOXlHS2RHeTlUOC1qRHJzR3VUY3E0QkhITkt5U21yY0E4YUtKSkVMRUJlbmRWbW5pX1Yway1SQ1JrTVJnTWV6RWZn?oc=5",
-      "media": "The Gadgeteer",
+      "id": "f6f860b4f7",
+      "title": "Aerospace Engineer Builds a Working 3D-Printed EDF Afterburner",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZDZ0ekJzcUtrUGxYUS0waGtubXNHVS16RmFQN0F2XzM5SHUxa0VRMExCeXFRMkppNGRLaXJtZFk2bWJlaGNtaGFHaVhrenVZS3ZjM08wYVA5WnJwZVBWY1AwVDlJT1hvUWV5TU9IMjZwVlNWcWdsbW5XSzg?oc=5",
+      "media": "TechEBlog -",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "xTool"
+        "Bambu Lab"
       ],
-      "published": "2026-10-31T16:55:55+00:00",
-      "summary": "xTool F2 Ultra UV or MOPA: Choose the material before the Black Friday deal &nbsp;&nbsp; The Gadgeteer"
+      "published": "2026-11-01T03:25:47+00:00",
+      "summary": "Aerospace Engineer Builds a Working 3D-Printed EDF Afterburner &nbsp;&nbsp; TechEBlog -"
     },
     {
-      "id": "8e6817b8f8",
-      "title": "xTool X1 price, specifications and availability announced",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWJIRFAtU1VWQ1RmQzF0alVqbVJCbzdZZExTZFBtQmpmNGZiTWw2Z1h0LTM1OWpUVWxCYTJfb3VESEVxTDhsOTJ0ZnZvelBERHpsR1dhdEF5N011QWdqdzZqZVBvRG5tRVlvX1J6b21peV84ekZRU3ZBTFMzamhldHlQVHl2bXNVRk1WM052M0RZLWhCZUFpR3g3T0VTdzlO?oc=5",
-      "media": "Camera Jabber",
+      "id": "440d79aaa1",
+      "title": "Bambu Lab P1S With AMS Falls to $479.99 at Best Buy",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWZhY3NJa1d4YmY4cms4MjVtMnM3TGllWG1ja2VoNExJYjh4Q3NoYVpWVWg5WTZYYlZkZzFpSE53VXFoWFJTMk5pTmE0UkhyS214aGpWTlFKUDNOdTJqSFpld1ZVd3ZfeHZFTkVNZ1BDa1V4LUlOTHhuYXlibHRHMHZDcUhjQQ?oc=5",
+      "media": "news.lavx.hu",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
-      "category": "product_news",
+      "category": "hands_on_review",
       "brands": [
-        "xTool"
+        "Bambu Lab"
       ],
-      "published": "2026-10-31T08:13:24+00:00",
-      "summary": "xTool X1 price, specifications and availability announced &nbsp;&nbsp; Camera Jabber"
+      "published": "2026-10-31T20:13:17+00:00",
+      "summary": "Bambu Lab P1S With AMS Falls to $479.99 at Best Buy &nbsp;&nbsp; news.lavx.hu"
     },
     {
-      "id": "4446c4b231",
-      "title": "Modular Laser Engraving Systems: xTool X1 Combines Swappable Lasers with Automated Cutting",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pV19RSGlqM1RRbkc3blJXM0dQdjAxTUVNWC1SRU9BZGd6c0tBNnlkOFpXRkYzbjJTTEtDQkd6dkc5U2ZCNjBXVVJvZ2pIMmljYnNKb0tTdGhkTGkwN3V3eWlvWE9ZYW5jbVBQbmxOLUllMTJR?oc=5",
-      "media": "Trend Hunter",
+      "id": "7f36ab4092",
+      "title": "How to make these easy Halloween crafts with Cricut",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjlEcDFIRERCVkJDTWh3QzVDNVhoSzZSZWVocnQtN3gwSWxzeW5mU29iY19Md1hnSlNPMkNZQkdveG53cEY4d2d6THNYMXRObzNjR0tWeXZqTjBESWVPQ1RUOUljbnhLYnV6YjJkV2JmUjZyR3hZbTdIYWx1SDBxN1pnZ2F6c3BuX2ZNdmJPRG4?oc=5",
+      "media": "Creative Bloq",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "xTool"
+        "Cricut"
       ],
-      "published": "2026-10-31T05:14:35+00:00",
-      "summary": "Modular Laser Engraving Systems: xTool X1 Combines Swappable Lasers with Automated Cutting &nbsp;&nbsp; Trend Hunter"
+      "published": "2026-11-01T03:00:00+00:00",
+      "summary": "How to make these easy Halloween crafts with Cricut &nbsp;&nbsp; Creative Bloq"
     }
   ]
 }

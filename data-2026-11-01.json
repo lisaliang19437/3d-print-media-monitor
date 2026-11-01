@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-01",
+  "updated_at": "2026-11-01 19:55 UTC",
+  "stats": {
+    "total": 4,
+    "total_reach_display": "1.2M",
+    "brands_hit": 2,
+    "brands_total": 10,
+    "media_count": 4
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 3,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 0,
+    "Cricut": 1
+  },
+  "articles": [
+    {
+      "id": "a0212e5e89",
+      "title": "Bambu Lab's Black Friday sale cuts up to $300 on the flagship H2C printer and more — deep cuts across company's 3D printer and filament lineup",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQeWFadmVhWTB1enYzZUR3bGNQSm5ERm5yYXNzLUxsekNIVVZiSU9mWlNQX0g2UmFleGNjVDVJdFQ1TXVsRnJ0QTIyU0JKeVpBR3NOTFNnWjVhd2lNZUg1TGtvNjJOdXpjTzl2WnYzZGRjWklYTGxxSU5MOU81RWxsbGtab29Yd0NqeGg2b2xLOVB5WldYd0ZBQ2ZOZVBRN3ZEUnItMEE3TjJNcXBCTVQzY1pOMU9MTEt5RUVWQVNYTEpiSHg5aG5hbXRib0FFUWk3d1RwNU15NU5HZ1M0WHFVRm5xdnh2UzNYNy1FdURWdWViV1J4ZjRDcFVnM0I5VFEtMm9PQVV0ZmV0Rk1pLWc?oc=5",
+      "media": "Tom's Hardware",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-01T14:30:00+00:00",
+      "summary": "Bambu Lab's Black Friday sale cuts up to $300 on the flagship H2C printer and more — deep cuts across company's 3D printer and filament lineup &nbsp;&nbsp; Tom's Hardware"
+    },
+    {
+      "id": "f6f860b4f7",
+      "title": "Aerospace Engineer Builds a Working 3D-Printed EDF Afterburner",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZDZ0ekJzcUtrUGxYUS0waGtubXNHVS16RmFQN0F2XzM5SHUxa0VRMExCeXFRMkppNGRLaXJtZFk2bWJlaGNtaGFHaVhrenVZS3ZjM08wYVA5WnJwZVBWY1AwVDlJT1hvUWV5TU9IMjZwVlNWcWdsbW5XSzg?oc=5",
+      "media": "TechEBlog -",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-01T03:25:47+00:00",
+      "summary": "Aerospace Engineer Builds a Working 3D-Printed EDF Afterburner &nbsp;&nbsp; TechEBlog -"
+    },
+    {
+      "id": "440d79aaa1",
+      "title": "Bambu Lab P1S With AMS Falls to $479.99 at Best Buy",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWZhY3NJa1d4YmY4cms4MjVtMnM3TGllWG1ja2VoNExJYjh4Q3NoYVpWVWg5WTZYYlZkZzFpSE53VXFoWFJTMk5pTmE0UkhyS214aGpWTlFKUDNOdTJqSFpld1ZVd3ZfeHZFTkVNZ1BDa1V4LUlOTHhuYXlibHRHMHZDcUhjQQ?oc=5",
+      "media": "news.lavx.hu",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-10-31T20:13:17+00:00",
+      "summary": "Bambu Lab P1S With AMS Falls to $479.99 at Best Buy &nbsp;&nbsp; news.lavx.hu"
+    },
+    {
+      "id": "7f36ab4092",
+      "title": "How to make these easy Halloween crafts with Cricut",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjlEcDFIRERCVkJDTWh3QzVDNVhoSzZSZWVocnQtN3gwSWxzeW5mU29iY19Md1hnSlNPMkNZQkdveG53cEY4d2d6THNYMXRObzNjR0tWeXZqTjBESWVPQ1RUOUljbnhLYnV6YjJkV2JmUjZyR3hZbTdIYWx1SDBxN1pnZ2F6c3BuX2ZNdmJPRG4?oc=5",
+      "media": "Creative Bloq",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-01T03:00:00+00:00",
+      "summary": "How to make these easy Halloween crafts with Cricut &nbsp;&nbsp; Creative Bloq"
+    }
+  ]
+}
