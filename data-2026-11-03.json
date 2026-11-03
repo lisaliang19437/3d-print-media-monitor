@@ -1,0 +1,370 @@
+{
+  "date": "2026-11-03",
+  "updated_at": "2026-11-03 21:19 UTC",
+  "stats": {
+    "total": 23,
+    "total_reach_display": "133.7M",
+    "brands_hit": 4,
+    "brands_total": 10,
+    "media_count": 21
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 20,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 1,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 1,
+    "Cricut": 1
+  },
+  "articles": [
+    {
+      "id": "e5804c58c8",
+      "title": "Bambu’s nine-nozzle H3C foretells the future of 3D printing",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnQzVnR0aWFrUTJlWjMwak44QnBZeXpzWVVySGU4b3llNjVGMDBlei1vT1RJZmt1YW9GTG9IUXBsS011Wld1RDZnZUlFanJMOGFRdVZQeUoyV21fNUxmbUZNVV9tVUlUSWFmMThFOEx6Ny0zN3BFVTJ0NE56Yi1qaEJhSHd5ZmlteTdZSUN2VS1PR0k?oc=5",
+      "media": "The Verge",
+      "uvpm": 48000000,
+      "uvpm_display": "48.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "Bambu’s nine-nozzle H3C foretells the future of 3D printing &nbsp;&nbsp; The Verge"
+    },
+    {
+      "id": "90b7fbd428",
+      "title": "Bambu Lab’s H3C Announced Today Is a Powerhouse",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xbWIxWjh5WmhNdWN2MC0xaGZRZEZXMU9fUm1zWk15R1pudHJLcUQtVm0wRUdBaEZPcTVnQ3paSEFPN2Q5UmRPQW5nRE9rb0Q4UUtDajNsMUhURDNvU28xQWlybnMyTXZPNWx3?oc=5",
+      "media": "CNET",
+      "uvpm": 38000000,
+      "uvpm_display": "38.0M",
+      "tier": 1,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T14:00:15+00:00",
+      "summary": "Bambu Lab’s H3C Announced Today Is a Powerhouse &nbsp;&nbsp; CNET"
+    },
+    {
+      "id": "a11938804e",
+      "title": "From Toys To Tools: Bambu Lab’s Third Gen 3D Printer Makes Multi-Material Manufacturing Just Work",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa19WRE5MRmY5YlNmSWRkMGVFcDJIUlZ6dF9EaS1VcU10U1dsOTBIazJ5RWNoRWVIRVRvMDVhaHhZMVJtbXUwbzM1WDZSVC12bVlabkhIajNSWkRNZXk4MzdpT0g3UmhiTnBoSV9IQ1lvemhPUGs0NDNINW12TUNlTmdvMnRERm55dDlQcjQydEotNzZYUkVtN2c1ODRGbk5NVnVFWnFNUGl2UGlQTnNLOVI2MXA2MERUOVJKNUZVTm1TLVZkR2ZYQTI4T2haNnc1VXd4QVM4SlNBdlhiTUZpSkdqeHRWYnBqSWFV?oc=5",
+      "media": "Forbes",
+      "uvpm": 30000000,
+      "uvpm_display": "30.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "From Toys To Tools: Bambu Lab’s Third Gen 3D Printer Makes Multi-Material Manufacturing Just Work &nbsp;&nbsp; Forbes"
+    },
+    {
+      "id": "d473e0ccea",
+      "title": "I tested the Bambu Lab H3C 3D printer, and it's far beyond other machines",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45YlRBZHB5NU84Tzg2SzNNWkU5eEN3MUFJWng2WGRweVhEZ250TDEydk90SjFEdy1WVS1pekNsazJ1RVN6VXJoTDZPUi1TQzByWlJrZzMzaDItODlaMUk1Szh1ejBueGpPOFVwaUJ3?oc=5",
+      "media": "TechRadar",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "hands_on_review",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "I tested the Bambu Lab H3C 3D printer, and it's far beyond other machines &nbsp;&nbsp; TechRadar"
+    },
+    {
+      "id": "b6df19c414",
+      "title": "Bambu Lab Black Friday 3D printer sale — our expert tested them all and picked these 3 to buy",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbzEwT0ozVEx1bUV0cmU4OXVmR25xRWQ4M2lnWWFVZV9GNXQyRlJzR3RvRm5DaFlRcXFYMTZTTHctYWRVejY4c3E1bllUVHJIMElQSFI0bXl2N1Z1ZG9hd2F4SFBQMXhmQTNmZmV6MjZWeDFGRDJNTC1HT0dLQmRla3p0RmVyckE2eG5mSnhSYXdOLVFGbHl5VXVuTXFSNGViSFJkQzcxaG5oVG54TDVxbWVldmxGVVFNOEpQcGtR?oc=5",
+      "media": "TechRadar",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "hands_on_review",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T16:48:56+00:00",
+      "summary": "Bambu Lab Black Friday 3D printer sale — our expert tested them all and picked these 3 to buy &nbsp;&nbsp; TechRadar"
+    },
+    {
+      "id": "c705679cdf",
+      "title": "First Look at the Bambu Lab H3C: The Last 3D Printer You’ll Ever Need?",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcUQzUzBNVFlqeWpHcHBDcnM4MHNtOFJQMW9pNVA1ZUJxb0xGcGY3eTFHRjRIWjNkdGh0NndLb3pwaDdDR2t2RVBoRzl1OHMxQVdnOVFPcVYwWncwc1NybTNkU29ZZC00R2p2LUdnTm1tNVNWMkcyOW9mbVA3XzY3QlJKOWV4dUxHazhYWTI2SFJHSGc?oc=5",
+      "media": "All3DP",
+      "uvpm": 1800000,
+      "uvpm_display": "1.8M",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T14:27:04+00:00",
+      "summary": "First Look at the Bambu Lab H3C: The Last 3D Printer You’ll Ever Need? &nbsp;&nbsp; All3DP"
+    },
+    {
+      "id": "aa319a2cea",
+      "title": "Bambu Lab Launches H3C: Technical Specifications and Pricing",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1VXRWRhUkNXT3BxaEc4aHVLYlBMLU5kNzZUSENGcF9DRm5nME55X0VmQXFTVEU0dTZuT2RldTI1RkJ5cjBQbmZ6UXJzZFpJNjVkT1FtUy03OVpWeGRWT2FHMm92Ul92Tk1CdHZZQ2hTNDJaQzlXUjdib3c3Vld1MncwSDFSRTZ0bUpfSk4tVGEzc0NSUVlXUEh5bFdjOHlvcHR4YVpn?oc=5",
+      "media": "3D Printing Industry",
+      "uvpm": 850000,
+      "uvpm_display": "850K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T18:09:13+00:00",
+      "summary": "Bambu Lab Launches H3C: Technical Specifications and Pricing &nbsp;&nbsp; 3D Printing Industry"
+    },
+    {
+      "id": "6eacf78b1d",
+      "title": "The Maker’s Toolbox: Bambu Lab H3C 3D Printer Review",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWxscDRTRGZ3VzVkZ2pLbTFNT1dXSXowaGwzSFYxUVdUZG5ybEZnYjY4bzJXc3Q5MFh2WDlKQVNENGhvWDNFOXJyTnpIbGp5R2VjYmV2Szd6Wm1NRXdHdFlLcnNiT0UtQ3gtYzN3Ym1lS3Etbk9HMTVEa2Y3TWR1ZlcxaE5FUDhRdXl2VFNTa0MxaHRKb0hzbA?oc=5",
+      "media": "Hackster.io",
+      "uvpm": 800000,
+      "uvpm_display": "800K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T16:21:49+00:00",
+      "summary": "The Maker’s Toolbox: Bambu Lab H3C 3D Printer Review &nbsp;&nbsp; Hackster.io"
+    },
+    {
+      "id": "55b901222a",
+      "title": "Bambu Lab H3C 3D printer review: A nine-tool monster",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2cEMzYkstYVlDZmdMbjA1dTRiMktzdW9yNFVaNFFXUzVRdEQzUnZyWktyRWh2UVNHczBTVVY3Z3plbTVRMVo2bThXek41RkZPaXI0UkZITXFqNWNtbDdvcDBac3p2aXFEODZQaFgyR0U5a3dMeGdhZkZwdFo?oc=5",
+      "media": "Tom's Hardware",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "Bambu Lab H3C 3D printer review: A nine-tool monster &nbsp;&nbsp; Tom's Hardware"
+    },
+    {
+      "id": "b14dc9ab0c",
+      "title": "Tested: Bambu Lab just launched its most innovative 3D printer yet",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNktTdXBHb2I2dHppcEVMSEwwaXlUTnNGbm00a1hvemdqVWx2V0VzM0RnUGpjcWc0Ml9nVFhXeE56elNxUk0zZG9tRFI4VDdKT2pZNHg0dExNZnM2bXBfOVN4dzI5Z0RXTG5DUEgtN3I1aTNZRTI0T05OQlQ0ZmROam9JV1cyREJRcXFGdldlLXVBc0hHZXN6ME9XYUs2MjMtZXF1cWJvXzA5QzNFakxsOHBR?oc=5",
+      "media": "Creative Bloq",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T14:05:46+00:00",
+      "summary": "Tested: Bambu Lab just launched its most innovative 3D printer yet &nbsp;&nbsp; Creative Bloq"
+    },
+    {
+      "id": "dfa2042b91",
+      "title": "Bambu Lab’s early Black Friday deals cut up to $300 off its best 3D printers",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV1FXVHJXYVNlbUtheGlZTXJHMFZGR292dnhGbzl0VXMwUERXUjVkQlBUVDlTSE1QbWJqMXhLQkZxbktuSndlNlljWGhlVjJ5MnQxY0g2T0laVjBrcTFRODhRYUtWSVpZNFI0LUJRR0NzNGNNNzFoT2owSk9xcGxGNC1aNW03X1VoMWo3elR1am5lckk1Y3ZCRVRwcWtkTExoeDlSaG1iQmNoWUJTTXdJblpn?oc=5",
+      "media": "Creative Bloq",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T20:52:24+00:00",
+      "summary": "Bambu Lab’s early Black Friday deals cut up to $300 off its best 3D printers &nbsp;&nbsp; Creative Bloq"
+    },
+    {
+      "id": "f6a97a0524",
+      "title": "Bambu Lab H3C promises improved TPU printing, filament hot-swaps, and color gradients",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGtHVkVlMjZyNThCTUhUQ1Jza2hGdGZwQjI4ZV96ZEc2N3JVWG92ei1LSUNjVEhNTWFHTGN0VVpPR2l3N0tsN3FvS3VMdnJvZzBna2ZsZFJUUlQxSDRhU3RNVVV0d1ZyLU5aYnJmejBFeDhLUEpCdmcxcnFxaldtZWlPMWFkUEt0YTdFLXhXejFuemI0Y0s3V3FxRHljdnVQaHhuOFlSbFJzV0VobzZrd0liZGstT0FtaUdja2x0LUx1SVhMOTRv?oc=5",
+      "media": "Notebookcheck",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "Bambu Lab H3C promises improved TPU printing, filament hot-swaps, and color gradients &nbsp;&nbsp; Notebookcheck"
+    },
+    {
+      "id": "26531cb72e",
+      "title": "Bambu Lab H3C 3D Printer: Nine-Tool Swaptek, $2,499 - News and Statistics",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHN6MlU2U1dJUXRNVXljUDdUSWNXU0VsZms5NTNqYmRhck9oQ3d6VFlqb1ZDOHQxelZDR21ldzVQRjJDM2ZUQWx2NHhqM0xPWHhkUTk3dHdGYVEwcmpjaG02ZTl3VnlST2dNcEZscWduaHVNbThmVDdDWnJSOVFkYVZhbHgyS054YUVyVWM0dk56eVd1a0x6enV6cUQ?oc=5",
+      "media": "IndexBox",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T17:43:58+00:00",
+      "summary": "Bambu Lab H3C 3D Printer: Nine-Tool Swaptek, $2,499 - News and Statistics &nbsp;&nbsp; IndexBox"
+    },
+    {
+      "id": "30f04cd1d5",
+      "title": "Bambu Lab H3C Launches With 9 PrintTools for $2,499",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkOERKNVpJQ29oMHFyUmFFc0hOZ1hMeTQyQXN0RW5xYUN1aTk5ckd2UWFPaWNyOFBIUXhRMVp1TEJKMXJvRzJweTBubXhlY0dQa3pFMVU1ZjZHMDV0T3VjRkd30gFnQVVfeXFMTWs0S1pPbkk0YVc2cUlZajBoTzM2ZWNBR0pjVlZZV2J2NjdCYXRSdFBHZm9weUJpVjhGbkwzYVFKZjdab19lOUlNT18xdnZsUGRGN3k5ZEcweDlHM1VCN2pxaHA5Nk9pbw?oc=5",
+      "media": "3Dnatives",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T14:03:56+00:00",
+      "summary": "Bambu Lab H3C Launches With 9 PrintTools for $2,499 &nbsp;&nbsp; 3Dnatives"
+    },
+    {
+      "id": "e465e3dc0b",
+      "title": "Bambu Lab launches H3C desktop 3D printer with nine-tool capability",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2pMWkp5Y2tsRVQ4MVZ6ZEphMW05SnBKT0VFNFNWdzUzVHp3TGVSTHd6SXM1a0hPM0lhR0lhY3MyUnJMOFUtWGV3MlN2cmZWdUhkUkhSM2JPYnQyRk5LZFdONUJHcVNZVVJkb3U1Mk1Ud1NPOXprdkIwZjhoaC04b0pUU005cEpnQTdPVDdOU0x0ZER4alFqRFZSSzY?oc=5",
+      "media": "TCT Magazine",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T16:46:11+00:00",
+      "summary": "Bambu Lab launches H3C desktop 3D printer with nine-tool capability &nbsp;&nbsp; TCT Magazine"
+    },
+    {
+      "id": "6d30ce9f7f",
+      "title": "Bambu Lab unveils H3C 3D printer with nine print heads and TPU upgrades",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0ZvNTNCWkExUE1OR3VpLWhWWTBFNTdwbGhtelE5Q3VBMFNQSF8zelZCbWdKeDUzTm5Pd25sdXJtbThSYTdQQzlBYmU5bU9Mc1RQUkJJNTRfWEVzRVNfaVJteHdCNzZMalVNcERVZHlHb05VQllCZG5MbWtNM2RySy1B?oc=5",
+      "media": "Mezha.net",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T14:27:07+00:00",
+      "summary": "Bambu Lab unveils H3C 3D printer with nine print heads and TPU upgrades &nbsp;&nbsp; Mezha.net"
+    },
+    {
+      "id": "c4b08d03b2",
+      "title": "Bambu Lab Unveils $2,499 H3C 3D Printer With Nine Print Heads",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PZ3RZQ1hxUU9HVUd4cTFkT1VIRUtlMWd0MDZ2M2NidFF6WXNOWmtFeWhSSXdWWEIxVFZuYVRrS1VaU1gxOWpKbl9icUhCNTl5QzM5djVFZjVoWElOVW5HblBERm03SUx2c19Hd0p3dEpkMGdrSkE?oc=5",
+      "media": "BigGo Finance",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T15:55:00+00:00",
+      "summary": "Bambu Lab Unveils $2,499 H3C 3D Printer With Nine Print Heads &nbsp;&nbsp; BigGo Finance"
+    },
+    {
+      "id": "9da2d24e2d",
+      "title": "Tool changer. Game changer. Bambu Lab presents H3C - the defining new generation of 3D printers",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLWZpTjk3WGdWaWJqT3BxMkwyWUJyenF5MU5wc0Y2R0xsX2RmN0lOTnB2bmNYTUFlX3J4Z1ZOeUQtTHRDZUp2V3Y5Yl9seVZVcHo5SWlhNVdKWk1mZGNPSG1rdHBOZURibXhWVGVJX0l3OVRNRnBMR2VFaC1FRkMxS0NZZUJ4VEdyczVGWXJpUHpDN0ltQTZZTmpIUGZpRHlXNmNyZU1oamNRVlpuNW5obzUzMHN2VTVBbFQ4V1RwamFzOFQ1alBKVWdBamhRR1Uta29YQUF5MmJPUGI0cE9Jd3ZhTQ?oc=5",
+      "media": "PR Newswire",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "Tool changer. Game changer. Bambu Lab presents H3C - the defining new generation of 3D printers &nbsp;&nbsp; PR Newswire"
+    },
+    {
+      "id": "2c71c6578c",
+      "title": "Bambu Lab: H2D, H2C, and X2D Get Hybrid Printing with Different-Sized Nozzles",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeWphWm5lMXNIRWJtUnpDQjdEa1BVVHRxb2dzZG5RTXZyT1Npd3RjT3hxTklDXzJBV1hsZV9RT2h4X0lveS1Pd21qa2JnT2FEN1hWVzNOcHZyQ2VLYkpoQnhKLXh4ZkRaeFlyUGQxbFlSeXNPRFV5RVpCUXl6REIzZ2FqOV91VGduRVFyby1NVDBnQVdLMm9seDJQcDBmY0Q5d2cxeUNmeEhteHRXNHl1Q29OeGRhQzFtWHZYMmd3bVV6elE0Rk9oSGJR?oc=5",
+      "media": "3Druck.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T14:53:52+00:00",
+      "summary": "Bambu Lab: H2D, H2C, and X2D Get Hybrid Printing with Different-Sized Nozzles &nbsp;&nbsp; 3Druck.com"
+    },
+    {
+      "id": "53af7b0822",
+      "title": "Bambu Lab H3C Packs Nine Print Tools for Faster Material Changes",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13b2VHaFF0TXo4WHBOZTA0R3BteGdpRFdVRE5yMW1yX0ZiMWNYT3dmQ3pvaExPX1pLenl6ZzJ4cWlPemhXU2djcnJaVEN2SDZSeXBMQ2paVkRnQjVJem5lZ0hJV09QcHJVaFVJX09QZw?oc=5",
+      "media": "Technobezz",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-03T19:15:19+00:00",
+      "summary": "Bambu Lab H3C Packs Nine Print Tools for Faster Material Changes &nbsp;&nbsp; Technobezz"
+    },
+    {
+      "id": "c94fc1e5f2",
+      "title": "Anycubic Launches 2026 Black Friday and Cyber Monday Sale Across 13 Global Markets, with Up to $350 Off 3D Printers",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNlRSRmdodUhiMFJHM3BIZmk4c0lCMHJNcEJndVdmTWM2WUhCaUkzblJPcF92d0txRElnOE8wdU11NEw3SW1ONVNGdC1yY3YzQ2NSVWZ5YjZEbmg0S1A1QUQtY0ROcWxaX19fNUtYZTdwOUY5MFVfbnF4OFRZQWZuQ2ZRWDhPZE04SXF6eTZyVENEbnlBVzZrSHB3ZEV5cFNiV0szazBrVG94QVpseldUNkk4VkJlTENfUkZZS0k2UVBISHhvZnBlQmNpN3R4YWdYajhOUFNQSEZkdzRmVWljMlZodmwwZ2s4ek9tenVwRmhsdEVPcVIwdQ?oc=5",
+      "media": "Press Release Hub",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Anycubic"
+      ],
+      "published": "2026-11-03T13:03:43+00:00",
+      "summary": "Anycubic Launches 2026 Black Friday and Cyber Monday Sale Across 13 Global Markets, with Up to $350 Off 3D Printers &nbsp;&nbsp; Press Release Hub"
+    },
+    {
+      "id": "55ff0978b3",
+      "title": "Huge B&H early Holiday sale now live: Cameras, computers, SSDs, accessories, more from just $2",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlBhWkdyYlNDN3ZId3NjSkdHSzB3NkE1Y1dBTDdpNHgxdlhwSEN1V1Q5elp3WDVCMnBhbWF2R2M4OWNNTExZWnBWNHdmTy15NERoa0pXVVlsTnQxY3A1R0ZzeHgxMFd1Rm9meGcxY1F4bXg5TFpnWWdYTlhIRHdCU0FCSlNhUVk?oc=5",
+      "media": "9to5Toys",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Creality"
+      ],
+      "published": "2026-11-03T11:59:00+00:00",
+      "summary": "Huge B&amp;H early Holiday sale now live: Cameras, computers, SSDs, accessories, more from just $2 &nbsp;&nbsp; 9to5Toys"
+    },
+    {
+      "id": "3d6d7a745e",
+      "title": "Cricut Maker 5 Review: Engraving, Vinyl & Verdict",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aS0VaSGZuUEQ2SkpJZ2UwRkF3akhQY0Z3bmlyVF91ZXRYWXJjTjNaOWF4UU1aVktGWnNVeXUzVFF1VFI0OGZiU0lUQlpfaG1sdHBuMmwtYW9jYUsxSmxqRUIyT3RjdkRqVFlrYVM1TUs5dWdEdlNvNXJQSQ?oc=5",
+      "media": "Digital Reviews Network",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-03T21:17:43+00:00",
+      "summary": "Cricut Maker 5 Review: Engraving, Vinyl & Verdict &nbsp;&nbsp; Digital Reviews Network"
+    }
+  ]
+}
