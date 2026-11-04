@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-04",
+  "updated_at": "2026-11-04 21:35 UTC",
+  "stats": {
+    "total": 9,
+    "total_reach_display": "12.4M",
+    "brands_hit": 3,
+    "brands_total": 10,
+    "media_count": 9
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 1,
+    "xTool": 0,
+    "Procolored": 1,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 0,
+    "Cricut": 7
+  },
+  "articles": [
+    {
+      "id": "3dbe585b32",
+      "title": "Pick up a new hobby before Black Friday — the Bambu Lab P1S Combo is $70 off",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RYUJmMzF3ZHg5ZDlwZkRId3NSQS1jbnAtYVloSGxxSElvbDl1cHpZU2wxN3BFNDhvN2JrMkduaUV4d2FLaEI3UERJQWtFS29BTWJhSVJyRUZEZE9ldkY0?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-04T19:17:10+00:00",
+      "summary": "Pick up a new hobby before Black Friday — the Bambu Lab P1S Combo is $70 off &nbsp;&nbsp; Mashable"
+    },
+    {
+      "id": "874608d379",
+      "title": "Procolored K13 Lite DTF Printer Review",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ0NuMHNraWNBU1V0N1o5dFF0M090Q0p2Z2lGUTg4TlVtd25LZmtLbjhQSWVCWTA5d2dsUFNBcjBScW1MOHNOcENkcWNiQjVHWDlGVWZtOFFDaEZka0xHZ1doMVB0YlZFSEI5eUk3dDBDUzJpUGpkbGFlYXhHTnlZLS1R?oc=5",
+      "media": "Comics Gaming Magazine",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Procolored"
+      ],
+      "published": "2026-11-04T12:00:00+00:00",
+      "summary": "Procolored K13 Lite DTF Printer Review &nbsp;&nbsp; Comics Gaming Magazine"
+    },
+    {
+      "id": "13136b6e6e",
+      "title": "Cricut Q3 Earnings Call Highlights Innovation-Led Growth",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUFWSjg3N2laZlVBZWFEUUMzc19Ldnd4TnlobnJHdFQxbE5LemQtV1lOblhkdXlqMmk5dDhTdVBsT1hfTGtZVy1Qc3FESnI4ZlZObU1Iek1NTF9ZMGMyTW81Wi1JM1NsNDJMUlZFN2VVSFNSSTNmNkY1ZFBpM1R3bGoyTWF0UEhXWnl4elRuZ2FJUkJjVFNLQ0t4cFpiLTFicEg0NHNybVZxdURJVS1jSXRn?oc=5",
+      "media": "TradingView",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-04T16:18:00+00:00",
+      "summary": "Cricut Q3 Earnings Call Highlights Innovation-Led Growth &nbsp;&nbsp; TradingView"
+    },
+    {
+      "id": "67a0c3fc6a",
+      "title": "What Cricut (CRCT) Said on Its Q3 Earnings Call",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNFdEdEswV2x6ZWlzVmNwN0dMTUY4eVlkZ3Q4NkItY0hZaFI3bmpFTEpValNZd1RkT01hRml4Z1ljcFVUMVFRVThVMXRfOXBoeDA5VjJjcWF0akhzMTBjTVFiWGZsMjJjTG5zczk2NUtXRUN0WC16UlBOeUpHb0pOQzhTc0Y5U3hkUTg5R281VVV4Nk44azd3TQ?oc=5",
+      "media": "Yahoo Finance",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-04T00:14:00+00:00",
+      "summary": "What Cricut (CRCT) Said on Its Q3 Earnings Call &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "id": "620ad9a827",
+      "title": "Cricut Approves $0.70 Special Dividend, Expects 2026 Revenue Growth",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PVTdnWEY3YUNFQU5tWkE5MUtWOGhJbTc2QWpreUdqMFF0dHlSM0ZRRzg0Q1NzUWhuZE5rTTRaZUwxendlSTh0LUpaQktJZlJXaFJDSFM4ZzQ?oc=5",
+      "media": "www.tokenpost.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-04T18:34:37+00:00",
+      "summary": "Cricut Approves $0.70 Special Dividend, Expects 2026 Revenue Growth &nbsp;&nbsp; www.tokenpost.com"
+    },
+    {
+      "id": "6b7209c685",
+      "title": "Cricut (CRCT) Q3 2026 Earnings Call Transcript",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeFBpYnRFdFYyTnh4Y1NVemxGbTUyQ1JKM0QwMzBQSHJ2djIyQTg3ZTJIaHcwSklZbl9hWjgxVUpldnh1UjlWNS1IVVhhaG9rNUFMLURMak4xUGFGZHBaZ1laNmh3RGRTVlFFcVpfTVd1U0xBVFNaa2k2RjRUZktBcU9NOUZXeVhZLTBYbEpuX1BRckpJOEZEWXc4YVVvT3EzNDJUVkJaSHh4LVN0WG13UGZrX3NJc1Z6S20wN3FULXFPOFYyLWxXakxB?oc=5",
+      "media": "The Globe and Mail",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-04T15:45:38+00:00",
+      "summary": "Cricut (CRCT) Q3 2026 Earnings Call Transcript &nbsp;&nbsp; The Globe and Mail"
+    },
+    {
+      "id": "36c7764497",
+      "title": "Making Your Own Christmas Cards And Decorations Just Got Way More Fun With Cricut",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTJSbkZTWnRhQXEyVTkzNmhCT0VObjlTU2FqVEpHejd5cERxV0hXcFhsMVFHTElYNUdpaWp2RGFDcE9fZ1RoTnBFRE4yaE0tcTh4VElfM2ttaGxnR05MQjB4VGxTaXhKdmRfOWJLc2ZrTHFZenVMVUN6V0hXc2tKaEdQSUFPTDNNbWYyUHRRY3ZxRWd6cjIzY09kVTdSRkRSb3p6dDFaekNsZFQ2MzJEZk5KQQ?oc=5",
+      "media": "HuffPost UK",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-04T13:47:55+00:00",
+      "summary": "Making Your Own Christmas Cards And Decorations Just Got Way More Fun With Cricut &nbsp;&nbsp; HuffPost UK"
+    },
+    {
+      "id": "fa40a447c0",
+      "title": "Cricut Q3 2026 presentation: first annual growth since 2021 on horizon By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT3Z1MnlwMkFIV1BTVjlDOVI2Q2dmVjU4MXFUSkJSeDA3OXN3aTNVcnpja3RQbTFvT3h2TC1YWjhsR2trU0VWbWZrRF9uRDhIRnJYVXNRZ0JFZG9lTXZZVERiUTJiQmJITDFFMTlBS2htUFJZSnYyUGdPeFNVYXpoX0VYS2Y2YmRMYzJLZFUwT3M2LU9pUG5NTEJpbHh4R1pvNnI4c2pINkI5cU1tUHRaVS03RnAzUzdGMjhEMDJpYW5uM01NMHBZVnVR?oc=5",
+      "media": "Investing.com South Africa",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-03T23:32:32+00:00",
+      "summary": "Cricut Q3 2026 presentation: first annual growth since 2021 on horizon By Investing.com &nbsp;&nbsp; Investing.com South Africa"
+    },
+    {
+      "id": "e803ab2b81",
+      "title": "Cricut Q3 Results: EPS $0.13 beats estimate by 116.67%",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd01oaHE5Q2djczBRMkpHb1lCOElpclY4cHBib3RyN1Y4UlFnV1FQR0lVR0xMN1RnSGZlUW5vcEtZcERIZTZzdjBJWVEyTHJVVEs5am01YklURzZjLUxveHhOb0xJWjgtNklqRGZ3LWcwRE1pMzFsU3RFbmMxeWg0SjVodTRpbkxOTEFvMDVDLWNzUTlTZnFxMzN6dVFBc201Q28xaVlRSW0?oc=5",
+      "media": "scanx.trade",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-03T22:10:07+00:00",
+      "summary": "Cricut Q3 Results: EPS $0.13 beats estimate by 116.67% &nbsp;&nbsp; scanx.trade"
+    }
+  ]
+}
