@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-06",
+  "updated_at": "2026-11-06 21:07 UTC",
+  "stats": {
+    "total": 4,
+    "total_reach_display": "48.9M",
+    "brands_hit": 2,
+    "brands_total": 10,
+    "media_count": 4
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 3,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 1,
+    "Cricut": 0
+  },
+  "articles": [
+    {
+      "id": "ad2a94f6ea",
+      "title": "After printing 40,000 whistles, this is the 3D printer I’d buy",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YNUxPY3FwaWpzaDRhQkpKUUlXZlExLVBLeFFsRG56RFJILXFHYkJJVFY3MTZsZjdDV0pEbTMyYy1SX1ZEUjZRRW9IMF9EcURLZ1BsUFVwMEZIWU1nckYwMl90V0VzZktzUk9QUktnbjF2dFZQR3dxbldn?oc=5",
+      "media": "The Verge",
+      "uvpm": 48000000,
+      "uvpm_display": "48.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-06T12:00:00+00:00",
+      "summary": "After printing 40,000 whistles, this is the 3D printer I’d buy &nbsp;&nbsp; The Verge"
+    },
+    {
+      "id": "862b6adbff",
+      "title": "Bambu Lab P1S with AMS Makes Fast Multi Color 3D Printing Simple for Beginners and Pros Alike",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVEc5MDVVV1Brd2ZNeThuc0FZa1NHeGdHcS1fQW50YnVtMGgxd3ExRUxYQ2kyRlhVc1JrM0FBaWJiWXFacmcyRzMwN05GY3J2UDdJYi05NEJLTHliYk5RNk4xVHBtbHhsUWQ4YTYtVEtsUVpfdjVzbXg3VnVhVlV5ZjZrZUhISWpEZEY2T2YzQQ?oc=5",
+      "media": "TechEBlog -",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-05T23:18:04+00:00",
+      "summary": "Bambu Lab P1S with AMS Makes Fast Multi Color 3D Printing Simple for Beginners and Pros Alike &nbsp;&nbsp; TechEBlog -"
+    },
+    {
+      "id": "52527c9c10",
+      "title": "Claude and a 3D printer are an absurdly useful combination",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XNThoejNTYkh3Wk5kdUV0RkJDcElaZXNuNUQwREtZNkZHMWpYRmZuUW5qMy1hV21TSEwtdGZ5ZXdHR2VSVDVhWmNLRGJOb09HNmlzVzdvVlR0OVA2d2FqZU9uUjczbHc1OGtYR05RcmRlQUd6amdON2FMVGE?oc=5",
+      "media": "MakeUseOf",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-06T16:46:18+00:00",
+      "summary": "Claude and a 3D printer are an absurdly useful combination &nbsp;&nbsp; MakeUseOf"
+    },
+    {
+      "id": "81992e93ac",
+      "title": "10 Creative 3D Printing Ideas for the Holidays",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ250MDFzRDNaMXFjMjhSd2ZIczJvS0ZUQTZMWTFiUHZOMjNkQ3l4a3RzODMyMkwyY3JzNC1BdHhKeUhVcU5DQTFBZ3NTSFZJNWVXbC1iRVFpcl8xb1d3R1p3cVZoTzYwalpzQzBJR3Z0cFlydG1oTGtfc3NPQzJFNklQeTgyZ21RWDZXQjA4QndqckxUdHl5TlF2T3N5NmJra09MQmZSUTY?oc=5",
+      "media": "Best Buy Blog",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Creality"
+      ],
+      "published": "2026-11-06T18:43:09+00:00",
+      "summary": "10 Creative 3D Printing Ideas for the Holidays &nbsp;&nbsp; Best Buy Blog"
+    }
+  ]
+}
