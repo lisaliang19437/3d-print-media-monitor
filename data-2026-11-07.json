@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-07",
+  "updated_at": "2026-11-07 19:41 UTC",
+  "stats": {
+    "total": 3,
+    "total_reach_display": "900K",
+    "brands_hit": 3,
+    "brands_total": 10,
+    "media_count": 3
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 1,
+    "xTool": 1,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 1,
+    "Creality": 0,
+    "Cricut": 0
+  },
+  "articles": [
+    {
+      "id": "0c712e87e9",
+      "title": "Bambu Lab H3C launches in Australia: 9 toolheads, 85°C drying, and zero purge waste",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaEZoWXJZSnNSUzJuQzV5TFR0WXlhTHJZS2VydFVoZWY0YTZiNmRiZV8zZzZ4TTN6TW9icDZ2d2F6QzBQTG9uZi1XWlU0bHl0ZS0xdUV3azktekc5MlV0a0hzLWxCUUFwY2ZJSjJDdFJxelN5VW5ZMWNFNjN0eC1NbTZMbjhEbWlMclFJUWduTTNkQnAyY1F1QlZVRC01bHAwbWdkZQ?oc=5",
+      "media": "tech AU",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-07T07:34:19+00:00",
+      "summary": "Bambu Lab H3C launches in Australia: 9 toolheads, 85°C drying, and zero purge waste &nbsp;&nbsp; tech AU"
+    },
+    {
+      "id": "18bafbf5b3",
+      "title": "Marshall, Satechi, GE, and xTool Black Friday deals with up to 50% off start November 19",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV0NHemVNRkRMRUpMTEV3bDExbjM3Z19uNHpLempQdjZjUTRWNV9OY3o0OVVXVjhEVkFLd3ZQSXVzWFFVSTVlaDJVeDVzRVdJMDBQT1Jxb3kzbzFackdQYTdfeUtEZjY5TzJ6V2RGYWloZld1U2hWLTlGVjdEdDdMa0hULS1wOEpIZ1RVem9hRzNKWkw4cWhJdVdseUN2QWp1SV9SdU80NW1wWlROQXdBbXJsa1FXUFlPRjdtek5TSQ?oc=5",
+      "media": "The Gadgeteer",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-11-07T06:02:00+00:00",
+      "summary": "Marshall, Satechi, GE, and xTool Black Friday deals with up to 50% off start November 19 &nbsp;&nbsp; The Gadgeteer"
+    },
+    {
+      "id": "e3168c8bd9",
+      "title": "Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live — early discounts mean you can score up to 54% off filament and resin machines, perfect for pro hobbyists and beginners",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQV1g4QWo5T2xDSDVyUU45WTdXNFpWLUo5aURyZ3B6ZHp0V1I2R0l6MjIxS2pQU3BtZ1RsbDdLRG9XRDV1Y3NGZVYzYlRYeFFacHQxLXFsV1JsRDNYM0tPZTd1bnF6VEtKQWxuZmV0MERsdTl3WWlISjNoVEw1VF9iNXBWYjVPY1hwM0lvUWRQR3J3WUU1TU1NMTlMRmt3Q1pzVjg5X09qZ2lUZW9pZjZGX2wwRnkwV1VGSzA5Y1pMQUgxeF9YcnRnMzBnYTFXamdrakFDM0J4dFdzakdBazFkSVZBTUFfWEc1aEpXZE9LS1owdzFzQ2FPelI2TVBpb01fY2VRdzctNFZIU2s2MmxJeXA4SVNzdm9VUVJ3ZzNqdzl2d0dfYnhqSnFPTFZUYnRqdlhvVS1wTGttRmJ6LTdra2VCYVRjLWlyU3FGMWFMbjNqZ2w3VnRfNUs3WEJNMmlGMTR3aThuUHh4dW1tdmxXbzFaM3JpVnpsaTlReGFR?oc=5",
+      "media": "Tom's Hardware",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Elegoo"
+      ],
+      "published": "2026-11-07T14:30:00+00:00",
+      "summary": "Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live — early discounts mean you can score up to 54% off filament and resin machines, perfect for pro hobbyists and beginners &nbsp;&nbsp; Tom's Hardware"
+    }
+  ]
+}
