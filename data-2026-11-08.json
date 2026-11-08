@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-08",
+  "updated_at": "2026-11-08 20:00 UTC",
+  "stats": {
+    "total": 2,
+    "total_reach_display": "600K",
+    "brands_hit": 2,
+    "brands_total": 10,
+    "media_count": 2
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 0,
+    "xTool": 0,
+    "Procolored": 1,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 1,
+    "Creality": 0,
+    "Cricut": 0
+  },
+  "articles": [
+    {
+      "id": "3d2eb01fea",
+      "title": "Procolored K13 Lite DTF printer review – Custom apparel printing with printer, curing oven, and heat press",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM0FXYnl4YlVkZk1rNWVDMnVacFVSQ1EwVGg5Y2JMck1hbkJQWHFkUU9GVXJfU01sNVNlelRZVERQQnl3WWM0QThxdlM5RTFwN3dUUU83MlBGYnBsVXBabXJOcExnMnBoUGdFY1c4NXhQYUpNcXNrcndSMFE0TUVlVENueW42ZjlBTnZqeEJkS3pUNDJTeDNpN2RsSmVHTW0wQ3Y4N01kV3piRlhfMVMxSW4xSFN5dktEam5nbHl6ZzQ4c3JUU1JOTGlsUTlFY1RiOHAtZy1QcUdkcXPSAeMBQVVfeXFMTS1pYk9TdkNUV1hqYVdDdUpvZTZJTHlmRXMwUnVUUFl2THRHRldhVkUyVDlJR1FYajEwYXkwZlRaNG9qNk5yMk5zUVRxXzlmTVBjTjRKQUo1SGZaaV9xX2E4djYtZzBpRnZEZTlHNXM5MFk4emtpZ1E1bGdsUkxYM1hUcWN0ZHlNSGRpcHlNM3hjOWZ6UnFNVk9ZLTlHTHlZUnBSSFZoY3I2aEJGRDdRSkdmMmdpN2R5QW15NTVENm5RUXBUUFlYb1hic3ZrVkVaOGVaSGNzTmUyb0llX3V0M2NpaGs?oc=5",
+      "media": "CNX Software",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Procolored"
+      ],
+      "published": "2026-11-08T08:00:55+00:00",
+      "summary": "Procolored K13 Lite DTF printer review – Custom apparel printing with printer, curing oven, and heat press &nbsp;&nbsp; CNX Software"
+    },
+    {
+      "id": "bcf31fbe7c",
+      "title": "Elegoo's Black Friday sale cuts 3D printer prices by up to 54% ahead of Dec. 1",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTAtdUEtNWYyY1dPbFFfWWJFNTB6ZU1RcG9seDA2dU5sZi1wWEJHR0ZMMm1iaGxwTnFFM0lHaEVsM1FrS0JMdHFqUzlDUlJYNnRVczE2Qm9yYmlzU1BKNkxueks1QVNncmJKLUxhS0pZWl9LVkFvd3lqajQ3MmRmdzNKNTVRWUJVX2pibldBTElYSVVhZ0hwZy1GQlN1aVVlLUlMc0x1N0M?oc=5",
+      "media": "news.lavx.hu",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Elegoo"
+      ],
+      "published": "2026-11-08T04:10:53+00:00",
+      "summary": "Elegoo's Black Friday sale cuts 3D printer prices by up to 54% ahead of Dec. 1 &nbsp;&nbsp; news.lavx.hu"
+    }
+  ]
+}
