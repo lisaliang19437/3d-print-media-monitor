@@ -1,55 +1,70 @@
 {
-  "date": "2026-11-08",
-  "updated_at": "2026-11-08 20:00 UTC",
+  "date": "2026-11-09",
+  "updated_at": "2026-11-09 23:52 UTC",
   "stats": {
-    "total": 2,
-    "total_reach_display": "600K",
+    "total": 3,
+    "total_reach_display": "48.3M",
     "brands_hit": 2,
     "brands_total": 10,
-    "media_count": 2
+    "media_count": 3
   },
   "brand_counts": {
-    "eufyMake": 0,
-    "Bambu Lab": 0,
+    "eufyMake": 1,
+    "Bambu Lab": 2,
     "xTool": 0,
-    "Procolored": 1,
+    "Procolored": 0,
     "Anycubic": 0,
     "Formlabs": 0,
     "Longer": 0,
-    "Elegoo": 1,
+    "Elegoo": 0,
     "Creality": 0,
     "Cricut": 0
   },
   "articles": [
     {
-      "id": "3d2eb01fea",
-      "title": "Procolored K13 Lite DTF printer review – Custom apparel printing with printer, curing oven, and heat press",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM0FXYnl4YlVkZk1rNWVDMnVacFVSQ1EwVGg5Y2JMck1hbkJQWHFkUU9GVXJfU01sNVNlelRZVERQQnl3WWM0QThxdlM5RTFwN3dUUU83MlBGYnBsVXBabXJOcExnMnBoUGdFY1c4NXhQYUpNcXNrcndSMFE0TUVlVENueW42ZjlBTnZqeEJkS3pUNDJTeDNpN2RsSmVHTW0wQ3Y4N01kV3piRlhfMVMxSW4xSFN5dktEam5nbHl6ZzQ4c3JUU1JOTGlsUTlFY1RiOHAtZy1QcUdkcXPSAeMBQVVfeXFMTS1pYk9TdkNUV1hqYVdDdUpvZTZJTHlmRXMwUnVUUFl2THRHRldhVkUyVDlJR1FYajEwYXkwZlRaNG9qNk5yMk5zUVRxXzlmTVBjTjRKQUo1SGZaaV9xX2E4djYtZzBpRnZEZTlHNXM5MFk4emtpZ1E1bGdsUkxYM1hUcWN0ZHlNSGRpcHlNM3hjOWZ6UnFNVk9ZLTlHTHlZUnBSSFZoY3I2aEJGRDdRSkdmMmdpN2R5QW15NTVENm5RUXBUUFlYb1hic3ZrVkVaOGVaSGNzTmUyb0llX3V0M2NpaGs?oc=5",
-      "media": "CNX Software",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "hands_on_review",
+      "id": "135e9f6a78",
+      "title": "Grab These Early Black Friday Deals From Bambu Labs and 3D-Print a Masterpiece",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UNVFpNGpwRWN1ckp3Vy0wdlpWTEFPYzYwT0ExSGxqN3lVV09QdFQ4X0d5WmRQNnd2SFlaNzRYODZNa1h3dkxkV0FBdUI3M3c1cVhmclZhVW9raEwyNGd3cGdadkJtRW5zaW02Q0dRS2VmckJBWFgzVHpYcW0tdw?oc=5",
+      "media": "CNET",
+      "uvpm": 38000000,
+      "uvpm_display": "38.0M",
+      "tier": 1,
+      "category": "brand_news",
       "brands": [
-        "Procolored"
+        "Bambu Lab"
       ],
-      "published": "2026-11-08T08:00:55+00:00",
-      "summary": "Procolored K13 Lite DTF printer review – Custom apparel printing with printer, curing oven, and heat press &nbsp;&nbsp; CNX Software"
+      "published": "2026-11-09T15:22:00+00:00",
+      "summary": "Grab These Early Black Friday Deals From Bambu Labs and 3D-Print a Masterpiece &nbsp;&nbsp; CNET"
     },
     {
-      "id": "bcf31fbe7c",
-      "title": "Elegoo's Black Friday sale cuts 3D printer prices by up to 54% ahead of Dec. 1",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTAtdUEtNWYyY1dPbFFfWWJFNTB6ZU1RcG9seDA2dU5sZi1wWEJHR0ZMMm1iaGxwTnFFM0lHaEVsM1FrS0JMdHFqUzlDUlJYNnRVczE2Qm9yYmlzU1BKNkxueks1QVNncmJKLUxhS0pZWl9LVkFvd3lqajQ3MmRmdzNKNTVRWUJVX2pibldBTElYSVVhZ0hwZy1GQlN1aVVlLUlMc0x1N0M?oc=5",
-      "media": "news.lavx.hu",
+      "id": "687ee187b1",
+      "title": "Get an incredible £900 off the eufyMake E1 UV Printer for Black Friday",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGlGSjdzYjlMLWVJMm55ZzRDaTNRN1ZCNDZuV3BMMTJvSndjWG13eTctam5FWldER2EyaVVraTdoWmc3S0M4WE5Wem1qaFBBRjdyMVJqaS1Da00zY2xZRDV0V2xVcEJWQVpWMHBRSGl1U0MtWHlkeldWMEFZSldrQWlwMEx0ZXpDYkxuUXdqam1UdHYyWklFYjdJeDdTcTZfRTZJUVA4VHpncnRVTTNpWHpHMlJ6Qk0?oc=5",
+      "media": "TechRadar",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "eufyMake"
+      ],
+      "published": "2026-11-09T17:43:11+00:00",
+      "summary": "Get an incredible £900 off the eufyMake E1 UV Printer for Black Friday &nbsp;&nbsp; TechRadar"
+    },
+    {
+      "id": "e824f7ca89",
+      "title": "Bambu Lab H3C: Fine and coarse nozzles print on the same surface with different layer heights",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY1FTY1k4SF9jN1R0Y3JtbVExemJuUW9PaDlvdUd6TVY1el9iWjFUTnc0dVgxdnNncGRKaHJHa01tQlBWTVhvZjRQdW8zWnFyNVhFS2M1eERCdTU3REphSl9vZ1J1VkFCN2pDb044ZVM3cVFWNlJIZHRfM0xqSlVLakhMY0o2WlluTUFsT2g5c0V5T0xDdzNBZ3MtdktuNlVQLU1IMTNWaHVLc2tQNUZKaXM4VjdXSndXV0Q1RjFKdXl5aDVoa29iUWlIckgtNFBhcGdRQUFpV282aWE1Vmdj?oc=5",
+      "media": "3Druck.com",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "Elegoo"
+        "Bambu Lab"
       ],
-      "published": "2026-11-08T04:10:53+00:00",
-      "summary": "Elegoo's Black Friday sale cuts 3D printer prices by up to 54% ahead of Dec. 1 &nbsp;&nbsp; news.lavx.hu"
+      "published": "2026-11-09T15:07:06+00:00",
+      "summary": "Bambu Lab H3C: Fine and coarse nozzles print on the same surface with different layer heights &nbsp;&nbsp; 3Druck.com"
     }
   ]
 }
