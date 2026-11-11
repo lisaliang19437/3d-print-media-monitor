@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-10",
-  "updated_at": "2026-11-10 21:30 UTC",
+  "date": "2026-11-11",
+  "updated_at": "2026-11-11 22:20 UTC",
   "stats": {
-    "total": 8,
-    "total_reach_display": "50.1M",
+    "total": 9,
+    "total_reach_display": "13.3M",
     "brands_hit": 3,
     "brands_total": 10,
-    "media_count": 8
+    "media_count": 7
   },
   "brand_counts": {
     "eufyMake": 0,
-    "Bambu Lab": 5,
+    "Bambu Lab": 6,
     "xTool": 2,
     "Procolored": 0,
     "Anycubic": 0,
@@ -18,75 +18,89 @@
     "Longer": 0,
     "Elegoo": 0,
     "Creality": 0,
-    "Cricut": 2
+    "Cricut": 1
   },
   "articles": [
     {
-      "id": "271b5dee46",
-      "title": "One of our favorite multi-filament 3D printers is $100 off",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUhMUEN4enc2OFp1cjhuNE5mUjRWNnozRWZVNWZaTHhwZk1aSlV0bEo1UlRPTENKLTJZcU9NOFhXdzFqcmQza2I4Z0ZxTl9RbWhld25lTGNDZUlZLTRvZkJnYjdVUGVWUWRxMVhRd29kSjFGWmxUVEtkaG5fdXZQVjY3UQ?oc=5",
-      "media": "The Verge",
-      "uvpm": 48000000,
-      "uvpm_display": "48.0M",
+      "id": "0dcb63e589",
+      "title": "The Bambu Lab P1S Combo 3D printer hits record-low price on Amazon — save $50 this Black Friday",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmhGMVlaWjlSR3RiclBkZkdCRkZfRzJvNk1OX2o4OUhrRVFDcnJfMFJCeThXdXNaMGNCbGVkcElvMnI3WGM4bjlaU25PeVRmZ3pNVHpsOTE2dWxLSHhOa0k2TXpxRm1iRkR1T2ZERzdReDVqTlRwdEVsZnUzSjFWNklObkRia1dL?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-11T22:09:56+00:00",
+      "summary": "The Bambu Lab P1S Combo 3D printer hits record-low price on Amazon — save $50 this Black Friday &nbsp;&nbsp; Mashable"
+    },
+    {
+      "id": "3dbe585b32",
+      "title": "Bambu Lab P1S Combo deal: Save $70 ahead of Black Friday",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RYUJmMzF3ZHg5ZDlwZkRId3NSQS1jbnAtYVloSGxxSElvbDl1cHpZU2wxN3BFNDhvN2JrMkduaUV4d2FLaEI3UERJQWtFS29BTWJhSVJyRUZEZE9ldkY0?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
       "tier": 1,
       "category": "brand_news",
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-11-10T18:42:03+00:00",
-      "summary": "One of our favorite multi-filament 3D printers is $100 off &nbsp;&nbsp; The Verge"
+      "published": "2026-11-11T05:54:19+00:00",
+      "summary": "Bambu Lab P1S Combo deal: Save $70 ahead of Black Friday &nbsp;&nbsp; Mashable"
     },
     {
-      "id": "8b4d980832",
-      "title": "My New Favorite 3-D Printer Is Ideal for Beginners and Experts Alike",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxZmRqYWJWb3E2YllWN2ZBUE9HQmFIUllubmp0eU1yelNvT0UxUllHbTZCUWI3T0JqWkVGWkZDMG56UjZQZEZaUjJRVVl3RHRoaldhRlB5cU9hME1BSk5wMFYzeFZyZ21PUm5DSnNoR29OcnR6NEZLV3BTdldCZw?oc=5",
-      "media": "New York Magazine",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
+      "id": "afe26a3e6a",
+      "title": "Bambu Lab Wants to Help Turn Your Hobby Into a Hustle",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNjhmN3JwVzZqZ3J1MFFfV0JEa3NDMDR3V2dSSFRtSTB1Zm5HSVlhRFYxZ1pmV0xxeTJ1RXBfSDRBY0ZDQU9lN3BPejJINzQ3ckY4VEJZX2hGTk9wdlB4OFNFaS1OUUVwS0dDbkJ1ejEtQ0pPSXkwbU5IN1FXVHJvcFFR?oc=5",
+      "media": "All3DP",
+      "uvpm": 1800000,
+      "uvpm_display": "1.8M",
       "tier": 2,
       "category": "brand_news",
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-11-10T20:14:44+00:00",
-      "summary": "My New Favorite 3-D Printer Is Ideal for Beginners and Experts Alike &nbsp;&nbsp; New York Magazine"
+      "published": "2026-11-11T12:24:42+00:00",
+      "summary": "Bambu Lab Wants to Help Turn Your Hobby Into a Hustle &nbsp;&nbsp; All3DP"
     },
     {
-      "id": "ef09a0edbc",
-      "title": "Bambu Lab unveils H3C, a tool-changing 3D printer with up to nine materials",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdGZfS0UxeWFiWDJOaVRFc09pQmhqeWRjNUthWGVVeHIyTEs4NFVHQW9JS3lXWlNpWUdVQVpkenY5b211Q2hGQXduVG1MUUZ0S09CLXV0UlRDYU05d3IyM19URzM3d1Z4c291NzhTWlFnNG9kZmlfZjBpSG13dWYyQmZtcHpoU1RzMkhMNjVRVVdhRnRFR0NEYXU5Yw?oc=5",
-      "media": "3d adept",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
+      "id": "ffedd80f8f",
+      "title": "Optimized for Bambu Lab H3C: ANTINSKY Launches Ultra‑Flexible TPE‑65A, Alongside PBST & Filament Tangle Cutter",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHd3UDRHenYydXZpM1dXYTE1WFBTQXdJYk10T21QXzFvSGxWWFUtUXA0SjlvdW9vLTMyZmdoa2ZlM0dXUy1VV0NTVV9jblpPbUlnbE44Q3NtSVF4TXQ1LXRJMEQ2OXpMTTk2c1VJZmhLbmlUcGpreDVrWmpmQWR5UnBuU1NFbVA5RE9SampmR0dDY1dBYWkxMy03azlvalJFUkNnNFhPdGlWY2Z6VUZDbVZ5am5kYVdObUpaNWxadldSZ1VaVEtv?oc=5",
+      "media": "All3DP",
+      "uvpm": 1800000,
+      "uvpm_display": "1.8M",
       "tier": 2,
       "category": "product_news",
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-11-10T08:35:19+00:00",
-      "summary": "Bambu Lab unveils H3C, a tool-changing 3D printer with up to nine materials &nbsp;&nbsp; 3d adept"
+      "published": "2026-11-11T15:09:42+00:00",
+      "summary": "Optimized for Bambu Lab H3C: ANTINSKY Launches Ultra‑Flexible TPE‑65A, Alongside PBST & Filament Tangle Cutter &nbsp;&nbsp; All3DP"
     },
     {
-      "id": "bb8b9cfd8b",
-      "title": "Oshkosh library Makerspace ribbon cutting set for Nov. 18",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcnZnZHc5bm1HVzUxSXlSYnFaMzF4WkM5ZGRMTWZxay00eVhXd3J1cXNHTnY3OU0zaGNTZzVmUXUybFVvdDZCSjV3elhDQWVPZklYRTRZbkJhbU9BdkZ6WXZ5XzJTNkVUZmFBbnd5ZWRfSDc2TklQUWVxdmNZeWM5alVYV3lwYzRvMk9FbFBFMmQyZVNWY0ZNRWFzRDJjakpZWlF1WEdvV1MzMG1ldjRXRWlZaWRfckt1VndwSUQ5Rzl6RE5zRUNtOV9jUQ?oc=5",
-      "media": "Oshkosh Northwestern",
+      "id": "c0e6e9599c",
+      "title": "I tested the Bambu Lab A2L Combo to see how easy 3D printing really is - HT Verified",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaEJ3Y0VUOU80UFVtbEZ3LS1RTXFDQXR6LUx0V2JLN1E0d2w4VkN3ZW9WQm9vSGUwSDd4R2NLbkJMU0tKbk03alVFQ2dISzZyU2NVSTVZRVlvVGZFMW9RaHQ4NGVLUjBtZU9sTGpDNkJ6bGpXT1RZVU5YZTFJVG10VFNkSjV0NkdzYndQXzlqbmkyRHFnM3NFU0twdWxlZ1k5S2FjWHhhenBmOWRMWmVEaG4yenZSMi1mVkVCSk1PQ0dua1p6N1BvT1J5alUxbDNvbEhqcmhxRy1LcE1udm15SDhSSXJpVzBu?oc=5",
+      "media": "HT Tech",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
-      "category": "brand_news",
+      "category": "hands_on_review",
       "brands": [
-        "Bambu Lab",
-        "Cricut"
+        "Bambu Lab"
       ],
-      "published": "2026-11-10T10:01:00+00:00",
-      "summary": "Oshkosh library Makerspace ribbon cutting set for Nov. 18 &nbsp;&nbsp; Oshkosh Northwestern"
+      "published": "2026-11-11T08:07:24+00:00",
+      "summary": "I tested the Bambu Lab A2L Combo to see how easy 3D printing really is - HT Verified &nbsp;&nbsp; HT Tech"
     },
     {
-      "id": "c6defe5e92",
-      "title": "The Bambu Lab H3C Is A Multi-Material And Modular 3D Printer",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56cUc5LVlSaU80NDNxUFdKd3hzOWxnN1NjZ1FsS0pOT0FKSkVzdDNCWGNISzRMZlVRT3ZqU19aOHNnWEdqNXExZGJVWQ?oc=5",
-      "media": "Men's Gear",
+      "id": "aa9ad052ca",
+      "title": "Bambu Lab Plans Bambu Circle Pilot in the Netherlands",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WSEFjeFpSWDhxcVUxWmNLUF83ZkowOHk4bWh3Qzc1OC1fQ1o0TlU5ejhLQ1VBNm9aQVpscHR4TnNaR2FueHVHNE1PVURpazJGVWtjem14TXZ4RHNiSk9DU2RiY253cG5aTHJkQUw0SDJpbFYt?oc=5",
+      "media": "Technobezz",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -94,29 +108,29 @@
       "brands": [
         "Bambu Lab"
       ],
-      "published": "2026-11-10T16:45:10+00:00",
-      "summary": "The Bambu Lab H3C Is A Multi-Material And Modular 3D Printer &nbsp;&nbsp; Men's Gear"
+      "published": "2026-11-11T17:33:38+00:00",
+      "summary": "Bambu Lab Plans Bambu Circle Pilot in the Netherlands &nbsp;&nbsp; Technobezz"
     },
     {
-      "id": "343b11c9d9",
-      "title": "xTool Unveils Its Biggest Black Friday and Cyber Monday Deals of the Year, with Savings on Laser Engravers, Creative Tools and More",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNDBCRWRkY2tUMl9RcS1yYzloRWxuVWM2WTRFVjMwVFlveUZQd0VBMEZwUllWWmxDaW9aWU40WGFXd0EtU1VxT196YXZlNEhnQk1sQmF1dlIzVloydUM1VUpOaFBxWWdqaFBlZ2xZb2MwVWp1RHc2UmMyLXBUZmhCX2JfZkkxWEZad2x6UFlxSkgwTGNJOGZhNUp0YzMxY1VaNUZzX0Q4clVkb3lfa1dXOVRiRFpYdXRJM3BSSmlmZktOcHZzUTVfY041N3JYS1Y5T2IxU29PYXdaWHBYX3pvbE1Ta1AtMHZEXzVYd2FIV3JSbm44ZDNTLW8tdUZPQXhwR0RLWG52QjNxcnRyc19LWkhhQQ?oc=5",
-      "media": "PR Newswire",
+      "id": "f331e74ec7",
+      "title": "xTool M2: 10 Lessons After Two Months of Hands-On Use",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGh1S2x6ZWg1THJZSzlNT0NHT0NkZ1U0b19MVDI2RXBrM09MUi01RDlCSUQxLTQyRTRWVVhUNkpZX1lQN2hlSVExWThSdTYzcy1DdGNNRGUzWVRha0FhTFpQWDF3eWF1eC1WTmRhSHRQbllJT2s0dTF3eXg4eHZtVEJqcTBnLThzNXB5X1V1UDZvd2F4bjBWRGRsTUpMUmRPSVBldWZWaTgxNDJhY0E?oc=5",
+      "media": "Digital Reviews Network",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
-      "category": "product_news",
+      "category": "hands_on_review",
       "brands": [
         "xTool"
       ],
-      "published": "2026-11-10T13:00:00+00:00",
-      "summary": "xTool Unveils Its Biggest Black Friday and Cyber Monday Deals of the Year, with Savings on Laser Engravers, Creative Tools and More &nbsp;&nbsp; PR Newswire"
+      "published": "2026-11-11T21:48:16+00:00",
+      "summary": "xTool M2: 10 Lessons After Two Months of Hands-On Use &nbsp;&nbsp; Digital Reviews Network"
     },
     {
-      "id": "80bf9ea4bf",
-      "title": "Global Creative Tool Leader xTool Officially Enters Vietnam, Signing Strategic Partnership with Viettel Group",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaTFuMGtwOVB3YjN6M1BCeEFzcEhQZC1aOTRTdjI0RkpMUDNXLTdXY2ZzeUY2SWhZTFFpcVFzOG9lMDc1R1BrVjBHNmFkbVNhdWdEYzF3QkFUcXpBRmxtZlNMN1VJMlRSVmRqZ3J3UWpHWnNRMUx0UGhMTncwcklBcUxRdHdZcFAzalFkOTRsbWFtTm1BaFM3bWhVMVZBLXhDczBZSV9lUFdYc0NuRkZ6VUZSLXN4Uk1xQUFObnlZUjFFcGJiSDJHdFJhbFBMd1MtV3RGYzl0WDRfZkl4MnFIVkJvVHFVQmYzRGlZ?oc=5",
-      "media": "Plataforma Media",
+      "id": "2cbf898e70",
+      "title": "The xTool Black Friday 2026 sales are here with up to RM3,103 off in savings!",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mX0RNRWlwa2FqSGZyVldiOHJDUk41TGdqeXo0X2F0SWpneGw2cWc3U29rc1ZPcXZnRjNwenlpampFWHNkNkVlM05ZdGVGdlVSYzdCNUh1eDhqblh4SlM1cGoxbmYtdzV1VVVn?oc=5",
+      "media": "Hitech Century",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -124,14 +138,14 @@
       "brands": [
         "xTool"
       ],
-      "published": "2026-11-10T07:18:00+00:00",
-      "summary": "Global Creative Tool Leader xTool Officially Enters Vietnam, Signing Strategic Partnership with Viettel Group &nbsp;&nbsp; Plataforma Media"
+      "published": "2026-11-11T13:29:11+00:00",
+      "summary": "The xTool Black Friday 2026 sales are here with up to RM3,103 off in savings! &nbsp;&nbsp; Hitech Century"
     },
     {
-      "id": "2cef54f0e0",
-      "title": "Cricut Black Friday deals are appearing, but is the Maker 4 still worth it?",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSktyUmh5NG82N0FobWhaV1Jjbmh0emRldVVfWUVmcHNLVDV1WHdEUXN3OVQxaFpQVUtnRmktQ3VkSHhKSC04MTU4VFp0bV9zM09MSk5VaGVkb2NzQWhLQW5kTnhpZHhmSENCYmxqdldaV0RPRUVoTkt0MnhIdnhUa3NNYy1ONmVJUWswQVFuSngxTkVBYVZhM1ZBSGdZNkhiMzlBbWFqanZOVnBt?oc=5",
-      "media": "Creative Bloq",
+      "id": "2726c55c53",
+      "title": "Cricut sales start today",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ma0lLa3hSQzNpVndHbWRPeG9zOEhRWktYNXUxMy1aM3hmWlJGNzhxMEhRRzlYOG8wZEZBVHpDS3JPTThITXdVZjVKM2k5WVJMdmMwWHVuc0hQbkx0R1lLMTJNaVR1WWlPUENlYzJsTmttQQ?oc=5",
+      "media": "iTWire",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -139,8 +153,8 @@
       "brands": [
         "Cricut"
       ],
-      "published": "2026-11-10T08:00:00+00:00",
-      "summary": "Cricut Black Friday deals are appearing, but is the Maker 4 still worth it? &nbsp;&nbsp; Creative Bloq"
+      "published": "2026-11-10T23:29:59+00:00",
+      "summary": "Cricut sales start today &nbsp;&nbsp; iTWire"
     }
   ]
 }
