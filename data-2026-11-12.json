@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-12",
+  "updated_at": "2026-11-12 21:56 UTC",
+  "stats": {
+    "total": 9,
+    "total_reach_display": "12.1M",
+    "brands_hit": 4,
+    "brands_total": 10,
+    "media_count": 8
+  },
+  "brand_counts": {
+    "eufyMake": 3,
+    "Bambu Lab": 4,
+    "xTool": 1,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 0,
+    "Cricut": 1
+  },
+  "articles": [
+    {
+      "id": "0dcb63e589",
+      "title": "Best 3D printer deal: Save $50 on Bambu Lab P1S",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmhGMVlaWjlSR3RiclBkZkdCRkZfRzJvNk1OX2o4OUhrRVFDcnJfMFJCeThXdXNaMGNCbGVkcElvMnI3WGM4bjlaU25PeVRmZ3pNVHpsOTE2dWxLSHhOa0k2TXpxRm1iRkR1T2ZERzdReDVqTlRwdEVsZnUzSjFWNklObkRia1dL?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-11T22:00:00+00:00",
+      "summary": "Best 3D printer deal: Save $50 on Bambu Lab P1S &nbsp;&nbsp; Mashable"
+    },
+    {
+      "id": "3dbe585b32",
+      "title": "Bambu Lab P1S Combo deal: Save $70 ahead of Black Friday",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RYUJmMzF3ZHg5ZDlwZkRId3NSQS1jbnAtYVloSGxxSElvbDl1cHpZU2wxN3BFNDhvN2JrMkduaUV4d2FLaEI3UERJQWtFS29BTWJhSVJyRUZEZE9ldkY0?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-11T23:57:58+00:00",
+      "summary": "Bambu Lab P1S Combo deal: Save $70 ahead of Black Friday &nbsp;&nbsp; Mashable"
+    },
+    {
+      "id": "9cbab8f631",
+      "title": "Save Up to $2290 on the eufyMake E1 Personal 3D-Texture UV Printer",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xOHBIamVYV0ctZ1JjNWRINm5RSjN5YzA1Z0MxZXdnMjFZWWcwbjUwX1VXZTZTS2FCTko0NVdPVDlNZVhDTGhYZFF4X1ZWb3VIUWFZMUQ2bzhlSDZGSUlGOTdqMjg4eEVzWF9JM01FcHlmTEVPQ2c?oc=5",
+      "media": "Man of Many",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "eufyMake"
+      ],
+      "published": "2026-11-12T07:12:35+00:00",
+      "summary": "Save Up to $2290 on the eufyMake E1 Personal 3D-Texture UV Printer &nbsp;&nbsp; Man of Many"
+    },
+    {
+      "id": "593cfad3e0",
+      "title": "eufyMake UV Printer E1 Marks 4 Million Real-World Prints and a Year of Ongoing Improvements",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWTVpbG56QllfdzR3Q3JBVC1zd0ZFVTI2THZWNmlCQTVKTnEtVHBZa1dqRDJ5S2hLRGxLTHlkbjdJSmU3dTRtREtJb0VySUFidURVSERKTFB4bDJZSGZKbzFkRlpySUtBcW4tQlZnQXB3c1R3a1JNWVd3OUtheklDTUhGaFhBbl9lLTdyc1BjWXF6Q2d3ZG5HLXRyYmhrX3VRZUlHUkh1NWZFUVFvRkczbGE4UWc0NEVCbmh2RS1BLWJOaVB5cFhhZnFNNF9SZw?oc=5",
+      "media": "EIN News",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "eufyMake"
+      ],
+      "published": "2026-11-12T21:00:00+00:00",
+      "summary": "eufyMake UV Printer E1 Marks 4 Million Real-World Prints and a Year of Ongoing Improvements &nbsp;&nbsp; EIN News"
+    },
+    {
+      "id": "e5939819e2",
+      "title": "Design review: How the eufyMake E1 UV printer inspired the return of the Design Week Awards",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1pSWGZDd2JtbGFVcDNySmtZbkprVWl1WHRLWlhPRTJUTm14RXZ1WjBKTjlldFpvckFxRmFUX19DbnJxbVFST0ZheXFJVGhuc0t4NG81dE13M1hrVmZoTDZ4YlFLQUZBYkxhRmtEemJZZ1VFbkE5MXNmTGRFNW02eUZmODZVZG5ycFhVYWxjV3dsWG1adFA5R1VTVWhBYkVtWGh2SjFpUXl2WWJ5Y01IZEpUUC1XeHgtNzl6bg?oc=5",
+      "media": "Design Week",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "eufyMake"
+      ],
+      "published": "2026-11-12T05:00:20+00:00",
+      "summary": "Design review: How the eufyMake E1 UV printer inspired the return of the Design Week Awards &nbsp;&nbsp; Design Week"
+    },
+    {
+      "id": "0005ac5cdb",
+      "title": "Save $100 on the Bambu Lab P2S AMS Combo 3D Printer and start printing with ease",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHVyWmowQm9xalFuMENSbkRfRldmM2V2QnI3TlhtSTczUXRHeFFSWjExd002MGpLemZfd2sxNHBJRFh1d25pOFlPbEExOTlZNmV0VXh2X1k5cEtzbG5tcjA5Yzd2SFRvX3NGeW9UeFJHaXZ3R2JiT1dkVG9rWnc5OFAxeE4zMHBTaHZ2WGtaQzFyX0NjbnowVmdR?oc=5",
+      "media": "How-To Geek",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-11T23:21:16+00:00",
+      "summary": "Save $100 on the Bambu Lab P2S AMS Combo 3D Printer and start printing with ease &nbsp;&nbsp; How-To Geek"
+    },
+    {
+      "id": "13e81a85c8",
+      "title": "Bambu Lab's combination P1S 3D printer and AMS is back at its cheapest ahead of Amazon Black Friday sale",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdGwwbXZROFJmQ2wxTmVMVlFKZVF2M3hoeW5rcHhxRVNnMUtFZl9pMlZON3J0Q0tXNnRBbDQ1RHk0R0dETDVPNkljN3k5dDNVcTVYYTI5allNcHdpdUJCQ3dwTkxxTldUczlOTG9BZlpfc0Y0eXpnVFRyOG9pdENPZlpzV2ZCUjQ0cWY5RFBYaUtSNGg3RmIxTW5PYWloT0tNdG5Qa2Niakw0WVI0RUdOMi1wc0piaXhISFdJYkd1OFBib01OaXljd2RCYTlWTzg?oc=5",
+      "media": "PC Guide",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-12T11:17:17+00:00",
+      "summary": "Bambu Lab's combination P1S 3D printer and AMS is back at its cheapest ahead of Amazon Black Friday sale &nbsp;&nbsp; PC Guide"
+    },
+    {
+      "id": "273ee142e4",
+      "title": "Get creative this Black Friday with exclusive savings from xTool",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDhaZkN3UXd0el8zS2tLRG50Rl90ZUt6UDc4OTBFMU9zNW1mT2NlM2p3MGtXemZUM2FxTHRYdXdsZXZOVFZNWXpSVFZpMk1OWm5GcXNxVEp4N1Z1dkl5Sy1kVkpiNjhaQlR4blBENFctOENESFZ4MkVZdHpnWElWQllHSldrUkRBeXFJb2lDNDkwUnNkN1pPcF9XdTE?oc=5",
+      "media": "Stuff",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-11-12T16:03:01+00:00",
+      "summary": "Get creative this Black Friday with exclusive savings from xTool &nbsp;&nbsp; Stuff"
+    },
+    {
+      "id": "fc6f9b3385",
+      "title": "Cricut Earnings Call Highlights Growth, Innovation and Caution",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3hjTEhfRnFlTzdEcE1yaE85bkpaUG43UVBnTzlwRGZzLWd1NWlhbTg3Tk9zcXN2RkU3WURvZHIwUl9KUlFxd0ludGJZcHhhN2M0c3d2UFNfdTVzdE9KNWk0Wlc5N044eWRiemZfNDV5aGM0OFJmdTNwdy1MbldUeVJzT3gxSU9TU1NnWW9qdlBmM3BhOFBIY2V6cmJJQWM5X2x3dzJxT2ZHN21FdFoxd081dw?oc=5",
+      "media": "TipRanks",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-12T00:28:48+00:00",
+      "summary": "Cricut Earnings Call Highlights Growth, Innovation and Caution &nbsp;&nbsp; TipRanks"
+    }
+  ]
+}
