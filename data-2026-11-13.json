@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-13",
+  "updated_at": "2026-11-13 21:42 UTC",
+  "stats": {
+    "total": 7,
+    "total_reach_display": "64.2M",
+    "brands_hit": 5,
+    "brands_total": 10,
+    "media_count": 7
+  },
+  "brand_counts": {
+    "eufyMake": 1,
+    "Bambu Lab": 3,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 1,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 1,
+    "Cricut": 1
+  },
+  "articles": [
+    {
+      "id": "beb395919a",
+      "title": "Walmart's Early Black Friday Deal Saves $97 on a Cricut Explore 5 Smart Cutting Machine Bundle",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53bFZWdVdDaDdiMlpnNk5kcTBvdHY0cEhTckpON2xQZ3FRMWVMRmR1enZlTG9FczV3ZVloZ0VvUzllUkpzMjdVWFFkUWpRZG1PZ1VzNjlWZjRNSzJmSUVxdnpMQ3FXeExwSGZoZnRpYUhlSGlMZFd2eDZn?oc=5",
+      "media": "CNET",
+      "uvpm": 38000000,
+      "uvpm_display": "38.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-13T18:34:14+00:00",
+      "summary": "Walmart's Early Black Friday Deal Saves $97 on a Cricut Explore 5 Smart Cutting Machine Bundle &nbsp;&nbsp; CNET"
+    },
+    {
+      "id": "e05c9942d8",
+      "title": "Creality K2 Pro Combo Series: Save up to 40% this Black Friday",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajJxZ1Ffa0t5Sms1U2FuTU1FbWdFWm43MDF4UlRUejR5ekhOZGNHbXJ1T1V3bkVHb2d2dTkyOUg1V0EzWDZuRzhfam05Z3hoMjg5ZGpBdW55QndFRkE5a2dDYjdLYklaSVo4eFhVdjdBeTFKajhPbk50MDhoeTlvNWYtSzNfOW51X0NtbjFLQ0dsdUl0a2NjR3JtVXZ0U0V1WEJ5Q2VpM1RNTEJYOEtYSkxjTlg2UQ?oc=5",
+      "media": "Tom's Guide",
+      "uvpm": 15000000,
+      "uvpm_display": "15.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Creality"
+      ],
+      "published": "2026-11-13T11:32:10+00:00",
+      "summary": "Creality K2 Pro Combo Series: Save up to 40% this Black Friday &nbsp;&nbsp; Tom's Guide"
+    },
+    {
+      "id": "0dcb63e589",
+      "title": "Best 3D printer deal: Save $50 on Bambu Lab P1S",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmhGMVlaWjlSR3RiclBkZkdCRkZfRzJvNk1OX2o4OUhrRVFDcnJfMFJCeThXdXNaMGNCbGVkcElvMnI3WGM4bjlaU25PeVRmZ3pNVHpsOTE2dWxLSHhOa0k2TXpxRm1iRkR1T2ZERzdReDVqTlRwdEVsZnUzSjFWNklObkRia1dL?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-13T12:35:00+00:00",
+      "summary": "Best 3D printer deal: Save $50 on Bambu Lab P1S &nbsp;&nbsp; Mashable"
+    },
+    {
+      "id": "885f3ca08a",
+      "title": "eufyMake UV Printer E1 Marks 4 Million Real-World Prints and a Year of Ongoing Improvements",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcjBQQmhrWFBXcVVfUmdjQ0dUOXJ5NGRkcjBDWmpzWVViemliSzFQV2F0MG9vMWlFTnRvMkl1bmhvQzR1UnZScXd4bDhnNngtazJnaks2VklkOGJhMnk0UG5DUlU0NnoyeXVPOGoyZHROSUtHZXB2bkV1WWJZOTY4c0dtTWlwaVVlbDVIejJIdDllMVZFdlN0RWhRU3QzN0Q2aURKWEdlOE5qNF9CV29NdFVjbm1nS2RuaUY3dWZRVFhJMVBmUmhWVmdfUXczaWZZRjZrSTJyUUxUejhLdXNrXzdIVQ?oc=5",
+      "media": "The Register-Guard",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "eufyMake"
+      ],
+      "published": "2026-11-13T01:33:26+00:00",
+      "summary": "eufyMake UV Printer E1 Marks 4 Million Real-World Prints and a Year of Ongoing Improvements &nbsp;&nbsp; The Register-Guard"
+    },
+    {
+      "id": "4ae7bac6aa",
+      "title": "Best 3D Printers for Beginners 2026: Easy to use printers for kids, teens and adults",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkdiMUY2WVhoUTZWV09RMmJHQlI1cUdRaGYxZ2R1TjFsV3VlTDh6S09kaDVkbnBFYk1Xc3c3YmdlcnplU0ZQT1FhdkJKZDYzenVJUDJ3elpZb2I2YzdWNEs0Z1JOenJuSmNIOUF6NExINklEQVB5bDZWbWZMektqR25B?oc=5",
+      "media": "Tom's Hardware",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-12T22:22:16+00:00",
+      "summary": "Best 3D Printers for Beginners 2026: Easy to use printers for kids, teens and adults &nbsp;&nbsp; Tom's Hardware"
+    },
+    {
+      "id": "5bd2620850",
+      "title": "A laser cutter, a nine-tool printer and a plan to put a Bambu partner in every town",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmMxWFFVXzZWWXBxZWlRWGkzdG01SldhbEpWcDQ2eTFNVUpTZEdUYk8zTUhhOTVrMnZvMVQyTUVJSk1RbndmSG9kcXBOcWUtOVplREw3QUdPb3cyR0NucVJvcnMteF9OTTlZQVduTmk5bGFFUFdZQzMyTVQtTHFHMk96VWhoYV9UQzc4ekNHbEpJVHJFN1REUGgwVi12Rl9XOUNyRVhudk11MUNHMEZBWDVrQTlEUXRnZ1VXcQ?oc=5",
+      "media": "The Gadgeteer",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-13T02:00:00+00:00",
+      "summary": "A laser cutter, a nine-tool printer and a plan to put a Bambu partner in every town &nbsp;&nbsp; The Gadgeteer"
+    },
+    {
+      "id": "e3fed851e7",
+      "title": "Formlabs Form Studio 1 Resin Printer Ships Monday: Emissions Certification Needs $179 Add-On",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaFlkdU11a1R6STF5dGcxZEtxN0Z4eExQZ3RmNFhGM1hRMjRJaTFZMXNrT1dqaWZ4ajFCaEI5Zmc0bndxZnhlTTBOSDlzM3c0RUJEelRsODZldGpkUDJEN2xxZjd1a1pvX3d0YmlCU1ZadGdhbjg2Yl9QeUpLSzRxdHdrTWwySTFRLWw4LUZqeWVuc25xdTZVZ1UwQ1ZabS1tZkpCalc3T0FWT0t2aUxlS1RQS05KYXhhdzdHdzd4ZG91bjJKRDkyd1cxVzB4cnRKX1lVZjl0NjN0Zw?oc=5",
+      "media": "Tech Times",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Formlabs"
+      ],
+      "published": "2026-11-13T17:01:32+00:00",
+      "summary": "Formlabs Form Studio 1 Resin Printer Ships Monday: Emissions Certification Needs $179 Add-On &nbsp;&nbsp; Tech Times"
+    }
+  ]
+}
