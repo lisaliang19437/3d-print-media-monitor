@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-16",
+  "updated_at": "2026-11-16 23:52 UTC",
+  "stats": {
+    "total": 1,
+    "total_reach_display": "300K",
+    "brands_hit": 1,
+    "brands_total": 10,
+    "media_count": 1
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 0,
+    "xTool": 1,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 0,
+    "Cricut": 0
+  },
+  "articles": [
+    {
+      "id": "684c70c928",
+      "title": "xTool enters the Vietnamese market, forming a strategic partnership with Viettel.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmVfTms0UW8tZGJrWV84dWUzNGxRMGRSN3hwN3FQeWJQYVZ6cEFYMzY3aW1qTnZiYW5MN2xMNU5ZT1YxNXZzWml1RGhPWFdJSjhwZ2QyT2IxaU9QYmc4MkZkMkxEODM2VGh3OXdzYW02a29rSW1HTTkwaTVsdXJDZEd1SjNUQXMwdXBHS082RkVmc0VwRmU0?oc=5",
+      "media": "Vietnam.vn",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-11-16T10:54:31+00:00",
+      "summary": "xTool enters the Vietnamese market, forming a strategic partnership with Viettel. &nbsp;&nbsp; Vietnam.vn"
+    }
+  ]
+}

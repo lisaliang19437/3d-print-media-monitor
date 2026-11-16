@@ -1,55 +1,40 @@
 {
-  "date": "2026-11-15",
-  "updated_at": "2026-11-15 20:37 UTC",
+  "date": "2026-11-16",
+  "updated_at": "2026-11-16 23:52 UTC",
   "stats": {
-    "total": 2,
-    "total_reach_display": "600K",
-    "brands_hit": 2,
+    "total": 1,
+    "total_reach_display": "300K",
+    "brands_hit": 1,
     "brands_total": 10,
-    "media_count": 2
+    "media_count": 1
   },
   "brand_counts": {
     "eufyMake": 0,
-    "Bambu Lab": 1,
-    "xTool": 0,
+    "Bambu Lab": 0,
+    "xTool": 1,
     "Procolored": 0,
     "Anycubic": 0,
     "Formlabs": 0,
     "Longer": 0,
     "Elegoo": 0,
     "Creality": 0,
-    "Cricut": 1
+    "Cricut": 0
   },
   "articles": [
     {
-      "id": "7e009ef201",
-      "title": "Bambu Lab's P1S Combo 3D printer is $479, $70 below Amazon's typical price",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LNlFNTldqYlhpVmZqcjRjZGpXa29jbHdjLUFrNEpDa1B2T0pjQ0YtZ0MxQ3pWd2tNcFhGRWdBMFpIekZmQmd0LWFmT3V4WHRQb20wSUlpWVN1bXM1U1FPT21pZEQyZTdLaU41Q2tR?oc=5",
-      "media": "MIXED News",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "product_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-11-15T09:17:56+00:00",
-      "summary": "Bambu Lab's P1S Combo 3D printer is $479, $70 below Amazon's typical price &nbsp;&nbsp; MIXED News"
-    },
-    {
-      "id": "feeced4479",
-      "title": "I'm saving loads on Christmas gifts with gadget so cool my friends want to steal it",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSmNLV1VZdGhRYzktUWhiZ195M3d2blYzeFVTNW9yaXg0VzljODh5dVBtYVEyRnJ2MG5nSmNjYWpZZ3FRYTh0QjhXXzBQSnRzRnMydFlqSzBsT1VzRVM0Z2Zkc1Azb3RmcWZnaElyMjNBX0FIdGs2WG1aODZmd2Rpd1pxelBlT1FpZ0R0VndIVlg5a0HSAZgBQVVfeXFMTWlnbW9pLVhoRXhhVjQ3WGd2cnpmMEJHOFJaa29ZYVgxTzNUNGlaSXh5ckRaRF9WQTFFVUw1cW85ZU1PdDFqVWM3dWlqMzl2QmFFRjBGS0ZsRXpaM0VWeGVqMU5sQm1Ra3FKZC1hVGtOcl9UOTYzM1g1cWZKY0FCMkcyc0M5X3g0elhTR3I4dnV4cldEOXdEd0c?oc=5",
-      "media": "The Mirror",
+      "id": "684c70c928",
+      "title": "xTool enters the Vietnamese market, forming a strategic partnership with Viettel.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmVfTms0UW8tZGJrWV84dWUzNGxRMGRSN3hwN3FQeWJQYVZ6cEFYMzY3aW1qTnZiYW5MN2xMNU5ZT1YxNXZzWml1RGhPWFdJSjhwZ2QyT2IxaU9QYmc4MkZkMkxEODM2VGh3OXdzYW02a29rSW1HTTkwaTVsdXJDZEd1SjNUQXMwdXBHS082RkVmc0VwRmU0?oc=5",
+      "media": "Vietnam.vn",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "Cricut"
+        "xTool"
       ],
-      "published": "2026-11-15T20:03:00+00:00",
-      "summary": "I'm saving loads on Christmas gifts with gadget so cool my friends want to steal it &nbsp;&nbsp; The Mirror"
+      "published": "2026-11-16T10:54:31+00:00",
+      "summary": "xTool enters the Vietnamese market, forming a strategic partnership with Viettel. &nbsp;&nbsp; Vietnam.vn"
     }
   ]
 }
