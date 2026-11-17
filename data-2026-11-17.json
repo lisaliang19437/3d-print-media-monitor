@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-17",
+  "updated_at": "2026-11-17 23:12 UTC",
+  "stats": {
+    "total": 6,
+    "total_reach_display": "11.5M",
+    "brands_hit": 4,
+    "brands_total": 10,
+    "media_count": 6
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 2,
+    "xTool": 0,
+    "Procolored": 1,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 1,
+    "Creality": 2,
+    "Cricut": 0
+  },
+  "articles": [
+    {
+      "id": "0dcb63e589",
+      "title": "The Bambu Lab P1S Combo 3D printer hits record-low price on Amazon — save $50 this Black Friday",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmhGMVlaWjlSR3RiclBkZkdCRkZfRzJvNk1OX2o4OUhrRVFDcnJfMFJCeThXdXNaMGNCbGVkcElvMnI3WGM4bjlaU25PeVRmZ3pNVHpsOTE2dWxLSHhOa0k2TXpxRm1iRkR1T2ZERzdReDVqTlRwdEVsZnUzSjFWNklObkRia1dL?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-17T22:46:59+00:00",
+      "summary": "The Bambu Lab P1S Combo 3D printer hits record-low price on Amazon — save $50 this Black Friday &nbsp;&nbsp; Mashable"
+    },
+    {
+      "id": "d3b5790700",
+      "title": "AI Has Nearly Unlocked the Breakthrough Gap for Mass Popularization of 3D Printing",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBcXNEUHEwRUYtVnVDNGk4WGVqSTk1alRUekNQWmZSWWdqNm1jVUlDQU1GSnptNXZlWXFxRGQ4MU0wa2R5LU5DZHp0Vl9XUUI0R2Fz?oc=5",
+      "media": "36Kr",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-17T02:41:07+00:00",
+      "summary": "AI Has Nearly Unlocked the Breakthrough Gap for Mass Popularization of 3D Printing &nbsp;&nbsp; 36Kr"
+    },
+    {
+      "id": "bfab4c7111",
+      "title": "Black Friday Deals for Makers and Small Businesses: Save on DTF Printing, Laser Engraving and Ergonomic Seating",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcFlhR19OcGZKNXhvb3NCOG9RaldqZ1RGX2pOUUI5a1Zaa2xsNms1dFZKZ0h1RjhRbGlJT0NVVWdJVFN6Y0VCekt0Zkc1TWZBUnRVVHpscDdjdG5QM01IUGxUcEFveko4ckRBZ0NTZFJYS0VPU0JqNG04LUY0SmtJNUEycUk1a2ZYOV9zNVhMVHV5a05HVnJOMlh6S2JLLTJvLTVMQm5EVUdJNnl3ZDRleUFkVmlBNVhESVRCR1VabW1mUDkwWDNnNDkxaUxFbnMzOXY0bjNyVQ?oc=5",
+      "media": "Geeky Gadgets",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Procolored"
+      ],
+      "published": "2026-11-17T11:02:31+00:00",
+      "summary": "Black Friday Deals for Makers and Small Businesses: Save on DTF Printing, Laser Engraving and Ergonomic Seating &nbsp;&nbsp; Geeky Gadgets"
+    },
+    {
+      "id": "bb6756be2d",
+      "title": "Elegoo 3D Printers Are Up to 54% Off For Black Friday—Including Models We Tested and Loved",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdU5ZZ3Jpek56MElCSGIwUXRNemlvSDhHQ0lHX1NSMW9CbG0xTW1IMGtMUEg5TWhPN2p1enYzSXotSGVack5VdVlPQ0VKNndSUFd1eE9DRnZLSDNpYk1GZkV6VGtiM0FMVHRGeXpmYndmenFReUNPaTlqbG41eFoyWkY3Vi1YVndxZkhnb25MSG54amVnU3hkcXNTd3k?oc=5",
+      "media": "Popular Mechanics",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Elegoo"
+      ],
+      "published": "2026-11-17T17:56:00+00:00",
+      "summary": "Elegoo 3D Printers Are Up to 54% Off For Black Friday—Including Models We Tested and Loved &nbsp;&nbsp; Popular Mechanics"
+    },
+    {
+      "id": "1d26c55fa2",
+      "title": "The Creality Falcon T1C engraver could be a game changer for personalisation businesses",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmhIQ1BleGo4eFdGZG5QbU1yOG13UHpQYVZweU1YNUpXVUo1d20yekMtSlNOanY1bnhwa3lHamZSNXV3TVE1OWNsZHVhNGNvaFJLeU9PcUhSbHd0SmlyVnRVMi1pTjVjd0M4SGdMSVNhRGpuZG0wZmFOWG4zSWJoUUcyVmVQc3RHU0JiTmp5ZHBiTDVfcGlwREdGMVZ5dE5fSUZpa01TSHlNVEdpbVhFZGxkUFY5TFRuVEdPdGpB?oc=5",
+      "media": "Creative Bloq",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Creality"
+      ],
+      "published": "2026-11-17T07:00:00+00:00",
+      "summary": "The Creality Falcon T1C engraver could be a game changer for personalisation businesses &nbsp;&nbsp; Creative Bloq"
+    },
+    {
+      "id": "a6bf31f86f",
+      "title": "Creality unveils Falcon T1C, a compact desktop dual-laser engraver",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU1d0M3BvS01sUkFmQ185TG45d2FaV2VQdDd2QVZqdWNTZXRkZEdvZG1nNm85ZlI2MWZsQkVrdUZMazR6eENoQ2RWeFFhOGJJU3U0R0NzRDZpeHNtNjQwdmd2NWJQekFqdDJORzkxazAtOUlUR1QwaE1XeWphYW5qaEVrYU9lZ3NSenRvYmxvb2tkejdKdHFicE1mcjVHb0UwYlJ0eklwX2h5VEhLa2h3?oc=5",
+      "media": "Notebookcheck",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Creality"
+      ],
+      "published": "2026-11-17T16:00:00+00:00",
+      "summary": "Creality unveils Falcon T1C, a compact desktop dual-laser engraver &nbsp;&nbsp; Notebookcheck"
+    }
+  ]
+}
