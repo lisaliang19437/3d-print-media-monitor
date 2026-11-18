@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-18",
+  "updated_at": "2026-11-18 22:44 UTC",
+  "stats": {
+    "total": 6,
+    "total_reach_display": "16.5M",
+    "brands_hit": 4,
+    "brands_total": 10,
+    "media_count": 6
+  },
+  "brand_counts": {
+    "eufyMake": 2,
+    "Bambu Lab": 2,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 1,
+    "Elegoo": 0,
+    "Creality": 0,
+    "Cricut": 1
+  },
+  "articles": [
+    {
+      "id": "c77324ac7e",
+      "title": "Hurry! Up to $1,010 off at eufyMake but only for Black Friday",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUxnWVBlcEtscDI2c2ZCamVSSlBGamVic2NvMHl5ZEZEbEdvSjN5V2s4ajZ5bUlkWDJTblMwYy1pNHFIdE5maTl0ZDBPS3lLOXNpdzJxYTZsRVgzc21kQnpSSkh2OXRsTFJLdnc5MGRORlJhU2x0SkJsLVFkeGdMbm5mQm4tUl9lbmg2TmQ5UHYtaHJ0TDRTanpvOGRDV204cGgw?oc=5",
+      "media": "Tom's Guide",
+      "uvpm": 15000000,
+      "uvpm_display": "15.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "eufyMake"
+      ],
+      "published": "2026-11-18T16:25:16+00:00",
+      "summary": "Hurry! Up to $1,010 off at eufyMake but only for Black Friday &nbsp;&nbsp; Tom's Guide"
+    },
+    {
+      "id": "1fbec20833",
+      "title": "eufyMake E1 3D UV flatbed printer is now over $600 off for Black Friday",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV0xGVUtZbDVGN3lpa19lVkxRdU1kLWVTWTVTdTR5bFlscXM0SmpmR0lJMVY5aG5jNFUzT0ZTY1g2OGo1YUZpUEgxYXRJZ1RmVFU2cWFVVnpIcUJjbGQ4YS1fb1hseWQ0dF84WnRScVNJRGhuUjR0ZVlMRl93S1J3SXY3UjV0dU04UXlUMGw5U19RdThreFJfQk95WFlhcDg0WkRZbTVGaEl5QXRHRUlUZ3FPbEo?oc=5",
+      "media": "Tom's Hardware",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "eufyMake"
+      ],
+      "published": "2026-11-18T20:01:42+00:00",
+      "summary": "eufyMake E1 3D UV flatbed printer is now over $600 off for Black Friday &nbsp;&nbsp; Tom's Hardware"
+    },
+    {
+      "id": "cf63538589",
+      "title": "Bambu Lab Launches MakerKids Beta, 3D Printing Lessons for Families in Bambu Handy App",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVA0ek02Q1JzbEs3UTNWZzA2RWR4Y2VuSzRydmQtckxBLWtRNnE1eDhySVVHRVZTRUpGZXVwTWF3ell1azdFVy1UaEtKQUlCUzN0eFVXcU1rVHRMNF90S2JtRG9xYW9haDlxeXMtU0hIcnE3WENTRnQ0X1RZczdjRGhCckNMdm1lOEZLUXp5Mkw3ekN5aUF6dDRfSGlhMVdfMkxwQldiNXpQSkc3Y0pkeVFxTFk?oc=5",
+      "media": "https://3dprinting.com/",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-18T14:09:57+00:00",
+      "summary": "Bambu Lab Launches MakerKids Beta, 3D Printing Lessons for Families in Bambu Handy App &nbsp;&nbsp; https://3dprinting.com/"
+    },
+    {
+      "id": "cea6c6eced",
+      "title": "Right to repair starts in your garage with a soldering iron, multimeter, and a 3D printer",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYi11RkctT1o5c3h2YjBBYjdFMXcxMUhXbjRHdXJRUk1IN2VzYWNjNFk5UmxfbHV3OV85WW53dTdrejhhY1FrelRCTWhPWjZwbkFRTVhkd3FHTnVfWVBQVTBOV2tLS2dxbVVzMXpybXZydXh5QVUzN3JTVWszX1VsM2ZFbFhQXzNRb21xbV95QWxDejBTdFFfaHZqSkRseHdzQzlma3lQSDg3MmxhRXFFWkl3T04?oc=5",
+      "media": "How-To Geek",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-18T13:30:15+00:00",
+      "summary": "Right to repair starts in your garage with a soldering iron, multimeter, and a 3D printer &nbsp;&nbsp; How-To Geek"
+    },
+    {
+      "id": "bb8c2bcc98",
+      "title": "LONGER Brings Laser Engraving, 3D Printing and Advanced UV Printing Together in Its Expanded Desktop Creative Manufacturing Lineup",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQR0x4d1RNVV9INGFoUWhLcW5YUW9SbmxwSERfbGU4WGNnZWVOdFRtVW9ob1l5M0J6NnVENVoxRlhhUHRhNFFFQ0hXbjkzUm10TW0zdExGenJJRW9xS3hQd0ltZWFnT1R3NXZ5eV9IZllacmhQWW0xMzU2QlpUb2FwNTA0TnhEa1VIbVd0dWNnWU5qVG1oZ2lCNE5WOUlwUVRXX2FSQ0pycUJ0WW5pSkRQalNMamFmVzY0MWtBUmx0WDMwVWtucUZXY2NpWFNqWENXSGNyZ2oyeUZTd2NmemZPT1NmcWpyOWtBWGFQc2ZmVmFZeFlGTHJpR1ZDS19DRHktcHp1bGpIZVpfQWFlQ29VRE1GSFpsREE?oc=5",
+      "media": "markets.businessinsider.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Longer"
+      ],
+      "published": "2026-11-18T11:02:18+00:00",
+      "summary": "LONGER Brings Laser Engraving, 3D Printing and Advanced UV Printing Together in Its Expanded Desktop Creative Manufacturing Lineup &nbsp;&nbsp; markets.businessinsider.com"
+    },
+    {
+      "id": "72a1f4e255",
+      "title": "Mum 'saves fortune' on Christmas gifts with gadget that makes 'endless' crafts",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaU5wN3QwNFZwejVOVjZfZWJpR3RkbDFjTGxPSFd5LWpGN0QwaEpKWEpHMlhNQk5pZUlYZS0tZW9pT1pjSWp5ZTd6MXcwNkZ5T2tuUUJiT3J0QmJpczY2XzRLMnk5WV9KUVVIN01WZVJ5cUdWTExwR1pOaXF0T3l0N3JIaFJNeV84ZENodkVyTjNPNG1k0gGaAUFVX3lxTE5mVHZrMEVweW8wMlVMdEZLYzJER0ZEYklyWlo3ekw2ZFZheDdMRjVoRjh0VlZrT0VNdU9VT1lULVVGTURGQWJZWlF0YzVCekRreDRvSXRSTVpVaFd4eFdONGxGdGtLUHoycEZfTm5sVjlWajBTbzY5dURrbGkyVnRva3ZoOHlGdll2S2Q2YTB5eWlPTE9LVUltUkE?oc=5",
+      "media": "Wales Online",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-18T19:03:00+00:00",
+      "summary": "Mum 'saves fortune' on Christmas gifts with gadget that makes 'endless' crafts &nbsp;&nbsp; Wales Online"
+    }
+  ]
+}
