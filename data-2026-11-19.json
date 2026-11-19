@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-19",
+  "updated_at": "2026-11-19 22:47 UTC",
+  "stats": {
+    "total": 6,
+    "total_reach_display": "2.0M",
+    "brands_hit": 5,
+    "brands_total": 10,
+    "media_count": 5
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 1,
+    "xTool": 1,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 1,
+    "Elegoo": 0,
+    "Creality": 1,
+    "Cricut": 2
+  },
+  "articles": [
+    {
+      "id": "43d0879ba4",
+      "title": "Bambu Lab introduces Bambu Circle partner network at Formnext 2026",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkkzRURYM0VqVkc3VG1Cc21nN0VLRXpoQUhWYUlzYm9TcF9kZlkyd3k2bldVTE10c0gzd253V1pELVFGZnRqbzByY2V5eXNWWmZuNmx1RGZtdzdNN1huWU5uOUk4MWY5MFliemtCQ0JTbkk3VGI1aWxwaC03T0pCcXdURWNEaHY4dnd3TGctYktiejZhSUd3aHdnMWc1eld5RFMyUHVuQ1YxaHZCaE53?oc=5",
+      "media": "3D Printing Industry",
+      "uvpm": 850000,
+      "uvpm_display": "850K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-19T16:28:19+00:00",
+      "summary": "Bambu Lab introduces Bambu Circle partner network at Formnext 2026 &nbsp;&nbsp; 3D Printing Industry"
+    },
+    {
+      "id": "06ee2fa805",
+      "title": "Make Your Own Christmas Gifts: The Ultimate 2026 Gift Guide for DIY Enthusiasts, Makers, and Creative Types",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWEMtTVMtd3duU0JTSm1IcUtpNlpEZWVzVEp3Ymxqc29NbzJ4TGhXSDU3elFlQUVpUlQyMkR3NkhoRWVoc21CR05NTlFfOFdrTFV1cG54T0hmdlEzX05RT0ZnOEd2d1A2aUdEdERKRjlROFRJdEQzUE13RnVoNnEtVg?oc=5",
+      "media": "Basic Tutorials",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-11-19T08:30:29+00:00",
+      "summary": "Make Your Own Christmas Gifts: The Ultimate 2026 Gift Guide for DIY Enthusiasts, Makers, and Creative Types &nbsp;&nbsp; Basic Tutorials"
+    },
+    {
+      "id": "b6ba33bf29",
+      "title": "LONGER announces Black Friday 2026 sale featuring laser engravers, 3D printers and ePrint UV technology",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeFZrblhQcElMVjhsYnZIcW1YT3gxQzV5QnNudmxqM3p3aXdKOHVrV09PQ0xGbGVnZklhOUt5N3o2RmdOb2VadXpndkNudFUweF9JbkhzMFBUcHNQbldmaXBtQVBDQXhDMUI0LXpESGpUNkZiNTEyalZ5QUU3ck15T3lkMVl4TGhhUk0xZ1dPWmVRYXAwTUN1SWRGckZmSFA4c0l1b05GTnlKdFE4YTlYQVAwWnhmTy1LOG5ocG0zZ2RCRk1nWGlMQnZ6T0hiWXl5U1RVMHZxOUhQUQ?oc=5",
+      "media": "Digital Journal",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Longer"
+      ],
+      "published": "2026-11-19T17:21:58+00:00",
+      "summary": "LONGER announces Black Friday 2026 sale featuring laser engravers, 3D printers and ePrint UV technology &nbsp;&nbsp; Digital Journal"
+    },
+    {
+      "id": "15c0342474",
+      "title": "The Creality Raptor Pro Max should radically speed up the design of custom car parts",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPejRHZmE1WGpaQmNTSW9fSzdlYXFSTzlIMXZIeEhTbG8xWkxWTG5UNWRmR3AxMy1DbE5UVUU5NmJ6a29JdU53b3duUWMxU21ZWVNYR1JuY2ZzZnFxbXk1WkRhaWY1RHplbHlneHhtZHBIOXNZWlMtd3V0TUMtakIyRVQ4amFjdjNINHhCS1JvTE52MjAxRG8xWm9OT2hoVXNMWFliUHowU1BJUjJvYi15RnV1Qzg3RnZHeHc?oc=5",
+      "media": "Creative Bloq",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Creality"
+      ],
+      "published": "2026-11-19T07:00:00+00:00",
+      "summary": "The Creality Raptor Pro Max should radically speed up the design of custom car parts &nbsp;&nbsp; Creative Bloq"
+    },
+    {
+      "id": "dbb9986ffe",
+      "title": "Should you upgrade to Cricut Maker 5? It depends on which Cricut you own",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOS1CZmdkY19seVZDcUdNYS13MWh0ZXNOQ3o5SjVfVTN2OTZhQlBWb2pJOEctWnY1aG0wT3diclVCSVREQV8tVU5SVUxWSGFmRGpETS0zWUM2NVo1OWVua0UzT0YyTldfOENzYzdkVWtlQy05NnFlZVdWTmdJVTc2MjhGS2g5bEVUZXpGZ3gzYVpLOU9ockI1WVdqME10dGFNVWRvN1MtdDhINW15VEFzUmN1bw?oc=5",
+      "media": "Creative Bloq",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-19T12:00:00+00:00",
+      "summary": "Should you upgrade to Cricut Maker 5? It depends on which Cricut you own &nbsp;&nbsp; Creative Bloq"
+    },
+    {
+      "id": "1cc834652e",
+      "title": "How a Cricut Machine Will Save Your Sanity (And Your Wallet) This Christmas",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWhHckJVNGpXVzY0am5Za0J0UEVvOU5JLU02TG04bUVsZ09wdmd3RTNWbTI2OTN2dk5VTFlkTmRNbndhWUdsX2Q0aHp2enpEMXB4dGZQbDlaeFdrQzVxZWRabFg1YnVjek1lcG1XYl9LbDY1ZnRncThGMUczSmlOUHpvTzB0Ujh4X2pqbXRqcC16aDBYdTNUYXZkanVEWlhRVU0tdi1Pbk5nUS1TN1RxbkRZR05rZ1o5?oc=5",
+      "media": "4MK",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-19T10:27:19+00:00",
+      "summary": "How a Cricut Machine Will Save Your Sanity (And Your Wallet) This Christmas &nbsp;&nbsp; 4MK"
+    }
+  ]
+}

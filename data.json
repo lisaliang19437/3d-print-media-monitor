@@ -1,106 +1,106 @@
 {
-  "date": "2026-11-18",
-  "updated_at": "2026-11-18 22:44 UTC",
+  "date": "2026-11-19",
+  "updated_at": "2026-11-19 22:47 UTC",
   "stats": {
     "total": 6,
-    "total_reach_display": "16.5M",
-    "brands_hit": 4,
+    "total_reach_display": "2.0M",
+    "brands_hit": 5,
     "brands_total": 10,
-    "media_count": 6
+    "media_count": 5
   },
   "brand_counts": {
-    "eufyMake": 2,
-    "Bambu Lab": 2,
-    "xTool": 0,
+    "eufyMake": 0,
+    "Bambu Lab": 1,
+    "xTool": 1,
     "Procolored": 0,
     "Anycubic": 0,
     "Formlabs": 0,
     "Longer": 1,
     "Elegoo": 0,
-    "Creality": 0,
-    "Cricut": 1
+    "Creality": 1,
+    "Cricut": 2
   },
   "articles": [
     {
-      "id": "c77324ac7e",
-      "title": "Hurry! Up to $1,010 off at eufyMake but only for Black Friday",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUxnWVBlcEtscDI2c2ZCamVSSlBGamVic2NvMHl5ZEZEbEdvSjN5V2s4ajZ5bUlkWDJTblMwYy1pNHFIdE5maTl0ZDBPS3lLOXNpdzJxYTZsRVgzc21kQnpSSkh2OXRsTFJLdnc5MGRORlJhU2x0SkJsLVFkeGdMbm5mQm4tUl9lbmg2TmQ5UHYtaHJ0TDRTanpvOGRDV204cGgw?oc=5",
-      "media": "Tom's Guide",
-      "uvpm": 15000000,
-      "uvpm_display": "15.0M",
-      "tier": 1,
+      "id": "43d0879ba4",
+      "title": "Bambu Lab introduces Bambu Circle partner network at Formnext 2026",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkkzRURYM0VqVkc3VG1Cc21nN0VLRXpoQUhWYUlzYm9TcF9kZlkyd3k2bldVTE10c0gzd253V1pELVFGZnRqbzByY2V5eXNWWmZuNmx1RGZtdzdNN1huWU5uOUk4MWY5MFliemtCQ0JTbkk3VGI1aWxwaC03T0pCcXdURWNEaHY4dnd3TGctYktiejZhSUd3aHdnMWc1eld5RFMyUHVuQ1YxaHZCaE53?oc=5",
+      "media": "3D Printing Industry",
+      "uvpm": 850000,
+      "uvpm_display": "850K",
+      "tier": 2,
       "category": "brand_news",
       "brands": [
-        "eufyMake"
+        "Bambu Lab"
       ],
-      "published": "2026-11-18T16:25:16+00:00",
-      "summary": "Hurry! Up to $1,010 off at eufyMake but only for Black Friday &nbsp;&nbsp; Tom's Guide"
+      "published": "2026-11-19T16:28:19+00:00",
+      "summary": "Bambu Lab introduces Bambu Circle partner network at Formnext 2026 &nbsp;&nbsp; 3D Printing Industry"
     },
     {
-      "id": "1fbec20833",
-      "title": "eufyMake E1 3D UV flatbed printer is now over $600 off for Black Friday",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV0xGVUtZbDVGN3lpa19lVkxRdU1kLWVTWTVTdTR5bFlscXM0SmpmR0lJMVY5aG5jNFUzT0ZTY1g2OGo1YUZpUEgxYXRJZ1RmVFU2cWFVVnpIcUJjbGQ4YS1fb1hseWQ0dF84WnRScVNJRGhuUjR0ZVlMRl93S1J3SXY3UjV0dU04UXlUMGw5U19RdThreFJfQk95WFlhcDg0WkRZbTVGaEl5QXRHRUlUZ3FPbEo?oc=5",
-      "media": "Tom's Hardware",
+      "id": "06ee2fa805",
+      "title": "Make Your Own Christmas Gifts: The Ultimate 2026 Gift Guide for DIY Enthusiasts, Makers, and Creative Types",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWEMtTVMtd3duU0JTSm1IcUtpNlpEZWVzVEp3Ymxqc29NbzJ4TGhXSDU3elFlQUVpUlQyMkR3NkhoRWVoc21CR05NTlFfOFdrTFV1cG54T0hmdlEzX05RT0ZnOEd2d1A2aUdEdERKRjlROFRJdEQzUE13RnVoNnEtVg?oc=5",
+      "media": "Basic Tutorials",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "eufyMake"
+        "xTool"
       ],
-      "published": "2026-11-18T20:01:42+00:00",
-      "summary": "eufyMake E1 3D UV flatbed printer is now over $600 off for Black Friday &nbsp;&nbsp; Tom's Hardware"
+      "published": "2026-11-19T08:30:29+00:00",
+      "summary": "Make Your Own Christmas Gifts: The Ultimate 2026 Gift Guide for DIY Enthusiasts, Makers, and Creative Types &nbsp;&nbsp; Basic Tutorials"
     },
     {
-      "id": "cf63538589",
-      "title": "Bambu Lab Launches MakerKids Beta, 3D Printing Lessons for Families in Bambu Handy App",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVA0ek02Q1JzbEs3UTNWZzA2RWR4Y2VuSzRydmQtckxBLWtRNnE1eDhySVVHRVZTRUpGZXVwTWF3ell1azdFVy1UaEtKQUlCUzN0eFVXcU1rVHRMNF90S2JtRG9xYW9haDlxeXMtU0hIcnE3WENTRnQ0X1RZczdjRGhCckNMdm1lOEZLUXp5Mkw3ekN5aUF6dDRfSGlhMVdfMkxwQldiNXpQSkc3Y0pkeVFxTFk?oc=5",
-      "media": "https://3dprinting.com/",
+      "id": "b6ba33bf29",
+      "title": "LONGER announces Black Friday 2026 sale featuring laser engravers, 3D printers and ePrint UV technology",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeFZrblhQcElMVjhsYnZIcW1YT3gxQzV5QnNudmxqM3p3aXdKOHVrV09PQ0xGbGVnZklhOUt5N3o2RmdOb2VadXpndkNudFUweF9JbkhzMFBUcHNQbldmaXBtQVBDQXhDMUI0LXpESGpUNkZiNTEyalZ5QUU3ck15T3lkMVl4TGhhUk0xZ1dPWmVRYXAwTUN1SWRGckZmSFA4c0l1b05GTnlKdFE4YTlYQVAwWnhmTy1LOG5ocG0zZ2RCRk1nWGlMQnZ6T0hiWXl5U1RVMHZxOUhQUQ?oc=5",
+      "media": "Digital Journal",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "product_news",
       "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-11-18T14:09:57+00:00",
-      "summary": "Bambu Lab Launches MakerKids Beta, 3D Printing Lessons for Families in Bambu Handy App &nbsp;&nbsp; https://3dprinting.com/"
-    },
-    {
-      "id": "cea6c6eced",
-      "title": "Right to repair starts in your garage with a soldering iron, multimeter, and a 3D printer",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYi11RkctT1o5c3h2YjBBYjdFMXcxMUhXbjRHdXJRUk1IN2VzYWNjNFk5UmxfbHV3OV85WW53dTdrejhhY1FrelRCTWhPWjZwbkFRTVhkd3FHTnVfWVBQVTBOV2tLS2dxbVVzMXpybXZydXh5QVUzN3JTVWszX1VsM2ZFbFhQXzNRb21xbV95QWxDejBTdFFfaHZqSkRseHdzQzlma3lQSDg3MmxhRXFFWkl3T04?oc=5",
-      "media": "How-To Geek",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-11-18T13:30:15+00:00",
-      "summary": "Right to repair starts in your garage with a soldering iron, multimeter, and a 3D printer &nbsp;&nbsp; How-To Geek"
-    },
-    {
-      "id": "bb8c2bcc98",
-      "title": "LONGER Brings Laser Engraving, 3D Printing and Advanced UV Printing Together in Its Expanded Desktop Creative Manufacturing Lineup",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQR0x4d1RNVV9INGFoUWhLcW5YUW9SbmxwSERfbGU4WGNnZWVOdFRtVW9ob1l5M0J6NnVENVoxRlhhUHRhNFFFQ0hXbjkzUm10TW0zdExGenJJRW9xS3hQd0ltZWFnT1R3NXZ5eV9IZllacmhQWW0xMzU2QlpUb2FwNTA0TnhEa1VIbVd0dWNnWU5qVG1oZ2lCNE5WOUlwUVRXX2FSQ0pycUJ0WW5pSkRQalNMamFmVzY0MWtBUmx0WDMwVWtucUZXY2NpWFNqWENXSGNyZ2oyeUZTd2NmemZPT1NmcWpyOWtBWGFQc2ZmVmFZeFlGTHJpR1ZDS19DRHktcHp1bGpIZVpfQWFlQ29VRE1GSFpsREE?oc=5",
-      "media": "markets.businessinsider.com",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
         "Longer"
       ],
-      "published": "2026-11-18T11:02:18+00:00",
-      "summary": "LONGER Brings Laser Engraving, 3D Printing and Advanced UV Printing Together in Its Expanded Desktop Creative Manufacturing Lineup &nbsp;&nbsp; markets.businessinsider.com"
+      "published": "2026-11-19T17:21:58+00:00",
+      "summary": "LONGER announces Black Friday 2026 sale featuring laser engravers, 3D printers and ePrint UV technology &nbsp;&nbsp; Digital Journal"
     },
     {
-      "id": "72a1f4e255",
-      "title": "Mum 'saves fortune' on Christmas gifts with gadget that makes 'endless' crafts",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaU5wN3QwNFZwejVOVjZfZWJpR3RkbDFjTGxPSFd5LWpGN0QwaEpKWEpHMlhNQk5pZUlYZS0tZW9pT1pjSWp5ZTd6MXcwNkZ5T2tuUUJiT3J0QmJpczY2XzRLMnk5WV9KUVVIN01WZVJ5cUdWTExwR1pOaXF0T3l0N3JIaFJNeV84ZENodkVyTjNPNG1k0gGaAUFVX3lxTE5mVHZrMEVweW8wMlVMdEZLYzJER0ZEYklyWlo3ekw2ZFZheDdMRjVoRjh0VlZrT0VNdU9VT1lULVVGTURGQWJZWlF0YzVCekRreDRvSXRSTVpVaFd4eFdONGxGdGtLUHoycEZfTm5sVjlWajBTbzY5dURrbGkyVnRva3ZoOHlGdll2S2Q2YTB5eWlPTE9LVUltUkE?oc=5",
-      "media": "Wales Online",
+      "id": "15c0342474",
+      "title": "The Creality Raptor Pro Max should radically speed up the design of custom car parts",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPejRHZmE1WGpaQmNTSW9fSzdlYXFSTzlIMXZIeEhTbG8xWkxWTG5UNWRmR3AxMy1DbE5UVUU5NmJ6a29JdU53b3duUWMxU21ZWVNYR1JuY2ZzZnFxbXk1WkRhaWY1RHplbHlneHhtZHBIOXNZWlMtd3V0TUMtakIyRVQ4amFjdjNINHhCS1JvTE52MjAxRG8xWm9OT2hoVXNMWFliUHowU1BJUjJvYi15RnV1Qzg3RnZHeHc?oc=5",
+      "media": "Creative Bloq",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Creality"
+      ],
+      "published": "2026-11-19T07:00:00+00:00",
+      "summary": "The Creality Raptor Pro Max should radically speed up the design of custom car parts &nbsp;&nbsp; Creative Bloq"
+    },
+    {
+      "id": "dbb9986ffe",
+      "title": "Should you upgrade to Cricut Maker 5? It depends on which Cricut you own",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOS1CZmdkY19seVZDcUdNYS13MWh0ZXNOQ3o5SjVfVTN2OTZhQlBWb2pJOEctWnY1aG0wT3diclVCSVREQV8tVU5SVUxWSGFmRGpETS0zWUM2NVo1OWVua0UzT0YyTldfOENzYzdkVWtlQy05NnFlZVdWTmdJVTc2MjhGS2g5bEVUZXpGZ3gzYVpLOU9ockI1WVdqME10dGFNVWRvN1MtdDhINW15VEFzUmN1bw?oc=5",
+      "media": "Creative Bloq",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-19T12:00:00+00:00",
+      "summary": "Should you upgrade to Cricut Maker 5? It depends on which Cricut you own &nbsp;&nbsp; Creative Bloq"
+    },
+    {
+      "id": "1cc834652e",
+      "title": "How a Cricut Machine Will Save Your Sanity (And Your Wallet) This Christmas",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWhHckJVNGpXVzY0am5Za0J0UEVvOU5JLU02TG04bUVsZ09wdmd3RTNWbTI2OTN2dk5VTFlkTmRNbndhWUdsX2Q0aHp2enpEMXB4dGZQbDlaeFdrQzVxZWRabFg1YnVjek1lcG1XYl9LbDY1ZnRncThGMUczSmlOUHpvTzB0Ujh4X2pqbXRqcC16aDBYdTNUYXZkanVEWlhRVU0tdi1Pbk5nUS1TN1RxbkRZR05rZ1o5?oc=5",
+      "media": "4MK",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
@@ -108,8 +108,8 @@
       "brands": [
         "Cricut"
       ],
-      "published": "2026-11-18T19:03:00+00:00",
-      "summary": "Mum 'saves fortune' on Christmas gifts with gadget that makes 'endless' crafts &nbsp;&nbsp; Wales Online"
+      "published": "2026-11-19T10:27:19+00:00",
+      "summary": "How a Cricut Machine Will Save Your Sanity (And Your Wallet) This Christmas &nbsp;&nbsp; 4MK"
     }
   ]
 }
