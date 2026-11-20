@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-20",
+  "updated_at": "2026-11-20 22:24 UTC",
+  "stats": {
+    "total": 10,
+    "total_reach_display": "12.4M",
+    "brands_hit": 4,
+    "brands_total": 10,
+    "media_count": 9
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 6,
+    "xTool": 1,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 1,
+    "Cricut": 2
+  },
+  "articles": [
+    {
+      "id": "13820ccdfb",
+      "title": "We picked three 3D printers under £500 worth snapping up for Black Friday",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNM1Z4WUNmcldzcFNtaDhzS3ZETWJtclVZUVZQdkNYUTV4WS1xY0pIUVZueGVGcnJqdFpTcHdVWFB3WHRwOEJFay03aXBUeFBDRUFhcFBOUkllaTlnOXpXdmxvUHVVOFhEcDJscWJkVG9JRUdoNnlxeUpZbDlpMnk3aDBkczFkQ0tNSUZPZEY2ZTNNZzZOMEtDTWdEM3plZkhWWkFXN2VkY19vWTg0YklBYTh4MlVvaW9veTZJblBxSjdzMGJpVEhGdkRhVVV1UjJEU01McHplYTkxOFI1VFZPdEZxR21rRklsZEE5WkJEMnF3ZFVqQjJ0aUtQVXRZNWQ5S0tLYTFkYTg?oc=5",
+      "media": "TechRadar",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-20T14:13:22+00:00",
+      "summary": "We picked three 3D printers under £500 worth snapping up for Black Friday &nbsp;&nbsp; TechRadar"
+    },
+    {
+      "id": "49c8816527",
+      "title": "The Best Way to Get Your Family Into 3-D Printing Is on Sale Right Now",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zdld0dmNQUHRSNmNTRkJTMkZsY2NmUFF1aUpOd1UzV185Z0xfTnN0TEduME5XWmZ6TXBfcjJNeHlLYjg4dWczTEo1SzJpZk5lTWZEY19KZldIRERQeEx1UlhUX2NzZUZRLWtCdA?oc=5",
+      "media": "New York Magazine",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-20T20:13:09+00:00",
+      "summary": "The Best Way to Get Your Family Into 3-D Printing Is on Sale Right Now &nbsp;&nbsp; New York Magazine"
+    },
+    {
+      "id": "c14ea94de3",
+      "title": "Bambu Lab 3D printers starting as low as $200 for Black Friday: Deals on A2L Combo, X2D, more up to $300 off",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYng4OHpaN01DVlZRVjVfNVZOeWJHM2M1VS1oTndNbFZHTVdRVnZjeXkzUzFYb1FESXFkUnlhSnNtMFFlOEVvSGc1M1N2dGpXUG56U1pzZ3RRQmlhSVM0TTd2NHBKVlFKdlRTam00N2NOck9tUG01bERRRjZaMjBxVlh6NW1TTmI0S2hNbzRWM0p0alBkVDlDdHlB?oc=5",
+      "media": "9to5Toys",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-20T12:52:00+00:00",
+      "summary": "Bambu Lab 3D printers starting as low as $200 for Black Friday: Deals on A2L Combo, X2D, more up to $300 off &nbsp;&nbsp; 9to5Toys"
+    },
+    {
+      "id": "7bcc359e0a",
+      "title": "The Best Way to Get Your Family Into 3-D Printing Is on Sale Right Now",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QY2RGSWhiMWtmNUVoY2lrODN3Wmt4YXlBMFozZURacnJFX1oxRlRJRE1CS1VUZUNVakpnRUNyc2IwOGdEbHNCb04wYXRZWW9FaXFoTnpxTk9rQTJvc2pHTEc1Y0JYSHZlaWVFZElB?oc=5",
+      "media": "New York Magazine",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-20T20:13:09+00:00",
+      "summary": "The Best Way to Get Your Family Into 3-D Printing Is on Sale Right Now &nbsp;&nbsp; New York Magazine"
+    },
+    {
+      "id": "f6c8721de8",
+      "title": "Chinese 3D printer maker Bambu Lab scales up production in Shenzhen",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTVaeGt4WEJPbHh2Nm9aYmUwZEFZU1dPQkhTd2xmV1dUTkdmTUFlQVBNVGNZdnB4QXItNXhEeUxRWGM3TnpuLVl2U3BTUmt6cmktN2tsZjhJZy1LUHVXQkt5Z3VfRnl0WXlmRWRMUWNTS3NlMmRoVTBkajFHWGswOUdHQlR2NEJSN0wwUmo3aEpzY2E2Rm5pb19STjdSMWE0TmNfR0Zja1Z5aTFMS1NTMw?oc=5",
+      "media": "Nikkei Asia",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-20T21:54:00+00:00",
+      "summary": "Chinese 3D printer maker Bambu Lab scales up production in Shenzhen &nbsp;&nbsp; Nikkei Asia"
+    },
+    {
+      "id": "e0fbdc7858",
+      "title": "Best Black Friday Deals at Best Buy on 3D Printers, Drones, Gaming Gear, and Toys",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IOUJScGZqQ282SWdDV2VmYjdUSUR2MS1PUnFudTVqSzZJaEtvOHNvOU9Sd1pjblBObTBXVjJHc21OTS11UWNHV0hnZ25rRElyRk1wX0l1QXhvM2lpTEltaHdGRjFZUEZqX0FUVXBIV21MVEJH?oc=5",
+      "media": "VICE",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-20T18:41:15+00:00",
+      "summary": "Best Black Friday Deals at Best Buy on 3D Printers, Drones, Gaming Gear, and Toys &nbsp;&nbsp; VICE"
+    },
+    {
+      "id": "2b8382b094",
+      "title": "xTool unveils connected ecosystem",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcDNZZjJxVV9BdFlpNkJrdnozUFFxbnl2VDYwVWRKLTJCQjFyVDhSRXh0UjNzSjBNTG11RVJNNGVGeGlTSnlzS2lBMk4xMHZOSjBsdk9aT2tiU1NYd3NId1FJdUJVcjV1dVhFYkpFSmxtbmg4NGx1bGctaDlOV2xlY1c2YUF6WmM?oc=5",
+      "media": "Printweek",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-11-20T13:32:56+00:00",
+      "summary": "xTool unveils connected ecosystem &nbsp;&nbsp; Printweek"
+    },
+    {
+      "id": "d388d4cc64",
+      "title": "3D printer Black Friday sale offers for 2026 are compared in a new GadgetGuardians buying guide",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSkZMQ1YxUF8wSGZOTTdDSklWTER0eW1TUk9fX2ZDNFRzcWg3REhjTGdDRVJXYmtGMzc0T0EtYy1LTm1EMk1OdHZ1VjJHRS1fYUJuOERmVHlQS2lZNzd4VXc4bTEzRW5ncDhpenVBNWFnRFl1VHZVbk11bmR6bWMxY1NXNFVIdnE4aFpPSUZ3cXYzSGlLWl9lQzlwUGs5V2d2MDdpbA?oc=5",
+      "media": "openPR.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Creality"
+      ],
+      "published": "2026-11-20T05:14:03+00:00",
+      "summary": "3D printer Black Friday sale offers for 2026 are compared in a new GadgetGuardians buying guide &nbsp;&nbsp; openPR.com"
+    },
+    {
+      "id": "65f96a6228",
+      "title": "I love Cricut's sticker printing machine and it's discounted for the first time during Amazon's Black Friday sale",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc21WaWFJYzNfbS16RkI4dUFIdVQxaGNrckZEUGREcFM1OUg2ZVpYVUJtVXJxUENzUzNoUkliTFg1R241eVNNVVkzbHdqTmotay1VQTIxeURRUm5WNkdxUXhfMVl5OUdyalB3cG51Z0wwQWU3TlNLTC1ZNUplNW1UNldWSFpnMWpnMmw3ZXlSZjdFN1VQMjhxbE9B?oc=5",
+      "media": "Popular Science",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-20T14:58:27+00:00",
+      "summary": "I love Cricut's sticker printing machine and it's discounted for the first time during Amazon's Black Friday sale &nbsp;&nbsp; Popular Science"
+    },
+    {
+      "id": "bb75233c45",
+      "title": "The easiest craft laser machine to use is at a record low price",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNakJ2SDRScmFOM211WnJsTGJXaG1UZTJZOWFwdWZxQ0RabEVhRmJIUUZyOENsVU53VnB5WVJrUmd1WkJEV0J4QlNaeS1uR01OaU9JTDBGeDFIRHNUb3JMbHQtYUhzcUZHMlExVFdBVUtGUFhiQXg1UGZHelR4TC1LZUMxb1Q0bmU4R191NXBrZm5fazdRRk9jV3VUclpyM2M?oc=5",
+      "media": "Creative Bloq",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-20T07:00:00+00:00",
+      "summary": "The easiest craft laser machine to use is at a record low price &nbsp;&nbsp; Creative Bloq"
+    }
+  ]
+}
