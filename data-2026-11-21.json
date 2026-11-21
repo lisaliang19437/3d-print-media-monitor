@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-21",
+  "updated_at": "2026-11-21 21:15 UTC",
+  "stats": {
+    "total": 1,
+    "total_reach_display": "300K",
+    "brands_hit": 1,
+    "brands_total": 10,
+    "media_count": 1
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 1,
+    "xTool": 0,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 0,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 0,
+    "Cricut": 0
+  },
+  "articles": [
+    {
+      "id": "f6c8721de8",
+      "title": "Chinese 3D printer maker Bambu Lab scales up production in Shenzhen",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTVaeGt4WEJPbHh2Nm9aYmUwZEFZU1dPQkhTd2xmV1dUTkdmTUFlQVBNVGNZdnB4QXItNXhEeUxRWGM3TnpuLVl2U3BTUmt6cmktN2tsZjhJZy1LUHVXQkt5Z3VfRnl0WXlmRWRMUWNTS3NlMmRoVTBkajFHWGswOUdHQlR2NEJSN0wwUmo3aEpzY2E2Rm5pb19STjdSMWE0TmNfR0Zja1Z5aTFMS1NTMw?oc=5",
+      "media": "Nikkei Asia",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-20T21:54:00+00:00",
+      "summary": "Chinese 3D printer maker Bambu Lab scales up production in Shenzhen &nbsp;&nbsp; Nikkei Asia"
+    }
+  ]
+}
