@@ -1,160 +1,266 @@
 {
   "date": "2026-11-27",
-  "updated_at": "2026-11-27 00:07 UTC",
+  "updated_at": "2026-11-27 23:47 UTC",
   "stats": {
-    "total": 10,
-    "total_reach_display": "19.8M",
-    "brands_hit": 5,
+    "total": 17,
+    "total_reach_display": "16.0M",
+    "brands_hit": 7,
     "brands_total": 10,
-    "media_count": 10
+    "media_count": 16
   },
   "brand_counts": {
-    "eufyMake": 0,
-    "Bambu Lab": 5,
+    "eufyMake": 1,
+    "Bambu Lab": 7,
     "xTool": 2,
-    "Procolored": 0,
-    "Anycubic": 0,
-    "Formlabs": 1,
+    "Procolored": 1,
+    "Anycubic": 2,
+    "Formlabs": 0,
     "Longer": 0,
     "Elegoo": 0,
-    "Creality": 1,
-    "Cricut": 1
+    "Creality": 2,
+    "Cricut": 3
   },
   "articles": [
     {
-      "id": "7aa63cd3fa",
-      "title": "Hurry! There's up to $3,467 off xTool laser cutters and laser engravers",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVdKakxMOGZveHpqOHNhb0ljZWJSUG9XQWJOY2NXZFhvUzR3UC1YRUJrTDFseUtHMnlTNnA5NWRHd252Um5Pb3BGWXY2YzB3dnB0VjF0WThmNlhnSnhhUHFhOVRmcjNHckNEbUdvS3otU3hpRzhlemt6aFl1NDA2aHFCN2xETWF0VTRPbGFDUUN4d2R5VldHWTRCNFU1TkhHVFE0YXhWVUVIRkpMVGphampaOUIyUVNoVDk2YVRn?oc=5",
-      "media": "Tom's Guide",
-      "uvpm": 15000000,
-      "uvpm_display": "15.0M",
+      "id": "f0e1b3d871",
+      "title": "Best 3D printer deal: Save $40 on Bambu Lab A1 mini combo",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92dTNScmlBQTN1V25GVDhZNWJLckpvdGxHWGdIRlV3Z3pobWRqM09NN2k5ZmRCUnRCZjNvLWxiS0ZnaXBNUXJscUFoN3pSQmJWQlp0czgtYU5ZN0YxOFpaa1IxTnZVWF93X3MwdF9MdWRUR29JRTFHREppcng5QWM?oc=5",
+      "media": "Mashable",
+      "uvpm": 10000000,
+      "uvpm_display": "10.0M",
       "tier": 1,
       "category": "brand_news",
       "brands": [
-        "xTool"
+        "Bambu Lab"
       ],
-      "published": "2026-11-26T13:45:21+00:00",
-      "summary": "Hurry! There's up to $3,467 off xTool laser cutters and laser engravers &nbsp;&nbsp; Tom's Guide"
+      "published": "2026-11-27T20:34:47+00:00",
+      "summary": "Best 3D printer deal: Save $40 on Bambu Lab A1 mini combo &nbsp;&nbsp; Mashable"
     },
     {
-      "id": "fafae0a7e4",
-      "title": "The Bambu-ification of 3D Scanning Is Here: Bambu Lab’s S1 Costs $1,699",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzJqYXJVRDdhR3lKWVZqQklIUjdTSWhrX0tWemNza2RYaHBMWDNHeVFYZVpmS05uN2I5SmVHTjd0b3U0MzVVYXpIekpZaTFpMTVwcVFxOThrYVRaVk1jdDNXTUhVU3QyVkNfV0RfYWt6VWlYbGxYTjAyNGk1WVdrY0pDVjUzN2JzVDZUQ2R2aU9OV0U?oc=5",
+      "id": "8b4ba04e65",
+      "title": "Beyond 3D Printing: xTool X1 Expands the Maker’s Toolkit with Five Laser Technologies",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3JrVU1ZdHVXaE9CRXJLekxYNExYd1R0RjVFWHBFSFcxXzNRZVR0d3NROThmdmtpZ2piOXoxRHlSQkhDbUNFbEF4WER5WWZ2MDZOTWpQakVMaDZvWnluTHNrYVVzZlJMOFBLYkE2ZXEtd0tJYzFaaVptYnN5Qmo0UXc5dXFDY09KVlk1UEUxOHhOWjNkQ19LSWF6MnAzakhUdVVXb1RaZGY?oc=5",
       "media": "All3DP",
       "uvpm": 1800000,
       "uvpm_display": "1.8M",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-11-26T15:37:37+00:00",
-      "summary": "The Bambu-ification of 3D Scanning Is Here: Bambu Lab’s S1 Costs $1,699 &nbsp;&nbsp; All3DP"
-    },
-    {
-      "id": "aeea7d0ffd",
-      "title": "OctoPrint 2.0.0 Adds Plugin Route to Bambu Lab Printers After Years of Serial-Only Connections",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbE54NGtEeTNvdXhudkVLdGZKMnlnMmdETVRhQkRiOGdScjVtXzFOMUtPa2k4WjM3VWtOdl9Vb0x0VllDQXJkNEhuMjd1cGtmUElnLWc3dllIaDUtdU5jNmhDSGRxVHJVem94TUlhQm0xeV9rTHlCZDBpSkphSFoxd0tSTi1KSWZ0VE1kUUY3eDItTUlmRmRCbG1BekU1OWJmaWtfOHZDVzE5dmwtcmV4czhxRlFGVzAtdGV6cUpaZnVEZjAtQnRNTzE5elAwZ3NBYnR3cA?oc=5",
-      "media": "3D Printing Industry",
-      "uvpm": 850000,
-      "uvpm_display": "850K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-11-26T11:43:21+00:00",
-      "summary": "OctoPrint 2.0.0 Adds Plugin Route to Bambu Lab Printers After Years of Serial-Only Connections &nbsp;&nbsp; 3D Printing Industry"
-    },
-    {
-      "id": "f798778522",
-      "title": "Bambu Lab S1: Wireless 3D scanner with touchscreen and 34 laser lines aims at beginners",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUGRDYlNfYThTXy15a1FxbWVMeGwtNzBKU3ZfLUpnSFpyT0JIMXBXcjJOMWpPSzA4S25TTjNQMFdXRlllN3JFalJmMGNNYkR3bF9rRnpKU082TE9STGR0UzJSdHhEMTRwclpyU0xaTHJJRnk3OTRGYWNadGtwazNHSS1zRV9ESGpEcXNfVlVMRDVEX3pJaFlTZE43R3VjcEMtNW9MQnJhSVRXX2phcU9fcXFPM3lpUnMyLXNZdV9jTUtJV3VUeGliZUY3Yw?oc=5",
-      "media": "Notebookcheck",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-11-26T14:49:00+00:00",
-      "summary": "Bambu Lab S1: Wireless 3D scanner with touchscreen and 34 laser lines aims at beginners &nbsp;&nbsp; Notebookcheck"
-    },
-    {
-      "id": "e2f2adc17e",
-      "title": "Bambu Lab S1 Handheld 3D Scanner Goes on Sale at $1,699",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMW1kcW8zcTkzOWt1ZlNkV21vSXk5aDVuRnNjODZyMWxIclpRaUt1bElEMWxISlM3N015SXFZZ21oYm4tdmw5TGN5eXdDcEQ4WngxcUNoMmFxcnlSNmswS3NBVDBMeWNUZ2VPbXJJU3FlWXlvNEpwZ0VUMEM3YzJZQnJWa1NQOUZXOE1z?oc=5",
-      "media": "https://3dprinting.com/",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-11-26T16:27:07+00:00",
-      "summary": "Bambu Lab S1 Handheld 3D Scanner Goes on Sale at $1,699 &nbsp;&nbsp; https://3dprinting.com/"
-    },
-    {
-      "id": "89a13d3003",
-      "title": "Bambu Lab P3C: Flagship 3D Printing Speed For Under Half The Price?",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXBPVkQ5SndrajlSQmFLZnZwM05FeER4TkhJejdfWXIxZVJGMFRmTklnRVl6eXBUclNOUWJTOU52a0piNFpmRnFhVnA5MWl1WUVhbUNGRTNOdGRFRWFJRUV6SlpUVk41WHpJaEhhQmM3OERfbi03Q0JDNFJvbno5b3dsTHJuOEZwQTFtenZzYkZBeUJwdDdUN1VqbFRTUWtMa1E?oc=5",
-      "media": "Ubergizmo",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "product_news",
-      "brands": [
-        "Bambu Lab"
-      ],
-      "published": "2026-11-26T16:00:05+00:00",
-      "summary": "Bambu Lab P3C: Flagship 3D Printing Speed For Under Half The Price? &nbsp;&nbsp; Ubergizmo"
-    },
-    {
-      "id": "d11a557ce0",
-      "title": "xTool's Black Friday deals: get creative with exclusive savings",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObC1KMk1HSVZxcFg0UXA5TUMtTjhfMzdfZDRyRHNIR01uZElzdlo1RFVGOVZveHRIVV9wVnM1ZUpISXpqdEFzNUxiT0Z5X1h6aEdYTS1mNHJDRDR5OVNmSDZRaEhWc1hyUXhrQ1FWd21PVXlnS1BpN2ltTlNhUFVjTTBnVWtReEdiWWZaOHdzOGhPN3hzcU83QjZWQTVPOEhpeDVGejViNDk2cHA4SG1QMjlsWWROT0xv?oc=5",
-      "media": "PR Newswire",
-      "uvpm": 300000,
-      "uvpm_display": "300K",
-      "tier": 2,
-      "category": "brand_news",
-      "brands": [
         "xTool"
       ],
-      "published": "2026-11-26T17:42:00+00:00",
-      "summary": "xTool's Black Friday deals: get creative with exclusive savings &nbsp;&nbsp; PR Newswire"
+      "published": "2026-11-27T14:58:40+00:00",
+      "summary": "Beyond 3D Printing: xTool X1 Expands the Maker’s Toolkit with Five Laser Technologies &nbsp;&nbsp; All3DP"
     },
     {
-      "id": "6eeef4dcf9",
-      "title": "Professional 3D Printing Solutions for Drone Manufacturing",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbXdRWFZiTm9yV0ZFcDd0cVdTUEVqQnJPdHA1ZFplb0s4NFdMSUZfTEJEUzhIVGYxY2xvcFpxZlB3V09lclZENGRMQVBRMUFZdFRPYlFzS2I4RFplZHM2VTFMRmw5YnkxenJKZmpRWnZxa0JfUnJSSFFuWW12R01yY2RtZlcxQ21uNEZtTE16MUlQd1lHblpORHhJdG9RMWhfWkY4bXNXZVcwQklZNlE?oc=5",
-      "media": "Unmanned Systems Technology",
+      "id": "000eb338a8",
+      "title": "UK in-store debut for eufyMake as Anker opens first UK store",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObnM1Z3d0S1lGdGg0blpERkkteFQtMXVyd2xzaUVSRl9SQkl0Rmp0bnIxSHRLelFSUnBMZ0c1YjBWQ3pBYmdlNEdUZng4QUVLdmoyMzduTF9XdVNRUm45N2RBNzJvY19DWE9MTl91cENXaU9VZlRDQUdob1lYRmkwbjVXVlhIelhyd3o4aFFxSTl4MEZ1T0l5anBiekNHQWdj?oc=5",
+      "media": "Printweek",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
       "category": "brand_news",
       "brands": [
-        "Formlabs"
+        "eufyMake"
       ],
-      "published": "2026-11-26T02:44:34+00:00",
-      "summary": "Professional 3D Printing Solutions for Drone Manufacturing &nbsp;&nbsp; Unmanned Systems Technology"
+      "published": "2026-11-27T13:41:36+00:00",
+      "summary": "UK in-store debut for eufyMake as Anker opens first UK store &nbsp;&nbsp; Printweek"
     },
     {
-      "id": "610a9a39a8",
-      "title": "Black Friday is the perfect time to pick up a new 3D Printer — these are the best deals we've spotted so far",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYWFTS1FMQUpTTUdfLXJIdDdNc1NPSm8taV91Nl9jYkRCeV9leGtMTGlxMmEyWXNHeHJWdWpXdlUzYl9kYVRVMXU1REhmX2JfckhicmV6a2hqZVpLVXRWLXJtSzlndFp0MmtuLUswMF9UVloxbkMzVWRfemxWZGtUSEY0d2FISy1NSlRoZ2M0clZWV1VnZnRzc0tvaTNMbEc1MHZWN2t0VTBjclFWN1A3d3dyWXpEWF9sRjg0aHVtREx3UHljUDBvOVk2TDJoZEp3cXdOY3lDb3hSbGJkbFVDcUJCUkMwMHlkRU9yWHhrQTdDQTA?oc=5",
+      "id": "6df5d77143",
+      "title": "Best Black Friday 2026 3D Printer deals live — hot deals on Creality, Prusa, Bambu Lab, Elegoo, Anycubic, and more",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRjk5aEVuMW43Y2JGc2luUGlrX2VmRjBEWV9VaXBoV0Vqc2JKOWFSNFNKZ1FVWjRtbE4tb1E1dFNZaXFaNXhTSk9lTm9pdjVxNWVuelJ2MFVTTkUtQlRFVFZHYUxqRGNEdDMzNjZFbjBSTkI5M0tKY051VnNfeWtsbHVjRHhXamNlMWlDR3Zmdw?oc=5",
       "media": "Tom's Hardware",
       "uvpm": 300000,
       "uvpm_display": "300K",
       "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-27T23:07:35+00:00",
+      "summary": "Best Black Friday 2026 3D Printer deals live — hot deals on Creality, Prusa, Bambu Lab, Elegoo, Anycubic, and more &nbsp;&nbsp; Tom's Hardware"
+    },
+    {
+      "id": "9d06faa76a",
+      "title": "3D printing is more affordable than you might think – especially this Black Friday",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZEJQQWVMM1VBdFhyR3ZFbUdVZWxteWtIbkdycnVyWU5FOTNGQkNjNTNZemtIZW9JcmhuTk1CQnB3SllXNmYwS1F5THlSY3cwUjBCYjZVS1B3NF9UbG1IWWZTeUVlZHVhODBTS21iRm9wa2E4SzRRTkVUbWNTSU1qTVp0a1pyTVN5SEt6TGV0b0dualB2amJOZEl1alVGSncxZURFZWdtb2d4Rzc4RXYtYw?oc=5",
+      "media": "PC Guide",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-27T18:32:56+00:00",
+      "summary": "3D printing is more affordable than you might think – especially this Black Friday &nbsp;&nbsp; PC Guide"
+    },
+    {
+      "id": "ce659294e6",
+      "title": "The Bambu Lab P2S 3D Printer Is 15% Off With This Black Friday Deal",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWJmMjRxYlgzWWtRb0t6QlFJeWNiWThWN3BMTGNJX1dQdHpyYUdrM2tZTTR4endiVERNTHlOUmZXSE9xT2dWVFdob0hDWS1JMXZ5aGxsZmx5dFVFVnFSQWQ0aVhfb094SVFRdE1YTXB3RDFrRkhGV2VBangteVpBc1J3dXZ0anFnZnJyQWJQcU8xdGdEemdOMU4zOEFfSDZ3al8tR1JLbEk5UQ?oc=5",
+      "media": "PCMag UK",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-27T13:58:37+00:00",
+      "summary": "The Bambu Lab P2S 3D Printer Is 15% Off With This Black Friday Deal &nbsp;&nbsp; PCMag UK"
+    },
+    {
+      "id": "14f49a0054",
+      "title": "The best Black Friday 3D printer deals start at $159.99 at Amazon",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1feG9kSV9VbWxPNWs0N2hFcl9faFJrcVZFc3dCR0k4em1wc1lHNlBiUDdseGpaczJrcldEcUh0NXltdENJT1lHMkhYN3RvcDRPaHFJNVRKOHFQb2haMGRHQWR1RUpuY25HOXR4U1lualQ?oc=5",
+      "media": "Popular Science",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab",
+        "Creality"
+      ],
+      "published": "2026-11-27T02:04:20+00:00",
+      "summary": "The best Black Friday 3D printer deals start at $159.99 at Amazon &nbsp;&nbsp; Popular Science"
+    },
+    {
+      "id": "8f7085c0e3",
+      "title": "The ultimate Black Friday 3D printer gift guide — bargains from Bambu Lab, Prusa Research, and Elegoo plus $199 kid-friendly printers",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeUJZeEtScTE4SzRzVjNMRlBJTVFITm9NTXNIMFIxNXQ2VmFQSnFMRlZfYkk5THNjQUozYXVTYlVRVXNsNXVLdVBCb0JTWEZPR1F5TUwtdW5ndVB1Q2hITVp6MUtZTGEydTlGZ0RQSkNaMERzX0hCWFp2SlF2ZkR3N1ZBbHJSUjZNd19OY09YQ1A2Qy1nZ2RNWFpQSnNZSkxPWEVEZUpVSHNCMmc1bm9zOHBaQ3lLaS1GTkpTZkZRa0tHMjEyWHluWUVZQldHRUZmWS1HVkM2MVlRbEpKbVphdFc2X3UzRjVMUzIya0x1UHpDYzdFdF9MSUxzZDFRMG5tV1E?oc=5",
+      "media": "Tom's Hardware",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-27T14:41:55+00:00",
+      "summary": "The ultimate Black Friday 3D printer gift guide — bargains from Bambu Lab, Prusa Research, and Elegoo plus $199 kid-friendly printers &nbsp;&nbsp; Tom's Hardware"
+    },
+    {
+      "id": "9671246947",
+      "title": "Here Are the Best 3D Printer Deals for Black Friday",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGI4bnVzMFdXQ0RpOWZmdlhZR1dXQWlkSkVpT3h0di1fZlE1YlhpWDNKb3REZHNOTUc4SFpXeldiSkZjZGhpRTJZZG9QWi1JdUdmOFFhckI2SWZRckJIRGNKTGk0dS05R0g4OXJhMzFKTW13eFRYODVWb19JQWJzeWNXeGFZT1lTTGZr?oc=5",
+      "media": "IGN Southeast Asia",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-27T11:14:04+00:00",
+      "summary": "Here Are the Best 3D Printer Deals for Black Friday &nbsp;&nbsp; IGN Southeast Asia"
+    },
+    {
+      "id": "8ee6741f9b",
+      "title": "xTool F2 Portable Dual-Laser Engraver Review",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGtsYThBTkx4bXpyalFSS25XRTg0LUNHXzh1NVV4c2dBVXVTZ3FQR3EwSm1CWlk0aXh2V0dsYVQ0X3JVOFhjT0ZDcElRV0RXMzNEOFFkM2NXcURGdDVxZnc5eG04UlQzXzQ5T3FDeG0zTU1Mc1BQaC04MENYMjVHaTJIaExiM3dOMXRrRXpn?oc=5",
+      "media": "YugaTech",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "hands_on_review",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-11-27T08:56:28+00:00",
+      "summary": "xTool F2 Portable Dual-Laser Engraver Review &nbsp;&nbsp; YugaTech"
+    },
+    {
+      "id": "29296cfc7e",
+      "title": "Procolored to Launch Four-Day Black Friday Mega Sale Across Products and Bundles on November 27",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX09QWkRqMUpvbXN5aUxreDV0dmp4UWRYUmo1dnZ3NngtdkVjUXlPUFhfZVJEeFo3czJ6ODVpNG1PUEJ1N3k4UENueWEzcEQ0YUhfX2dDc282WXdkbjhVWERZcVEwZWh1ampQRjNHdGlBZ0ZCT21kbGdYN1dXSEh2cFpTX2FXel82Q3hzWGd6cm1xRnczZ0I2aW40Tm5Fc2xralNkbmJIOUh4NHBzWS1UZC1udUVqYXpsOEplQTROLWRFYWVPelRQOGtVSWhGRkFrZlZoRlpsYzhIaEI5ZXI5bg?oc=5",
+      "media": "StreetInsider",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
       "category": "product_news",
+      "brands": [
+        "Procolored"
+      ],
+      "published": "2026-11-27T06:23:35+00:00",
+      "summary": "Procolored to Launch Four-Day Black Friday Mega Sale Across Products and Bundles on November 27 &nbsp;&nbsp; StreetInsider"
+    },
+    {
+      "id": "2d1f001d8e",
+      "title": "Best Black Friday 3D printer deals for beginners in 2026, chosen by an expert",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1RSVEttUURCUm1nWHNlNVVYSnVKTGFaazg0MUltRE5vaThvQkUxUVdXNVYteEpyRnNZTlRTa0FjUGo5aGdQcXFkUjRraWpJZEpMUWN5Nmo2bk1JMEFVeFVrdWpsZ21RZ1ZEODdQZ3FqLTdzUi0zdG56TTZ6SEhGd3RYTGxMb0luRDY0dWpkWHBZbXh4Wk53QXhMbEtmWUotX285OXZ2Yl9qbWlhZUkyZVlMNA?oc=5",
+      "media": "GamesRadar+",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Anycubic"
+      ],
+      "published": "2026-11-27T14:44:55+00:00",
+      "summary": "Best Black Friday 3D printer deals for beginners in 2026, chosen by an expert &nbsp;&nbsp; GamesRadar+"
+    },
+    {
+      "id": "bcf390c7a4",
+      "title": "Black Friday 3D Printer Deals for Beginners (2026)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRG9qQTlVcHpXVEhOQ09PZVhtQlRhYTBvajRKQ0NoOFNOZ1kwUTkyQmtGMl9ZX2t6Zlppb1JaaTh5ZXVEc09NVHlXS3lFZUxRSjVvVjUxOGdpejFiX3R3UG9vYXYxNXNiVE12UUN2ZF91TDZaUkRoTGV5R2hqQlBfRdIBhgFBVV95cUxPVlZrUC10TnRQWFVMMDBKZ1QyQXdjNXhiQ3liellEM1hGNXZwdG5tal92VnFDalZSaHRORkpTbkRpWV82cUlST1ljcTJVZnItOUFIX0xEY3RHWk42ZTNHSEQzeWxObk9mMXdpVS00R0J6b1NhdHk2NVU2TDYwTnR1b0tPOTJFZw?oc=5",
+      "media": "Gagadget.com",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Anycubic"
+      ],
+      "published": "2026-11-27T13:48:14+00:00",
+      "summary": "Black Friday 3D Printer Deals for Beginners (2026) &nbsp;&nbsp; Gagadget.com"
+    },
+    {
+      "id": "3e166caff5",
+      "title": "Black Friday 3D printer deals include $100 off Creality’s K2 Combo and Flashforge from $236",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0djcjRKaE1QcDNPLXhGZ05Ya0ctdk9fcXROTHRxUjgtVnNocGZCOEgwVkxnVURwMnVqcU5hQ1BPZ005UTBCcU1DXzhSdk5acmtQblFWOUhtMnIycmdnY0R2SWt5bkZ2Y2xIQ3VRMVd5NjYwRHZUM1FRZFNoWTZuREF2VDVGX2pT?oc=5",
+      "media": "MIXED News",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
       "brands": [
         "Creality"
       ],
-      "published": "2026-11-26T19:30:00+00:00",
-      "summary": "Black Friday is the perfect time to pick up a new 3D Printer — these are the best deals we've spotted so far &nbsp;&nbsp; Tom's Hardware"
+      "published": "2026-11-27T18:03:31+00:00",
+      "summary": "Black Friday 3D printer deals include $100 off Creality’s K2 Combo and Flashforge from $236 &nbsp;&nbsp; MIXED News"
+    },
+    {
+      "id": "34b7299112",
+      "title": "Crafters, This Cricut Machine Is a Game-Changer and It Just Hit Its Lowest Price Ever",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeW9PN0dtVFRCaVlvZ3dYQUZadG1TNjdlQ0NiWHRfWEtsWm1CbkxaeGU2RTFpdGpkM2JJN3otSHVsTWtPNmNNcjZUT3ZoRjV5V2E0bUNmNHFFejN3YW1RSjVjUUlrY3ZQQktqc0J2eVd2UDBKYXBCOHRrSHdueGt3Ykx1OFFIOU5pdVNOVGpPNWtuQ0RqcFBaZEFxMA?oc=5",
+      "media": "Yahoo",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-27T00:02:00+00:00",
+      "summary": "Crafters, This Cricut Machine Is a Game-Changer and It Just Hit Its Lowest Price Ever &nbsp;&nbsp; Yahoo"
+    },
+    {
+      "id": "55d68236ce",
+      "title": "Cricut Black Friday and Cyber Monday Deals 2026: Which Cricut Machine to Buy",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR2c3MG9DM1ZjY1dUQmp3cm8zVXBXY1VCaGU3RmJLcmxaLUZwTU16b0hLdzh1cGREeHZoX005SzNUOXFfNmduN2xubkVjZWNUUnBGTk03SWNUcjhmSThrbVhiN2dpckxnaUU1TlQ1ZE8zYTJaWi1qQXp1UDQyVURkcC1n?oc=5",
+      "media": "The Art Insider",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-27T21:31:37+00:00",
+      "summary": "Cricut Black Friday and Cyber Monday Deals 2026: Which Cricut Machine to Buy &nbsp;&nbsp; The Art Insider"
     },
     {
       "id": "994539ef88",
