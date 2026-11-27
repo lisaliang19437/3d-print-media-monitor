@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-27",
+  "updated_at": "2026-11-27 00:07 UTC",
+  "stats": {
+    "total": 10,
+    "total_reach_display": "19.8M",
+    "brands_hit": 5,
+    "brands_total": 10,
+    "media_count": 10
+  },
+  "brand_counts": {
+    "eufyMake": 0,
+    "Bambu Lab": 5,
+    "xTool": 2,
+    "Procolored": 0,
+    "Anycubic": 0,
+    "Formlabs": 1,
+    "Longer": 0,
+    "Elegoo": 0,
+    "Creality": 1,
+    "Cricut": 1
+  },
+  "articles": [
+    {
+      "id": "7aa63cd3fa",
+      "title": "Hurry! There's up to $3,467 off xTool laser cutters and laser engravers",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVdKakxMOGZveHpqOHNhb0ljZWJSUG9XQWJOY2NXZFhvUzR3UC1YRUJrTDFseUtHMnlTNnA5NWRHd252Um5Pb3BGWXY2YzB3dnB0VjF0WThmNlhnSnhhUHFhOVRmcjNHckNEbUdvS3otU3hpRzhlemt6aFl1NDA2aHFCN2xETWF0VTRPbGFDUUN4d2R5VldHWTRCNFU1TkhHVFE0YXhWVUVIRkpMVGphampaOUIyUVNoVDk2YVRn?oc=5",
+      "media": "Tom's Guide",
+      "uvpm": 15000000,
+      "uvpm_display": "15.0M",
+      "tier": 1,
+      "category": "brand_news",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-11-26T13:45:21+00:00",
+      "summary": "Hurry! There's up to $3,467 off xTool laser cutters and laser engravers &nbsp;&nbsp; Tom's Guide"
+    },
+    {
+      "id": "fafae0a7e4",
+      "title": "The Bambu-ification of 3D Scanning Is Here: Bambu Lab’s S1 Costs $1,699",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzJqYXJVRDdhR3lKWVZqQklIUjdTSWhrX0tWemNza2RYaHBMWDNHeVFYZVpmS05uN2I5SmVHTjd0b3U0MzVVYXpIekpZaTFpMTVwcVFxOThrYVRaVk1jdDNXTUhVU3QyVkNfV0RfYWt6VWlYbGxYTjAyNGk1WVdrY0pDVjUzN2JzVDZUQ2R2aU9OV0U?oc=5",
+      "media": "All3DP",
+      "uvpm": 1800000,
+      "uvpm_display": "1.8M",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-26T15:37:37+00:00",
+      "summary": "The Bambu-ification of 3D Scanning Is Here: Bambu Lab’s S1 Costs $1,699 &nbsp;&nbsp; All3DP"
+    },
+    {
+      "id": "aeea7d0ffd",
+      "title": "OctoPrint 2.0.0 Adds Plugin Route to Bambu Lab Printers After Years of Serial-Only Connections",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbE54NGtEeTNvdXhudkVLdGZKMnlnMmdETVRhQkRiOGdScjVtXzFOMUtPa2k4WjM3VWtOdl9Vb0x0VllDQXJkNEhuMjd1cGtmUElnLWc3dllIaDUtdU5jNmhDSGRxVHJVem94TUlhQm0xeV9rTHlCZDBpSkphSFoxd0tSTi1KSWZ0VE1kUUY3eDItTUlmRmRCbG1BekU1OWJmaWtfOHZDVzE5dmwtcmV4czhxRlFGVzAtdGV6cUpaZnVEZjAtQnRNTzE5elAwZ3NBYnR3cA?oc=5",
+      "media": "3D Printing Industry",
+      "uvpm": 850000,
+      "uvpm_display": "850K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-26T11:43:21+00:00",
+      "summary": "OctoPrint 2.0.0 Adds Plugin Route to Bambu Lab Printers After Years of Serial-Only Connections &nbsp;&nbsp; 3D Printing Industry"
+    },
+    {
+      "id": "f798778522",
+      "title": "Bambu Lab S1: Wireless 3D scanner with touchscreen and 34 laser lines aims at beginners",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUGRDYlNfYThTXy15a1FxbWVMeGwtNzBKU3ZfLUpnSFpyT0JIMXBXcjJOMWpPSzA4S25TTjNQMFdXRlllN3JFalJmMGNNYkR3bF9rRnpKU082TE9STGR0UzJSdHhEMTRwclpyU0xaTHJJRnk3OTRGYWNadGtwazNHSS1zRV9ESGpEcXNfVlVMRDVEX3pJaFlTZE43R3VjcEMtNW9MQnJhSVRXX2phcU9fcXFPM3lpUnMyLXNZdV9jTUtJV3VUeGliZUY3Yw?oc=5",
+      "media": "Notebookcheck",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-26T14:49:00+00:00",
+      "summary": "Bambu Lab S1: Wireless 3D scanner with touchscreen and 34 laser lines aims at beginners &nbsp;&nbsp; Notebookcheck"
+    },
+    {
+      "id": "e2f2adc17e",
+      "title": "Bambu Lab S1 Handheld 3D Scanner Goes on Sale at $1,699",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMW1kcW8zcTkzOWt1ZlNkV21vSXk5aDVuRnNjODZyMWxIclpRaUt1bElEMWxISlM3N015SXFZZ21oYm4tdmw5TGN5eXdDcEQ4WngxcUNoMmFxcnlSNmswS3NBVDBMeWNUZ2VPbXJJU3FlWXlvNEpwZ0VUMEM3YzJZQnJWa1NQOUZXOE1z?oc=5",
+      "media": "https://3dprinting.com/",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-26T16:27:07+00:00",
+      "summary": "Bambu Lab S1 Handheld 3D Scanner Goes on Sale at $1,699 &nbsp;&nbsp; https://3dprinting.com/"
+    },
+    {
+      "id": "89a13d3003",
+      "title": "Bambu Lab P3C: Flagship 3D Printing Speed For Under Half The Price?",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXBPVkQ5SndrajlSQmFLZnZwM05FeER4TkhJejdfWXIxZVJGMFRmTklnRVl6eXBUclNOUWJTOU52a0piNFpmRnFhVnA5MWl1WUVhbUNGRTNOdGRFRWFJRUV6SlpUVk41WHpJaEhhQmM3OERfbi03Q0JDNFJvbno5b3dsTHJuOEZwQTFtenZzYkZBeUJwdDdUN1VqbFRTUWtMa1E?oc=5",
+      "media": "Ubergizmo",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Bambu Lab"
+      ],
+      "published": "2026-11-26T16:00:05+00:00",
+      "summary": "Bambu Lab P3C: Flagship 3D Printing Speed For Under Half The Price? &nbsp;&nbsp; Ubergizmo"
+    },
+    {
+      "id": "d11a557ce0",
+      "title": "xTool's Black Friday deals: get creative with exclusive savings",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObC1KMk1HSVZxcFg0UXA5TUMtTjhfMzdfZDRyRHNIR01uZElzdlo1RFVGOVZveHRIVV9wVnM1ZUpISXpqdEFzNUxiT0Z5X1h6aEdYTS1mNHJDRDR5OVNmSDZRaEhWc1hyUXhrQ1FWd21PVXlnS1BpN2ltTlNhUFVjTTBnVWtReEdiWWZaOHdzOGhPN3hzcU83QjZWQTVPOEhpeDVGejViNDk2cHA4SG1QMjlsWWROT0xv?oc=5",
+      "media": "PR Newswire",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "xTool"
+      ],
+      "published": "2026-11-26T17:42:00+00:00",
+      "summary": "xTool's Black Friday deals: get creative with exclusive savings &nbsp;&nbsp; PR Newswire"
+    },
+    {
+      "id": "6eeef4dcf9",
+      "title": "Professional 3D Printing Solutions for Drone Manufacturing",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbXdRWFZiTm9yV0ZFcDd0cVdTUEVqQnJPdHA1ZFplb0s4NFdMSUZfTEJEUzhIVGYxY2xvcFpxZlB3V09lclZENGRMQVBRMUFZdFRPYlFzS2I4RFplZHM2VTFMRmw5YnkxenJKZmpRWnZxa0JfUnJSSFFuWW12R01yY2RtZlcxQ21uNEZtTE16MUlQd1lHblpORHhJdG9RMWhfWkY4bXNXZVcwQklZNlE?oc=5",
+      "media": "Unmanned Systems Technology",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "brand_news",
+      "brands": [
+        "Formlabs"
+      ],
+      "published": "2026-11-26T02:44:34+00:00",
+      "summary": "Professional 3D Printing Solutions for Drone Manufacturing &nbsp;&nbsp; Unmanned Systems Technology"
+    },
+    {
+      "id": "610a9a39a8",
+      "title": "Black Friday is the perfect time to pick up a new 3D Printer — these are the best deals we've spotted so far",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYWFTS1FMQUpTTUdfLXJIdDdNc1NPSm8taV91Nl9jYkRCeV9leGtMTGlxMmEyWXNHeHJWdWpXdlUzYl9kYVRVMXU1REhmX2JfckhicmV6a2hqZVpLVXRWLXJtSzlndFp0MmtuLUswMF9UVloxbkMzVWRfemxWZGtUSEY0d2FISy1NSlRoZ2M0clZWV1VnZnRzc0tvaTNMbEc1MHZWN2t0VTBjclFWN1A3d3dyWXpEWF9sRjg0aHVtREx3UHljUDBvOVk2TDJoZEp3cXdOY3lDb3hSbGJkbFVDcUJCUkMwMHlkRU9yWHhrQTdDQTA?oc=5",
+      "media": "Tom's Hardware",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Creality"
+      ],
+      "published": "2026-11-26T19:30:00+00:00",
+      "summary": "Black Friday is the perfect time to pick up a new 3D Printer — these are the best deals we've spotted so far &nbsp;&nbsp; Tom's Hardware"
+    },
+    {
+      "id": "994539ef88",
+      "title": "Crafters, This Cricut Machine Is a Game-Changer and It Just Hit Its Lowest Price Ever",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaThwWnFHbWc0LXQxWjNpNjBaOGlYZ2Vhd0ppRFhkU2JwODVfemFCQzgyTUFkTks3dEM2SkpidV92b2FKMEd6Si1RTVdHR1pmcDJjaDZEd0JodXYwTXVLX241cUp5TXZyeWZRTk9aY2wyd2tHbTBGRWFRNlI1MnRHUFE2LUsyQkpDM1ZtejNMZ3dHMWxQZ0hSTDdJcmNDd2J0VFE?oc=5",
+      "media": "Good Housekeeping",
+      "uvpm": 300000,
+      "uvpm_display": "300K",
+      "tier": 2,
+      "category": "product_news",
+      "brands": [
+        "Cricut"
+      ],
+      "published": "2026-11-27T00:02:00+00:00",
+      "summary": "Crafters, This Cricut Machine Is a Game-Changer and It Just Hit Its Lowest Price Ever &nbsp;&nbsp; Good Housekeeping"
+    }
+  ]
+}
